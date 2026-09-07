@@ -1,0 +1,5573 @@
+codigo_ibge,municipio,uf,ng_nbr5419_2026
+1100015,"Alta Floresta D'Oeste",RO,16
+1100023,"Ariquemes",RO,14
+1100031,"Cabixi",RO,14
+1100049,"Cacoal",RO,12
+1100056,"Cerejeiras",RO,18
+1100064,"Colorado do Oeste",RO,16
+1100072,"Corumbiara",RO,16
+1100080,"Costa Marques",RO,14
+1100098,"Espigão D'Oeste",RO,12
+1100106,"Guajará-Mirim",RO,18
+1100114,"Jaru",RO,14
+1100122,"Ji-Paraná",RO,16
+1100130,"Machadinho D'Oeste",RO,22
+1100148,"Nova Brasilândia D'Oeste",RO,14
+1100155,"Ouro Preto do Oeste",RO,16
+1100189,"Pimenta Bueno",RO,14
+1100205,"Porto Velho",RO,18
+1100254,"Presidente Médici",RO,16
+1100262,"Rio Crespo",RO,14
+1100288,"Rolim de Moura",RO,14
+1100296,"Santa Luzia D'Oeste",RO,16
+1100304,"Vilhena",RO,16
+1100320,"São Miguel do Guaporé",RO,16
+1100338,"Nova Mamoré",RO,18
+1100346,"Alvorada D'Oeste",RO,16
+1100379,"Alto Alegre dos Parecis",RO,16
+1100403,"Alto Paraíso",RO,16
+1100452,"Buritis",RO,18
+1100502,"Novo Horizonte do Oeste",RO,14
+1100601,"Cacaulândia",RO,12
+1100700,"Campo Novo de Rondônia",RO,16
+1100809,"Candeias do Jamari",RO,18
+1100908,"Castanheiras",RO,14
+1100924,"Chupinguaia",RO,16
+1100940,"Cujubim",RO,16
+1101005,"Governador Jorge Teixeira",RO,14
+1101104,"Itapuã do Oeste",RO,16
+1101203,"Ministro Andreazza",RO,14
+1101302,"Mirante da Serra",RO,16
+1101401,"Monte Negro",RO,14
+1101435,"Nova União",RO,14
+1101450,"Parecis",RO,14
+1101468,"Pimenteiras do Oeste",RO,16
+1101476,"Primavera de Rondônia",RO,12
+1101484,"São Felipe D'Oeste",RO,12
+1101492,"São Francisco do Guaporé",RO,16
+1101500,"Seringueiras",RO,14
+1101559,"Teixeirópolis",RO,16
+1101609,"Theobroma",RO,14
+1101708,"Urupá",RO,16
+1101757,"Vale do Anari",RO,14
+1101807,"Vale do Paraíso",RO,14
+1200013,"Acrelândia",AC,14
+1200054,"Assis Brasil",AC,14
+1200104,"Brasiléia",AC,14
+1200138,"Bujari",AC,14
+1200179,"Capixaba",AC,10
+1200203,"Cruzeiro do Sul",AC,14
+1200252,"Epitaciolândia",AC,12
+1200302,"Feijó",AC,16
+1200328,"Jordão",AC,10
+1200336,"Mâncio Lima",AC,14
+1200344,"Manoel Urbano",AC,14
+1200351,"Marechal Thaumaturgo",AC,12
+1200385,"Plácido de Castro",AC,14
+1200393,"Porto Walter",AC,12
+1200401,"Rio Branco",AC,14
+1200427,"Rodrigues Alves",AC,14
+1200435,"Santa Rosa do Purus",AC,12
+1200450,"Senador Guiomard",AC,14
+1200500,"Sena Madureira",AC,14
+1200609,"Tarauacá",AC,14
+1200708,"Xapuri",AC,12
+1200807,"Porto Acre",AC,14
+1300029,"Alvarães",AM,20
+1300060,"Amaturá",AM,18
+1300086,"Anamã",AM,22
+1300102,"Anori",AM,28
+1300144,"Apuí",AM,24
+1300201,"Atalaia do Norte",AM,20
+1300300,"Autazes",AM,22
+1300409,"Barcelos",AM,20
+1300508,"Barreirinha",AM,20
+1300607,"Benjamin Constant",AM,18
+1300631,"Beruri",AM,30
+1300680,"Boa Vista do Ramos",AM,20
+1300706,"Boca do Acre",AM,16
+1300805,"Borba",AM,26
+1300839,"Caapiranga",AM,24
+1300904,"Canutama",AM,18
+1301001,"Carauari",AM,20
+1301100,"Careiro",AM,26
+1301159,"Careiro da Várzea",AM,24
+1301209,"Coari",AM,24
+1301308,"Codajás",AM,28
+1301407,"Eirunepé",AM,14
+1301506,"Envira",AM,16
+1301605,"Fonte Boa",AM,18
+1301654,"Guajará",AM,16
+1301704,"Humaitá",AM,22
+1301803,"Ipixuna",AM,14
+1301852,"Iranduba",AM,28
+1301902,"Itacoatiara",AM,24
+1301951,"Itamarati",AM,16
+1302009,"Itapiranga",AM,14
+1302108,"Japurá",AM,20
+1302207,"Juruá",AM,20
+1302306,"Jutaí",AM,16
+1302405,"Lábrea",AM,16
+1302504,"Manacapuru",AM,26
+1302553,"Manaquiri",AM,28
+1302603,"Manaus",AM,32
+1302702,"Manicoré",AM,24
+1302801,"Maraã",AM,22
+1302900,"Maués",AM,24
+1303007,"Nhamundá",AM,18
+1303106,"Nova Olinda do Norte",AM,22
+1303205,"Novo Airão",AM,28
+1303304,"Novo Aripuanã",AM,22
+1303403,"Parintins",AM,20
+1303502,"Pauini",AM,16
+1303536,"Presidente Figueiredo",AM,20
+1303569,"Rio Preto da Eva",AM,26
+1303601,"Santa Isabel do Rio Negro",AM,20
+1303700,"Santo Antônio do Içá",AM,20
+1303809,"São Gabriel da Cachoeira",AM,20
+1303908,"São Paulo de Olivença",AM,18
+1303957,"São Sebastião do Uatumã",AM,16
+1304005,"Silves",AM,16
+1304062,"Tabatinga",AM,16
+1304104,"Tapauá",AM,24
+1304203,"Tefé",AM,22
+1304237,"Tonantins",AM,20
+1304260,"Uarini",AM,22
+1304302,"Urucará",AM,14
+1304401,"Urucurituba",AM,18
+1400027,"Amajari",RR,12
+1400050,"Alto Alegre",RR,10
+1400100,"Boa Vista",RR,10
+1400159,"Bonfim",RR,10
+1400175,"Cantá",RR,10
+1400209,"Caracaraí",RR,20
+1400233,"Caroebe",RR,14
+1400282,"Iracema",RR,12
+1400308,"Mucajaí",RR,10
+1400407,"Normandia",RR,8
+1400456,"Pacaraima",RR,12
+1400472,"Rorainópolis",RR,20
+1400506,"São João da Baliza",RR,14
+1400605,"São Luiz",RR,14
+1400704,"Uiramutã",RR,8
+1500107,"Abaetetuba",PA,24
+1500131,"Abel Figueiredo",PA,14
+1500206,"Acará",PA,24
+1500305,"Afuá",PA,20
+1500347,"Água Azul do Norte",PA,20
+1500404,"Alenquer",PA,16
+1500503,"Almeirim",PA,14
+1500602,"Altamira",PA,24
+1500701,"Anajás",PA,26
+1500800,"Ananindeua",PA,24
+1500859,"Anapu",PA,12
+1500909,"Augusto Corrêa",PA,6
+1500958,"Aurora do Pará",PA,18
+1501006,"Aveiro",PA,18
+1501105,"Bagre",PA,18
+1501204,"Baião",PA,22
+1501253,"Bannach",PA,26
+1501303,"Barcarena",PA,24
+1501402,"Belém",PA,24
+1501451,"Belterra",PA,16
+1501501,"Benevides",PA,22
+1501576,"Bom Jesus do Tocantins",PA,14
+1501600,"Bonito",PA,14
+1501709,"Bragança",PA,10
+1501725,"Brasil Novo",PA,8
+1501758,"Brejo Grande do Araguaia",PA,12
+1501782,"Breu Branco",PA,14
+1501808,"Breves",PA,24
+1501907,"Bujaru",PA,24
+1501956,"Cachoeira do Piriá",PA,16
+1502004,"Cachoeira do Arari",PA,14
+1502103,"Cametá",PA,24
+1502152,"Canaã dos Carajás",PA,18
+1502202,"Capanema",PA,12
+1502301,"Capitão Poço",PA,16
+1502400,"Castanhal",PA,18
+1502509,"Chaves",PA,18
+1502608,"Colares",PA,14
+1502707,"Conceição do Araguaia",PA,24
+1502756,"Concórdia do Pará",PA,20
+1502764,"Cumaru do Norte",PA,28
+1502772,"Curionópolis",PA,14
+1502806,"Curralinho",PA,20
+1502855,"Curuá",PA,16
+1502905,"Curuçá",PA,10
+1502939,"Dom Eliseu",PA,12
+1502954,"Eldorado do Carajás",PA,14
+1503002,"Faro",PA,16
+1503044,"Floresta do Araguaia",PA,20
+1503077,"Garrafão do Norte",PA,16
+1503093,"Goianésia do Pará",PA,16
+1503101,"Gurupá",PA,16
+1503200,"Igarapé-Açu",PA,14
+1503309,"Igarapé-Miri",PA,24
+1503408,"Inhangapi",PA,20
+1503457,"Ipixuna do Pará",PA,18
+1503507,"Irituia",PA,14
+1503606,"Itaituba",PA,22
+1503705,"Itupiranga",PA,14
+1503754,"Jacareacanga",PA,26
+1503804,"Jacundá",PA,16
+1503903,"Juruti",PA,16
+1504000,"Limoeiro do Ajuru",PA,22
+1504059,"Mãe do Rio",PA,14
+1504109,"Magalhães Barata",PA,10
+1504208,"Marabá",PA,14
+1504307,"Maracanã",PA,12
+1504406,"Marapanim",PA,12
+1504422,"Marituba",PA,24
+1504455,"Medicilândia",PA,10
+1504505,"Melgaço",PA,20
+1504604,"Mocajuba",PA,22
+1504703,"Moju",PA,24
+1504752,"Mojuí dos Campos",PA,14
+1504802,"Monte Alegre",PA,10
+1504901,"Muaná",PA,24
+1504950,"Nova Esperança do Piriá",PA,16
+1504976,"Nova Ipixuna",PA,14
+1505007,"Nova Timboteua",PA,14
+1505031,"Novo Progresso",PA,30
+1505064,"Novo Repartimento",PA,16
+1505106,"Óbidos",PA,16
+1505205,"Oeiras do Pará",PA,22
+1505304,"Oriximiná",PA,20
+1505403,"Ourém",PA,12
+1505437,"Ourilândia do Norte",PA,28
+1505486,"Pacajá",PA,12
+1505494,"Palestina do Pará",PA,12
+1505502,"Paragominas",PA,16
+1505536,"Parauapebas",PA,18
+1505551,"Pau D'Arco",PA,20
+1505601,"Peixe-Boi",PA,12
+1505635,"Piçarra",PA,18
+1505650,"Placas",PA,16
+1505700,"Ponta de Pedras",PA,22
+1505809,"Portel",PA,16
+1505908,"Porto de Moz",PA,10
+1506005,"Prainha",PA,10
+1506104,"Primavera",PA,8
+1506112,"Quatipuru",PA,6
+1506138,"Redenção",PA,22
+1506161,"Rio Maria",PA,20
+1506187,"Rondon do Pará",PA,14
+1506195,"Rurópolis",PA,18
+1506203,"Salinópolis",PA,6
+1506302,"Salvaterra",PA,12
+1506351,"Santa Bárbara do Pará",PA,20
+1506401,"Santa Cruz do Arari",PA,14
+1506500,"Santa Izabel do Pará",PA,22
+1506559,"Santa Luzia do Pará",PA,14
+1506583,"Santa Maria das Barreiras",PA,24
+1506609,"Santa Maria do Pará",PA,14
+1506708,"Santana do Araguaia",PA,24
+1506807,"Santarém",PA,16
+1506906,"Santarém Novo",PA,8
+1507003,"Santo Antônio do Tauá",PA,18
+1507102,"São Caetano de Odivelas",PA,14
+1507151,"São Domingos do Araguaia",PA,12
+1507201,"São Domingos do Capim",PA,18
+1507300,"São Félix do Xingu",PA,30
+1507409,"São Francisco do Pará",PA,16
+1507458,"São Geraldo do Araguaia",PA,16
+1507466,"São João da Ponta",PA,12
+1507474,"São João de Pirabas",PA,6
+1507508,"São João do Araguaia",PA,12
+1507607,"São Miguel do Guamá",PA,18
+1507706,"São Sebastião da Boa Vista",PA,24
+1507755,"Sapucaia",PA,12
+1507805,"Senador José Porfírio",PA,12
+1507904,"Soure",PA,8
+1507953,"Tailândia",PA,20
+1507961,"Terra Alta",PA,12
+1507979,"Terra Santa",PA,16
+1508001,"Tomé-Açu",PA,22
+1508035,"Tracuateua",PA,12
+1508050,"Trairão",PA,18
+1508084,"Tucumã",PA,24
+1508100,"Tucuruí",PA,14
+1508126,"Ulianópolis",PA,10
+1508159,"Uruará",PA,12
+1508209,"Vigia",PA,16
+1508308,"Viseu",PA,16
+1508357,"Vitória do Xingu",PA,12
+1508407,"Xinguara",PA,18
+1600055,"Serra do Navio",AP,10
+1600105,"Amapá",AP,4
+1600154,"Pedra Branca do Amapari",AP,10
+1600204,"Calçoene",AP,6
+1600212,"Cutias",AP,4
+1600238,"Ferreira Gomes",AP,8
+1600253,"Itaubal",AP,4
+1600279,"Laranjal do Jari",AP,12
+1600303,"Macapá",AP,6
+1600402,"Mazagão",AP,12
+1600501,"Oiapoque",AP,6
+1600535,"Porto Grande",AP,12
+1600550,"Pracuúba",AP,6
+1600600,"Santana",AP,8
+1600709,"Tartarugalzinho",AP,8
+1600808,"Vitória do Jari",AP,12
+1700251,"Abreulândia",TO,28
+1700301,"Aguiarnópolis",TO,12
+1700350,"Aliança do Tocantins",TO,22
+1700400,"Almas",TO,26
+1700707,"Alvorada",TO,20
+1701002,"Ananás",TO,14
+1701051,"Angico",TO,14
+1701101,"Aparecida do Rio Negro",TO,22
+1701309,"Aragominas",TO,18
+1701903,"Araguacema",TO,24
+1702000,"Araguaçu",TO,18
+1702109,"Araguaína",TO,20
+1702158,"Araguanã",TO,18
+1702208,"Araguatins",TO,14
+1702307,"Arapoema",TO,22
+1702406,"Arraias",TO,14
+1702554,"Augustinópolis",TO,14
+1702703,"Aurora do Tocantins",TO,18
+1702901,"Axixá do Tocantins",TO,12
+1703008,"Babaçulândia",TO,18
+1703057,"Bandeirantes do Tocantins",TO,22
+1703073,"Barra do Ouro",TO,14
+1703107,"Barrolândia",TO,26
+1703206,"Bernardo Sayão",TO,22
+1703305,"Bom Jesus do Tocantins",TO,22
+1703602,"Brasilândia do Tocantins",TO,22
+1703701,"Brejinho de Nazaré",TO,24
+1703800,"Buriti do Tocantins",TO,14
+1703826,"Cachoeirinha",TO,10
+1703842,"Campos Lindos",TO,20
+1703867,"Cariri do Tocantins",TO,22
+1703883,"Carmolândia",TO,16
+1703891,"Carrasco Bonito",TO,14
+1703909,"Caseara",TO,24
+1704105,"Centenário",TO,22
+1704600,"Chapada de Areia",TO,22
+1705102,"Chapada da Natividade",TO,22
+1705508,"Colinas do Tocantins",TO,22
+1705557,"Combinado",TO,14
+1705607,"Conceição do Tocantins",TO,22
+1706001,"Couto Magalhães",TO,24
+1706100,"Cristalândia",TO,22
+1706258,"Crixás do Tocantins",TO,28
+1706506,"Darcinópolis",TO,16
+1707009,"Dianópolis",TO,26
+1707108,"Divinópolis do Tocantins",TO,28
+1707207,"Dois Irmãos do Tocantins",TO,28
+1707306,"Dueré",TO,24
+1707405,"Esperantina",TO,14
+1707553,"Fátima",TO,24
+1707652,"Figueirópolis",TO,24
+1707702,"Filadélfia",TO,18
+1708205,"Formoso do Araguaia",TO,20
+1708254,"Tabocão",TO,22
+1708304,"Goianorte",TO,24
+1709005,"Goiatins",TO,22
+1709302,"Guaraí",TO,22
+1709500,"Gurupi",TO,22
+1709807,"Ipueiras",TO,22
+1710508,"Itacajá",TO,22
+1710706,"Itaguatins",TO,14
+1710904,"Itapiratins",TO,22
+1711100,"Itaporã do Tocantins",TO,22
+1711506,"Jaú do Tocantins",TO,18
+1711803,"Juarina",TO,22
+1711902,"Lagoa da Confusão",TO,24
+1711951,"Lagoa do Tocantins",TO,22
+1712009,"Lajeado",TO,22
+1712157,"Lavandeira",TO,16
+1712405,"Lizarda",TO,22
+1712454,"Luzinópolis",TO,10
+1712504,"Marianópolis do Tocantins",TO,26
+1712702,"Mateiros",TO,24
+1712801,"Maurilândia do Tocantins",TO,14
+1713205,"Miracema do Tocantins",TO,24
+1713304,"Miranorte",TO,24
+1713601,"Monte do Carmo",TO,26
+1713700,"Monte Santo do Tocantins",TO,24
+1713809,"Palmeiras do Tocantins",TO,12
+1713957,"Muricilândia",TO,18
+1714203,"Natividade",TO,22
+1714302,"Nazaré",TO,10
+1714880,"Nova Olinda",TO,16
+1715002,"Nova Rosalândia",TO,24
+1715101,"Novo Acordo",TO,20
+1715150,"Novo Alegre",TO,14
+1715259,"Novo Jardim",TO,26
+1715507,"Oliveira de Fátima",TO,24
+1715705,"Palmeirante",TO,20
+1715754,"Palmeirópolis",TO,16
+1716109,"Paraíso do Tocantins",TO,24
+1716208,"Paranã",TO,16
+1716307,"Pau D'Arco",TO,22
+1716505,"Pedro Afonso",TO,20
+1716604,"Peixe",TO,22
+1716653,"Pequizeiro",TO,24
+1716703,"Colméia",TO,24
+1717008,"Pindorama do Tocantins",TO,24
+1717206,"Piraquê",TO,16
+1717503,"Pium",TO,22
+1717800,"Ponte Alta do Bom Jesus",TO,24
+1717909,"Ponte Alta do Tocantins",TO,24
+1718006,"Porto Alegre do Tocantins",TO,26
+1718204,"Porto Nacional",TO,26
+1718303,"Praia Norte",TO,12
+1718402,"Presidente Kennedy",TO,22
+1718451,"Pugmil",TO,24
+1718501,"Recursolândia",TO,22
+1718550,"Riachinho",TO,14
+1718659,"Rio da Conceição",TO,26
+1718709,"Rio dos Bois",TO,22
+1718758,"Rio Sono",TO,20
+1718808,"Sampaio",TO,14
+1718840,"Sandolândia",TO,16
+1718865,"Santa Fé do Araguaia",TO,16
+1718881,"Santa Maria do Tocantins",TO,22
+1718899,"Santa Rita do Tocantins",TO,28
+1718907,"Santa Rosa do Tocantins",TO,22
+1719004,"Santa Tereza do Tocantins",TO,20
+1720002,"Santa Terezinha do Tocantins",TO,12
+1720101,"São Bento do Tocantins",TO,10
+1720150,"São Félix do Tocantins",TO,20
+1720200,"São Miguel do Tocantins",TO,14
+1720259,"São Salvador do Tocantins",TO,16
+1720309,"São Sebastião do Tocantins",TO,14
+1720499,"São Valério",TO,18
+1720655,"Silvanópolis",TO,22
+1720804,"Sítio Novo do Tocantins",TO,14
+1720853,"Sucupira",TO,24
+1720903,"Taguatinga",TO,18
+1720937,"Taipas do Tocantins",TO,24
+1720978,"Talismã",TO,18
+1721000,"Palmas",TO,26
+1721109,"Tocantínia",TO,22
+1721208,"Tocantinópolis",TO,12
+1721257,"Tupirama",TO,16
+1721307,"Tupiratins",TO,20
+1722081,"Wanderlândia",TO,16
+1722107,"Xambioá",TO,16
+2100055,"Açailândia",MA,12
+2100105,"Afonso Cunha",MA,12
+2100154,"Água Doce do Maranhão",MA,4
+2100204,"Alcântara",MA,8
+2100303,"Aldeias Altas",MA,12
+2100402,"Altamira do Maranhão",MA,12
+2100436,"Alto Alegre do Maranhão",MA,14
+2100477,"Alto Alegre do Pindaré",MA,12
+2100501,"Alto Parnaíba",MA,20
+2100550,"Amapá do Maranhão",MA,6
+2100600,"Amarante do Maranhão",MA,10
+2100709,"Anajatuba",MA,18
+2100808,"Anapurus",MA,14
+2100832,"Apicum-Açu",MA,2
+2100873,"Araguanã",MA,12
+2100907,"Araioses",MA,6
+2100956,"Arame",MA,8
+2101004,"Arari",MA,18
+2101103,"Axixá",MA,12
+2101202,"Bacabal",MA,16
+2101251,"Bacabeira",MA,16
+2101301,"Bacuri",MA,4
+2101350,"Bacurituba",MA,12
+2101400,"Balsas",MA,22
+2101509,"Barão de Grajaú",MA,10
+2101608,"Barra do Corda",MA,8
+2101707,"Barreirinhas",MA,8
+2101731,"Belágua",MA,6
+2101772,"Bela Vista do Maranhão",MA,12
+2101806,"Benedito Leite",MA,12
+2101905,"Bequimão",MA,8
+2101939,"Bernardo do Mearim",MA,12
+2101970,"Boa Vista do Gurupi",MA,10
+2102002,"Bom Jardim",MA,12
+2102036,"Bom Jesus das Selvas",MA,6
+2102077,"Bom Lugar",MA,16
+2102101,"Brejo",MA,20
+2102150,"Brejo de Areia",MA,10
+2102200,"Buriti",MA,20
+2102309,"Buriti Bravo",MA,8
+2102325,"Buriticupu",MA,10
+2102358,"Buritirana",MA,12
+2102374,"Cachoeira Grande",MA,12
+2102408,"Cajapió",MA,18
+2102507,"Cajari",MA,16
+2102556,"Campestre do Maranhão",MA,12
+2102606,"Cândido Mendes",MA,6
+2102705,"Cantanhede",MA,16
+2102754,"Capinzal do Norte",MA,14
+2102804,"Carolina",MA,18
+2102903,"Carutapera",MA,6
+2103000,"Caxias",MA,14
+2103109,"Cedral",MA,2
+2103125,"Central do Maranhão",MA,4
+2103158,"Centro do Guilherme",MA,14
+2103174,"Centro Novo do Maranhão",MA,16
+2103208,"Chapadinha",MA,14
+2103257,"Cidelândia",MA,14
+2103307,"Codó",MA,14
+2103406,"Coelho Neto",MA,16
+2103505,"Colinas",MA,8
+2103554,"Conceição do Lago-Açu",MA,16
+2103604,"Coroatá",MA,14
+2103703,"Cururupu",MA,2
+2103752,"Davinópolis",MA,12
+2103802,"Dom Pedro",MA,10
+2103901,"Duque Bacelar",MA,18
+2104008,"Esperantinópolis",MA,10
+2104057,"Estreito",MA,16
+2104073,"Feira Nova do Maranhão",MA,14
+2104081,"Fernando Falcão",MA,8
+2104099,"Formosa da Serra Negra",MA,10
+2104107,"Fortaleza dos Nogueiras",MA,10
+2104206,"Fortuna",MA,10
+2104305,"Godofredo Viana",MA,4
+2104404,"Gonçalves Dias",MA,12
+2104503,"Governador Archer",MA,12
+2104552,"Governador Edison Lobão",MA,14
+2104602,"Governador Eugênio Barros",MA,10
+2104628,"Governador Luiz Rocha",MA,10
+2104651,"Governador Newton Bello",MA,12
+2104677,"Governador Nunes Freire",MA,8
+2104701,"Graça Aranha",MA,8
+2104800,"Grajaú",MA,8
+2104909,"Guimarães",MA,2
+2105005,"Humberto de Campos",MA,6
+2105104,"Icatu",MA,10
+2105153,"Igarapé do Meio",MA,16
+2105203,"Igarapé Grande",MA,14
+2105302,"Imperatriz",MA,14
+2105351,"Itaipava do Grajaú",MA,6
+2105401,"Itapecuru Mirim",MA,18
+2105427,"Itinga do Maranhão",MA,10
+2105450,"Jatobá",MA,8
+2105476,"Jenipapo dos Vieiras",MA,6
+2105500,"João Lisboa",MA,12
+2105609,"Joselândia",MA,10
+2105658,"Junco do Maranhão",MA,10
+2105708,"Lago da Pedra",MA,14
+2105807,"Lago do Junco",MA,14
+2105906,"Lago Verde",MA,14
+2105922,"Lagoa do Mato",MA,8
+2105948,"Lago dos Rodrigues",MA,14
+2105963,"Lagoa Grande do Maranhão",MA,8
+2105989,"Lajeado Novo",MA,12
+2106003,"Lima Campos",MA,12
+2106102,"Loreto",MA,10
+2106201,"Luís Domingues",MA,4
+2106300,"Magalhães de Almeida",MA,10
+2106326,"Maracaçumé",MA,10
+2106359,"Marajá do Sena",MA,10
+2106375,"Maranhãozinho",MA,12
+2106409,"Mata Roma",MA,12
+2106508,"Matinha",MA,16
+2106607,"Matões",MA,10
+2106631,"Matões do Norte",MA,16
+2106672,"Milagres do Maranhão",MA,16
+2106706,"Mirador",MA,8
+2106755,"Miranda do Norte",MA,18
+2106805,"Mirinzal",MA,4
+2106904,"Monção",MA,16
+2107001,"Montes Altos",MA,14
+2107100,"Morros",MA,10
+2107209,"Nina Rodrigues",MA,10
+2107258,"Nova Colinas",MA,10
+2107308,"Nova Iorque",MA,10
+2107357,"Nova Olinda do Maranhão",MA,12
+2107407,"Olho d'Água das Cunhãs",MA,16
+2107456,"Olinda Nova do Maranhão",MA,14
+2107506,"Paço do Lumiar",MA,6
+2107605,"Palmeirândia",MA,10
+2107704,"Paraibano",MA,10
+2107803,"Parnarama",MA,10
+2107902,"Passagem Franca",MA,10
+2108009,"Pastos Bons",MA,10
+2108058,"Paulino Neves",MA,6
+2108108,"Paulo Ramos",MA,14
+2108207,"Pedreiras",MA,12
+2108256,"Pedro do Rosário",MA,12
+2108306,"Penalva",MA,14
+2108405,"Peri Mirim",MA,8
+2108454,"Peritoró",MA,14
+2108504,"Pindaré-Mirim",MA,14
+2108603,"Pinheiro",MA,10
+2108702,"Pio XII",MA,14
+2108801,"Pirapemas",MA,14
+2108900,"Poção de Pedras",MA,12
+2109007,"Porto Franco",MA,12
+2109056,"Porto Rico do Maranhão",MA,2
+2109106,"Presidente Dutra",MA,10
+2109205,"Presidente Juscelino",MA,12
+2109239,"Presidente Médici",MA,8
+2109270,"Presidente Sarney",MA,10
+2109304,"Presidente Vargas",MA,12
+2109403,"Primeira Cruz",MA,6
+2109452,"Raposa",MA,6
+2109502,"Riachão",MA,16
+2109551,"Ribamar Fiquene",MA,14
+2109601,"Rosário",MA,14
+2109700,"Sambaíba",MA,10
+2109759,"Santa Filomena do Maranhão",MA,8
+2109809,"Santa Helena",MA,10
+2109908,"Santa Inês",MA,12
+2110005,"Santa Luzia",MA,12
+2110039,"Santa Luzia do Paruá",MA,10
+2110104,"Santa Quitéria do Maranhão",MA,16
+2110203,"Santa Rita",MA,18
+2110237,"Santana do Maranhão",MA,12
+2110278,"Santo Amaro do Maranhão",MA,4
+2110302,"Santo Antônio dos Lopes",MA,12
+2110401,"São Benedito do Rio Preto",MA,10
+2110500,"São Bento",MA,12
+2110609,"São Bernardo",MA,12
+2110658,"São Domingos do Azeitão",MA,6
+2110708,"São Domingos do Maranhão",MA,8
+2110807,"São Félix de Balsas",MA,10
+2110856,"São Francisco do Brejão",MA,12
+2110906,"São Francisco do Maranhão",MA,8
+2111003,"São João Batista",MA,18
+2111029,"São João do Carú",MA,10
+2111052,"São João do Paraíso",MA,14
+2111078,"São João do Soter",MA,12
+2111102,"São João dos Patos",MA,10
+2111201,"São José de Ribamar",MA,8
+2111250,"São José dos Basílios",MA,10
+2111300,"São Luís",MA,12
+2111409,"São Luís Gonzaga do Maranhão",MA,14
+2111508,"São Mateus do Maranhão",MA,14
+2111532,"São Pedro da Água Branca",MA,14
+2111573,"São Pedro dos Crentes",MA,16
+2111607,"São Raimundo das Mangabeiras",MA,10
+2111631,"São Raimundo do Doca Bezerra",MA,6
+2111672,"São Roberto",MA,6
+2111706,"São Vicente Ferrer",MA,14
+2111722,"Satubinha",MA,14
+2111748,"Senador Alexandre Costa",MA,10
+2111763,"Senador La Rocque",MA,12
+2111789,"Serrano do Maranhão",MA,4
+2111805,"Sítio Novo",MA,10
+2111904,"Sucupira do Norte",MA,8
+2111953,"Sucupira do Riachão",MA,10
+2112001,"Tasso Fragoso",MA,14
+2112100,"Timbiras",MA,14
+2112209,"Timon",MA,10
+2112233,"Trizidela do Vale",MA,12
+2112274,"Tufilândia",MA,12
+2112308,"Tuntum",MA,8
+2112407,"Turiaçu",MA,6
+2112456,"Turilândia",MA,6
+2112506,"Tutóia",MA,8
+2112605,"Urbano Santos",MA,8
+2112704,"Vargem Grande",MA,12
+2112803,"Viana",MA,18
+2112852,"Vila Nova dos Martírios",MA,14
+2112902,"Vitória do Mearim",MA,16
+2113009,"Vitorino Freire",MA,16
+2114007,"Zé Doca",MA,12
+2200053,"Acauã",PI,4
+2200103,"Agricolândia",PI,10
+2200202,"Água Branca",PI,10
+2200251,"Alagoinha do Piauí",PI,6
+2200277,"Alegrete do Piauí",PI,4
+2200301,"Alto Longá",PI,14
+2200400,"Altos",PI,14
+2200459,"Alvorada do Gurguéia",PI,14
+2200509,"Amarante",PI,10
+2200608,"Angical do Piauí",PI,10
+2200707,"Anísio de Abreu",PI,6
+2200806,"Antônio Almeida",PI,8
+2200905,"Aroazes",PI,14
+2200954,"Aroeiras do Itaim",PI,12
+2201002,"Arraial",PI,10
+2201051,"Assunção do Piauí",PI,8
+2201101,"Avelino Lopes",PI,10
+2201150,"Baixa Grande do Ribeiro",PI,16
+2201176,"Barra D'Alcântara",PI,12
+2201200,"Barras",PI,22
+2201309,"Barreiras do Piauí",PI,18
+2201408,"Barro Duro",PI,12
+2201507,"Batalha",PI,22
+2201556,"Bela Vista do Piauí",PI,6
+2201572,"Belém do Piauí",PI,6
+2201606,"Beneditinos",PI,12
+2201705,"Bertolínia",PI,8
+2201739,"Betânia do Piauí",PI,4
+2201770,"Boa Hora",PI,16
+2201804,"Bocaina",PI,14
+2201903,"Bom Jesus",PI,12
+2201919,"Bom Princípio do Piauí",PI,8
+2201929,"Bonfim do Piauí",PI,6
+2201945,"Boqueirão do Piauí",PI,12
+2201960,"Brasileira",PI,16
+2201988,"Brejo do Piauí",PI,8
+2202000,"Buriti dos Lopes",PI,10
+2202026,"Buriti dos Montes",PI,8
+2202059,"Cabeceiras do Piauí",PI,14
+2202075,"Cajazeiras do Piauí",PI,10
+2202083,"Cajueiro da Praia",PI,6
+2202091,"Caldeirão Grande do Piauí",PI,6
+2202109,"Campinas do Piauí",PI,8
+2202117,"Campo Alegre do Fidalgo",PI,6
+2202133,"Campo Grande do Piauí",PI,8
+2202174,"Campo Largo do Piauí",PI,22
+2202208,"Campo Maior",PI,14
+2202251,"Canavieira",PI,8
+2202307,"Canto do Buriti",PI,10
+2202406,"Capitão de Campos",PI,12
+2202455,"Capitão Gervásio Oliveira",PI,6
+2202505,"Caracol",PI,8
+2202539,"Caraúbas do Piauí",PI,14
+2202554,"Caridade do Piauí",PI,6
+2202604,"Castelo do Piauí",PI,10
+2202653,"Caxingó",PI,12
+2202703,"Cocal",PI,14
+2202711,"Cocal de Telha",PI,12
+2202729,"Cocal dos Alves",PI,12
+2202737,"Coivaras",PI,14
+2202752,"Colônia do Gurguéia",PI,6
+2202778,"Colônia do Piauí",PI,10
+2202802,"Conceição do Canindé",PI,6
+2202851,"Coronel José Dias",PI,6
+2202901,"Corrente",PI,12
+2203008,"Cristalândia do Piauí",PI,12
+2203107,"Cristino Castro",PI,12
+2203206,"Curimatá",PI,12
+2203230,"Currais",PI,12
+2203255,"Curralinhos",PI,10
+2203271,"Curral Novo do Piauí",PI,4
+2203305,"Demerval Lobão",PI,12
+2203354,"Dirceu Arcoverde",PI,6
+2203404,"Dom Expedito Lopes",PI,14
+2203420,"Domingos Mourão",PI,10
+2203453,"Dom Inocêncio",PI,6
+2203503,"Elesbão Veloso",PI,14
+2203602,"Eliseu Martins",PI,8
+2203701,"Esperantina",PI,22
+2203750,"Fartura do Piauí",PI,6
+2203800,"Flores do Piauí",PI,8
+2203859,"Floresta do Piauí",PI,8
+2203909,"Floriano",PI,8
+2204006,"Francinópolis",PI,12
+2204105,"Francisco Ayres",PI,8
+2204154,"Francisco Macedo",PI,6
+2204204,"Francisco Santos",PI,10
+2204303,"Fronteiras",PI,4
+2204352,"Geminiano",PI,12
+2204402,"Gilbués",PI,18
+2204501,"Guadalupe",PI,10
+2204550,"Guaribas",PI,12
+2204600,"Hugo Napoleão",PI,10
+2204659,"Ilha Grande",PI,4
+2204709,"Inhuma",PI,16
+2204808,"Ipiranga do Piauí",PI,16
+2204907,"Isaías Coelho",PI,8
+2205003,"Itainópolis",PI,10
+2205102,"Itaueira",PI,8
+2205151,"Jacobina do Piauí",PI,6
+2205201,"Jaicós",PI,10
+2205250,"Jardim do Mulato",PI,10
+2205276,"Jatobá do Piauí",PI,14
+2205300,"Jerumenha",PI,8
+2205359,"João Costa",PI,8
+2205409,"Joaquim Pires",PI,14
+2205458,"Joca Marques",PI,14
+2205508,"José de Freitas",PI,12
+2205516,"Juazeiro do Piauí",PI,10
+2205524,"Júlio Borges",PI,12
+2205532,"Jurema",PI,8
+2205540,"Lagoinha do Piauí",PI,10
+2205557,"Lagoa Alegre",PI,14
+2205565,"Lagoa do Barro do Piauí",PI,6
+2205573,"Lagoa de São Francisco",PI,12
+2205581,"Lagoa do Piauí",PI,12
+2205599,"Lagoa do Sítio",PI,16
+2205607,"Landri Sales",PI,8
+2205706,"Luís Correia",PI,8
+2205805,"Luzilândia",PI,18
+2205854,"Madeiro",PI,16
+2205904,"Manoel Emídio",PI,12
+2205953,"Marcolândia",PI,6
+2206001,"Marcos Parente",PI,8
+2206050,"Massapê do Piauí",PI,8
+2206100,"Matias Olímpio",PI,20
+2206209,"Miguel Alves",PI,20
+2206308,"Miguel Leão",PI,10
+2206357,"Milton Brandão",PI,12
+2206407,"Monsenhor Gil",PI,12
+2206506,"Monsenhor Hipólito",PI,8
+2206605,"Monte Alegre do Piauí",PI,16
+2206654,"Morro Cabeça no Tempo",PI,12
+2206670,"Morro do Chapéu do Piauí",PI,20
+2206696,"Murici dos Portelas",PI,12
+2206704,"Nazaré do Piauí",PI,8
+2206720,"Nazária",PI,12
+2206753,"Nossa Senhora de Nazaré",PI,12
+2206803,"Nossa Senhora dos Remédios",PI,22
+2206902,"Novo Oriente do Piauí",PI,16
+2206951,"Novo Santo Antônio",PI,12
+2207009,"Oeiras",PI,14
+2207108,"Olho D'Água do Piauí",PI,12
+2207207,"Padre Marcos",PI,6
+2207306,"Paes Landim",PI,8
+2207355,"Pajeú do Piauí",PI,8
+2207405,"Palmeira do Piauí",PI,14
+2207504,"Palmeirais",PI,10
+2207553,"Paquetá",PI,14
+2207603,"Parnaguá",PI,12
+2207702,"Parnaíba",PI,4
+2207751,"Passagem Franca do Piauí",PI,12
+2207777,"Patos do Piauí",PI,8
+2207793,"Pau D'Arco do Piauí",PI,14
+2207801,"Paulistana",PI,6
+2207850,"Pavussu",PI,6
+2207900,"Pedro II",PI,12
+2207934,"Pedro Laurentino",PI,8
+2207959,"Nova Santa Rita",PI,6
+2208007,"Picos",PI,14
+2208106,"Pimenteiras",PI,14
+2208205,"Pio IX",PI,8
+2208304,"Piracuruca",PI,14
+2208403,"Piripiri",PI,16
+2208502,"Porto",PI,22
+2208551,"Porto Alegre do Piauí",PI,8
+2208601,"Prata do Piauí",PI,12
+2208650,"Queimada Nova",PI,4
+2208700,"Redenção do Gurguéia",PI,12
+2208809,"Regeneração",PI,10
+2208858,"Riacho Frio",PI,12
+2208874,"Ribeira do Piauí",PI,10
+2208908,"Ribeiro Gonçalves",PI,12
+2209005,"Rio Grande do Piauí",PI,6
+2209104,"Santa Cruz do Piauí",PI,14
+2209153,"Santa Cruz dos Milagres",PI,14
+2209203,"Santa Filomena",PI,20
+2209302,"Santa Luz",PI,12
+2209351,"Santana do Piauí",PI,14
+2209377,"Santa Rosa do Piauí",PI,12
+2209401,"Santo Antônio de Lisboa",PI,12
+2209450,"Santo Antônio dos Milagres",PI,10
+2209500,"Santo Inácio do Piauí",PI,10
+2209559,"São Braz do Piauí",PI,6
+2209609,"São Félix do Piauí",PI,14
+2209658,"São Francisco de Assis do Piauí",PI,6
+2209708,"São Francisco do Piauí",PI,8
+2209757,"São Gonçalo do Gurguéia",PI,16
+2209807,"São Gonçalo do Piauí",PI,10
+2209856,"São João da Canabrava",PI,16
+2209872,"São João da Fronteira",PI,10
+2209906,"São João da Serra",PI,10
+2209955,"São João da Varjota",PI,14
+2209971,"São João do Arraial",PI,20
+2210003,"São João do Piauí",PI,8
+2210052,"São José do Divino",PI,14
+2210102,"São José do Peixe",PI,8
+2210201,"São José do Piauí",PI,16
+2210300,"São Julião",PI,6
+2210359,"São Lourenço do Piauí",PI,6
+2210375,"São Luis do Piauí",PI,14
+2210383,"São Miguel da Baixa Grande",PI,14
+2210391,"São Miguel do Fidalgo",PI,8
+2210409,"São Miguel do Tapuio",PI,12
+2210508,"São Pedro do Piauí",PI,10
+2210607,"São Raimundo Nonato",PI,6
+2210623,"Sebastião Barros",PI,12
+2210631,"Sebastião Leal",PI,12
+2210656,"Sigefredo Pacheco",PI,12
+2210706,"Simões",PI,6
+2210805,"Simplício Mendes",PI,8
+2210904,"Socorro do Piauí",PI,10
+2210938,"Sussuapara",PI,14
+2210953,"Tamboril do Piauí",PI,8
+2210979,"Tanque do Piauí",PI,12
+2211001,"Teresina",PI,12
+2211100,"União",PI,14
+2211209,"Uruçuí",PI,14
+2211308,"Valença do Piauí",PI,16
+2211357,"Várzea Branca",PI,6
+2211407,"Várzea Grande",PI,12
+2211506,"Vera Mendes",PI,8
+2211605,"Vila Nova do Piauí",PI,6
+2211704,"Wall Ferraz",PI,12
+2300101,"Abaiara",CE,8
+2300150,"Acarape",CE,2
+2300200,"Acaraú",CE,4
+2300309,"Acopiara",CE,4
+2300408,"Aiuaba",CE,4
+2300507,"Alcântaras",CE,8
+2300606,"Altaneira",CE,4
+2300705,"Alto Santo",CE,6
+2300754,"Amontada",CE,4
+2300804,"Antonina do Norte",CE,4
+2300903,"Apuiarés",CE,4
+2301000,"Aquiraz",CE,2
+2301109,"Aracati",CE,4
+2301208,"Aracoiaba",CE,4
+2301257,"Ararendá",CE,4
+2301307,"Araripe",CE,4
+2301406,"Aratuba",CE,4
+2301505,"Arneiroz",CE,2
+2301604,"Assaré",CE,4
+2301703,"Aurora",CE,6
+2301802,"Baixio",CE,4
+2301851,"Banabuiú",CE,4
+2301901,"Barbalha",CE,6
+2301950,"Barreira",CE,2
+2302008,"Barro",CE,6
+2302057,"Barroquinha",CE,6
+2302107,"Baturité",CE,4
+2302206,"Beberibe",CE,4
+2302305,"Bela Cruz",CE,6
+2302404,"Boa Viagem",CE,4
+2302503,"Brejo Santo",CE,8
+2302602,"Camocim",CE,6
+2302701,"Campos Sales",CE,4
+2302800,"Canindé",CE,6
+2302909,"Capistrano",CE,4
+2303006,"Caridade",CE,4
+2303105,"Cariré",CE,8
+2303204,"Caririaçu",CE,6
+2303303,"Cariús",CE,6
+2303402,"Carnaubal",CE,6
+2303501,"Cascavel",CE,4
+2303600,"Catarina",CE,2
+2303659,"Catunda",CE,8
+2303709,"Caucaia",CE,2
+2303808,"Cedro",CE,8
+2303907,"Chaval",CE,6
+2303931,"Choró",CE,4
+2303956,"Chorozinho",CE,2
+2304004,"Coreaú",CE,8
+2304103,"Crateús",CE,6
+2304202,"Crato",CE,4
+2304236,"Croatá",CE,6
+2304251,"Cruz",CE,4
+2304269,"Deputado Irapuan Pinheiro",CE,4
+2304277,"Ereré",CE,6
+2304285,"Eusébio",CE,2
+2304301,"Farias Brito",CE,4
+2304350,"Forquilha",CE,8
+2304400,"Fortaleza",CE,2
+2304459,"Fortim",CE,2
+2304509,"Frecheirinha",CE,8
+2304608,"General Sampaio",CE,4
+2304657,"Graça",CE,6
+2304707,"Granja",CE,8
+2304806,"Granjeiro",CE,6
+2304905,"Groaíras",CE,8
+2304954,"Guaiúba",CE,2
+2305001,"Guaraciaba do Norte",CE,6
+2305100,"Guaramiranga",CE,2
+2305209,"Hidrolândia",CE,8
+2305233,"Horizonte",CE,2
+2305266,"Ibaretama",CE,4
+2305308,"Ibiapina",CE,8
+2305332,"Ibicuitinga",CE,4
+2305357,"Icapuí",CE,4
+2305407,"Icó",CE,6
+2305506,"Iguatu",CE,6
+2305605,"Independência",CE,6
+2305654,"Ipaporanga",CE,4
+2305704,"Ipaumirim",CE,6
+2305803,"Ipu",CE,6
+2305902,"Ipueiras",CE,6
+2306009,"Iracema",CE,6
+2306108,"Irauçuba",CE,6
+2306207,"Itaiçaba",CE,2
+2306256,"Itaitinga",CE,2
+2306306,"Itapajé",CE,4
+2306405,"Itapipoca",CE,2
+2306504,"Itapiúna",CE,4
+2306553,"Itarema",CE,2
+2306603,"Itatira",CE,4
+2306702,"Jaguaretama",CE,6
+2306801,"Jaguaribara",CE,6
+2306900,"Jaguaribe",CE,6
+2307007,"Jaguaruana",CE,4
+2307106,"Jardim",CE,6
+2307205,"Jati",CE,8
+2307254,"Jijoca de Jericoacoara",CE,4
+2307304,"Juazeiro do Norte",CE,6
+2307403,"Jucás",CE,4
+2307502,"Lavras da Mangabeira",CE,8
+2307601,"Limoeiro do Norte",CE,6
+2307635,"Madalena",CE,4
+2307650,"Maracanaú",CE,2
+2307700,"Maranguape",CE,2
+2307809,"Marco",CE,6
+2307908,"Martinópole",CE,6
+2308005,"Massapê",CE,6
+2308104,"Mauriti",CE,8
+2308203,"Meruoca",CE,6
+2308302,"Milagres",CE,8
+2308351,"Milhã",CE,4
+2308377,"Miraíma",CE,4
+2308401,"Missão Velha",CE,6
+2308500,"Mombaça",CE,4
+2308609,"Monsenhor Tabosa",CE,4
+2308708,"Morada Nova",CE,6
+2308807,"Moraújo",CE,8
+2308906,"Morrinhos",CE,4
+2309003,"Mucambo",CE,8
+2309102,"Mulungu",CE,4
+2309201,"Nova Olinda",CE,4
+2309300,"Nova Russas",CE,8
+2309409,"Novo Oriente",CE,6
+2309458,"Ocara",CE,4
+2309508,"Orós",CE,6
+2309607,"Pacajus",CE,2
+2309706,"Pacatuba",CE,2
+2309805,"Pacoti",CE,2
+2309904,"Pacujá",CE,8
+2310001,"Palhano",CE,4
+2310100,"Palmácia",CE,2
+2310209,"Paracuru",CE,2
+2310258,"Paraipaba",CE,2
+2310308,"Parambu",CE,4
+2310407,"Paramoti",CE,4
+2310506,"Pedra Branca",CE,4
+2310605,"Penaforte",CE,6
+2310704,"Pentecoste",CE,4
+2310803,"Pereiro",CE,6
+2310852,"Pindoretama",CE,2
+2310902,"Piquet Carneiro",CE,2
+2310951,"Pires Ferreira",CE,6
+2311009,"Poranga",CE,6
+2311108,"Porteiras",CE,6
+2311207,"Potengi",CE,4
+2311231,"Potiretama",CE,6
+2311264,"Quiterianópolis",CE,4
+2311306,"Quixadá",CE,4
+2311355,"Quixelô",CE,6
+2311405,"Quixeramobim",CE,4
+2311504,"Quixeré",CE,4
+2311603,"Redenção",CE,2
+2311702,"Reriutaba",CE,8
+2311801,"Russas",CE,4
+2311900,"Saboeiro",CE,4
+2311959,"Salitre",CE,6
+2312007,"Santana do Acaraú",CE,6
+2312106,"Santana do Cariri",CE,4
+2312205,"Santa Quitéria",CE,6
+2312304,"São Benedito",CE,6
+2312403,"São Gonçalo do Amarante",CE,2
+2312502,"São João do Jaguaribe",CE,6
+2312601,"São Luís do Curu",CE,4
+2312700,"Senador Pompeu",CE,4
+2312809,"Senador Sá",CE,6
+2312908,"Sobral",CE,8
+2313005,"Solonópole",CE,4
+2313104,"Tabuleiro do Norte",CE,6
+2313203,"Tamboril",CE,8
+2313252,"Tarrafas",CE,4
+2313302,"Tauá",CE,4
+2313351,"Tejuçuoca",CE,6
+2313401,"Tianguá",CE,10
+2313500,"Trairi",CE,2
+2313559,"Tururu",CE,4
+2313609,"Ubajara",CE,8
+2313708,"Umari",CE,6
+2313757,"Umirim",CE,4
+2313807,"Uruburetama",CE,2
+2313906,"Uruoca",CE,8
+2313955,"Varjota",CE,8
+2314003,"Várzea Alegre",CE,8
+2314102,"Viçosa do Ceará",CE,10
+2400109,"Acari",RN,8
+2400208,"Açu",RN,10
+2400307,"Afonso Bezerra",RN,8
+2400406,"Água Nova",RN,6
+2400505,"Alexandria",RN,6
+2400604,"Almino Afonso",RN,6
+2400703,"Alto do Rodrigues",RN,8
+2400802,"Angicos",RN,8
+2400901,"Antônio Martins",RN,6
+2401008,"Apodi",RN,6
+2401107,"Areia Branca",RN,6
+2401206,"Arês",RN,2
+2401305,"Campo Grande",RN,6
+2401404,"Baía Formosa",RN,2
+2401453,"Baraúna",RN,6
+2401503,"Barcelona",RN,2
+2401602,"Bento Fernandes",RN,2
+2401651,"Bodó",RN,6
+2401701,"Bom Jesus",RN,2
+2401800,"Brejinho",RN,2
+2401859,"Caiçara do Norte",RN,4
+2401909,"Caiçara do Rio do Vento",RN,4
+2402006,"Caicó",RN,8
+2402105,"Campo Redondo",RN,4
+2402204,"Canguaretama",RN,2
+2402303,"Caraúbas",RN,6
+2402402,"Carnaúba dos Dantas",RN,6
+2402501,"Carnaubais",RN,6
+2402600,"Ceará-Mirim",RN,2
+2402709,"Cerro Corá",RN,4
+2402808,"Coronel Ezequiel",RN,4
+2402907,"Coronel João Pessoa",RN,6
+2403004,"Cruzeta",RN,8
+2403103,"Currais Novos",RN,6
+2403202,"Doutor Severiano",RN,6
+2403251,"Parnamirim",RN,2
+2403301,"Encanto",RN,6
+2403400,"Equador",RN,6
+2403509,"Espírito Santo",RN,2
+2403608,"Extremoz",RN,2
+2403707,"Felipe Guerra",RN,6
+2403756,"Fernando Pedroza",RN,6
+2403806,"Florânia",RN,8
+2403905,"Francisco Dantas",RN,6
+2404002,"Frutuoso Gomes",RN,6
+2404101,"Galinhos",RN,4
+2404200,"Goianinha",RN,2
+2404309,"Governador Dix-Sept Rosado",RN,8
+2404408,"Grossos",RN,6
+2404507,"Guamaré",RN,4
+2404606,"Ielmo Marinho",RN,2
+2404705,"Ipanguaçu",RN,10
+2404804,"Ipueira",RN,10
+2404853,"Itajá",RN,10
+2404903,"Itaú",RN,6
+2405009,"Jaçanã",RN,4
+2405108,"Jandaíra",RN,4
+2405207,"Janduís",RN,6
+2405306,"Januário Cicco",RN,2
+2405405,"Japi",RN,2
+2405504,"Jardim de Angicos",RN,4
+2405603,"Jardim de Piranhas",RN,6
+2405702,"Jardim do Seridó",RN,10
+2405801,"João Câmara",RN,2
+2405900,"João Dias",RN,6
+2406007,"José da Penha",RN,6
+2406106,"Jucurutu",RN,8
+2406155,"Jundiá",RN,2
+2406205,"Lagoa d'Anta",RN,2
+2406304,"Lagoa de Pedras",RN,2
+2406403,"Lagoa de Velhos",RN,2
+2406502,"Lagoa Nova",RN,6
+2406601,"Lagoa Salgada",RN,2
+2406700,"Lajes",RN,4
+2406809,"Lajes Pintadas",RN,4
+2406908,"Lucrécia",RN,6
+2407005,"Luís Gomes",RN,6
+2407104,"Macaíba",RN,2
+2407203,"Macau",RN,6
+2407252,"Major Sales",RN,6
+2407302,"Marcelino Vieira",RN,6
+2407401,"Martins",RN,6
+2407500,"Maxaranguape",RN,2
+2407609,"Messias Targino",RN,6
+2407708,"Montanhas",RN,2
+2407807,"Monte Alegre",RN,2
+2407906,"Monte das Gameleiras",RN,2
+2408003,"Mossoró",RN,8
+2408102,"Natal",RN,2
+2408201,"Nísia Floresta",RN,2
+2408300,"Nova Cruz",RN,2
+2408409,"Olho d'Água do Borges",RN,6
+2408508,"Ouro Branco",RN,8
+2408607,"Paraná",RN,6
+2408706,"Paraú",RN,8
+2408805,"Parazinho",RN,4
+2408904,"Parelhas",RN,6
+2408953,"Rio do Fogo",RN,2
+2409100,"Passa e Fica",RN,2
+2409209,"Passagem",RN,2
+2409308,"Patu",RN,6
+2409332,"Santa Maria",RN,2
+2409407,"Pau dos Ferros",RN,6
+2409506,"Pedra Grande",RN,2
+2409605,"Pedra Preta",RN,4
+2409704,"Pedro Avelino",RN,6
+2409803,"Pedro Velho",RN,2
+2409902,"Pendências",RN,8
+2410009,"Pilões",RN,6
+2410108,"Poço Branco",RN,2
+2410207,"Portalegre",RN,6
+2410256,"Porto do Mangue",RN,4
+2410306,"Serra Caiada",RN,2
+2410405,"Pureza",RN,2
+2410504,"Rafael Fernandes",RN,6
+2410603,"Rafael Godeiro",RN,6
+2410702,"Riacho da Cruz",RN,6
+2410801,"Riacho de Santana",RN,6
+2410900,"Riachuelo",RN,2
+2411007,"Rodolfo Fernandes",RN,6
+2411056,"Tibau",RN,4
+2411106,"Ruy Barbosa",RN,2
+2411205,"Santa Cruz",RN,4
+2411403,"Santana do Matos",RN,8
+2411429,"Santana do Seridó",RN,8
+2411502,"Santo Antônio",RN,2
+2411601,"São Bento do Norte",RN,4
+2411700,"São Bento do Trairí",RN,2
+2411809,"São Fernando",RN,6
+2411908,"São Francisco do Oeste",RN,6
+2412005,"São Gonçalo do Amarante",RN,2
+2412104,"São João do Sabugi",RN,10
+2412203,"São José de Mipibu",RN,2
+2412302,"São José do Campestre",RN,2
+2412401,"São José do Seridó",RN,10
+2412500,"São Miguel",RN,6
+2412559,"São Miguel do Gostoso",RN,2
+2412609,"São Paulo do Potengi",RN,2
+2412708,"São Pedro",RN,2
+2412807,"São Rafael",RN,10
+2412906,"São Tomé",RN,4
+2413003,"São Vicente",RN,8
+2413102,"Senador Elói de Souza",RN,2
+2413201,"Senador Georgino Avelino",RN,2
+2413300,"Serra de São Bento",RN,2
+2413359,"Serra do Mel",RN,6
+2413409,"Serra Negra do Norte",RN,10
+2413508,"Serrinha",RN,2
+2413557,"Serrinha dos Pintos",RN,6
+2413607,"Severiano Melo",RN,6
+2413706,"Sítio Novo",RN,2
+2413805,"Taboleiro Grande",RN,6
+2413904,"Taipu",RN,2
+2414001,"Tangará",RN,2
+2414100,"Tenente Ananias",RN,6
+2414159,"Tenente Laurentino Cruz",RN,8
+2414209,"Tibau do Sul",RN,2
+2414308,"Timbaúba dos Batistas",RN,8
+2414407,"Touros",RN,2
+2414456,"Triunfo Potiguar",RN,8
+2414506,"Umarizal",RN,6
+2414605,"Upanema",RN,8
+2414704,"Várzea",RN,2
+2414753,"Venha-Ver",RN,4
+2414803,"Vera Cruz",RN,2
+2414902,"Viçosa",RN,6
+2415008,"Vila Flor",RN,2
+2500106,"Água Branca",PB,8
+2500205,"Aguiar",PB,6
+2500304,"Alagoa Grande",PB,2
+2500403,"Alagoa Nova",PB,2
+2500502,"Alagoinha",PB,2
+2500536,"Alcantil",PB,4
+2500577,"Algodão de Jandaíra",PB,2
+2500601,"Alhandra",PB,2
+2500700,"São João do Rio do Peixe",PB,4
+2500734,"Amparo",PB,4
+2500775,"Aparecida",PB,8
+2500809,"Araçagi",PB,2
+2500908,"Arara",PB,2
+2501005,"Araruna",PB,2
+2501104,"Areia",PB,2
+2501153,"Areia de Baraúnas",PB,6
+2501203,"Areial",PB,2
+2501302,"Aroeiras",PB,2
+2501351,"Assunção",PB,4
+2501401,"Baía da Traição",PB,2
+2501500,"Bananeiras",PB,2
+2501534,"Baraúna",PB,4
+2501575,"Barra de Santana",PB,4
+2501609,"Barra de Santa Rosa",PB,4
+2501708,"Barra de São Miguel",PB,4
+2501807,"Bayeux",PB,2
+2501906,"Belém",PB,2
+2502003,"Belém do Brejo do Cruz",PB,6
+2502052,"Bernardino Batista",PB,4
+2502102,"Boa Ventura",PB,8
+2502151,"Boa Vista",PB,4
+2502201,"Bom Jesus",PB,4
+2502300,"Bom Sucesso",PB,6
+2502409,"Bonito de Santa Fé",PB,6
+2502508,"Boqueirão",PB,4
+2502607,"Igaracy",PB,6
+2502706,"Borborema",PB,2
+2502805,"Brejo do Cruz",PB,6
+2502904,"Brejo dos Santos",PB,6
+2503001,"Caaporã",PB,2
+2503100,"Cabaceiras",PB,4
+2503209,"Cabedelo",PB,2
+2503308,"Cachoeira dos Índios",PB,4
+2503407,"Cacimba de Areia",PB,8
+2503506,"Cacimba de Dentro",PB,2
+2503555,"Cacimbas",PB,8
+2503605,"Caiçara",PB,2
+2503704,"Cajazeiras",PB,4
+2503753,"Cajazeirinhas",PB,10
+2503803,"Caldas Brandão",PB,2
+2503902,"Camalaú",PB,4
+2504009,"Campina Grande",PB,4
+2504033,"Capim",PB,2
+2504074,"Caraúbas",PB,4
+2504108,"Carrapateira",PB,6
+2504157,"Casserengue",PB,2
+2504207,"Catingueira",PB,12
+2504306,"Catolé do Rocha",PB,6
+2504355,"Caturité",PB,4
+2504405,"Conceição",PB,6
+2504504,"Condado",PB,12
+2504603,"Conde",PB,2
+2504702,"Congo",PB,4
+2504801,"Coremas",PB,8
+2504850,"Coxixola",PB,4
+2504900,"Cruz do Espírito Santo",PB,2
+2505006,"Cubati",PB,4
+2505105,"Cuité",PB,4
+2505204,"Cuitegi",PB,2
+2505238,"Cuité de Mamanguape",PB,2
+2505279,"Curral de Cima",PB,2
+2505303,"Curral Velho",PB,8
+2505352,"Damião",PB,2
+2505402,"Desterro",PB,6
+2505501,"Vista Serrana",PB,10
+2505600,"Diamante",PB,6
+2505709,"Dona Inês",PB,2
+2505808,"Duas Estradas",PB,2
+2505907,"Emas",PB,10
+2506004,"Esperança",PB,2
+2506103,"Fagundes",PB,2
+2506202,"Frei Martinho",PB,6
+2506251,"Gado Bravo",PB,2
+2506301,"Guarabira",PB,2
+2506400,"Gurinhém",PB,2
+2506509,"Gurjão",PB,4
+2506608,"Ibiara",PB,6
+2506707,"Imaculada",PB,8
+2506806,"Ingá",PB,2
+2506905,"Itabaiana",PB,2
+2507002,"Itaporanga",PB,6
+2507101,"Itapororoca",PB,2
+2507200,"Itatuba",PB,2
+2507309,"Jacaraú",PB,2
+2507408,"Jericó",PB,8
+2507507,"João Pessoa",PB,2
+2507606,"Juarez Távora",PB,2
+2507705,"Juazeirinho",PB,4
+2507804,"Junco do Seridó",PB,6
+2507903,"Juripiranga",PB,2
+2508000,"Juru",PB,8
+2508109,"Lagoa",PB,8
+2508208,"Lagoa de Dentro",PB,2
+2508307,"Lagoa Seca",PB,2
+2508406,"Lastro",PB,6
+2508505,"Livramento",PB,4
+2508554,"Logradouro",PB,2
+2508604,"Lucena",PB,2
+2508703,"Mãe d'Água",PB,10
+2508802,"Malta",PB,12
+2508901,"Mamanguape",PB,2
+2509008,"Manaíra",PB,6
+2509057,"Marcação",PB,2
+2509107,"Mari",PB,2
+2509156,"Marizópolis",PB,4
+2509206,"Massaranduba",PB,2
+2509305,"Mataraca",PB,2
+2509339,"Matinhas",PB,2
+2509370,"Mato Grosso",PB,8
+2509396,"Maturéia",PB,10
+2509404,"Mogeiro",PB,2
+2509503,"Montadas",PB,2
+2509602,"Monte Horebe",PB,6
+2509701,"Monteiro",PB,6
+2509800,"Mulungu",PB,2
+2509909,"Natuba",PB,2
+2510006,"Nazarezinho",PB,6
+2510105,"Nova Floresta",PB,4
+2510204,"Nova Olinda",PB,6
+2510303,"Nova Palmeira",PB,4
+2510402,"Olho d'Água",PB,10
+2510501,"Olivedos",PB,4
+2510600,"Ouro Velho",PB,6
+2510659,"Parari",PB,4
+2510709,"Passagem",PB,8
+2510808,"Patos",PB,12
+2510907,"Paulista",PB,10
+2511004,"Pedra Branca",PB,8
+2511103,"Pedra Lavrada",PB,4
+2511202,"Pedras de Fogo",PB,2
+2511301,"Piancó",PB,8
+2511400,"Picuí",PB,4
+2511509,"Pilar",PB,2
+2511608,"Pilões",PB,2
+2511707,"Pilõezinhos",PB,2
+2511806,"Pirpirituba",PB,2
+2511905,"Pitimbu",PB,2
+2512002,"Pocinhos",PB,4
+2512036,"Poço Dantas",PB,4
+2512077,"Poço de José de Moura",PB,4
+2512101,"Pombal",PB,10
+2512200,"Prata",PB,6
+2512309,"Princesa Isabel",PB,6
+2512408,"Puxinanã",PB,2
+2512507,"Queimadas",PB,2
+2512606,"Quixaba",PB,10
+2512705,"Remígio",PB,2
+2512721,"Pedro Régis",PB,2
+2512747,"Riachão",PB,2
+2512754,"Riachão do Bacamarte",PB,2
+2512762,"Riachão do Poço",PB,2
+2512788,"Riacho de Santo Antônio",PB,4
+2512804,"Riacho dos Cavalos",PB,8
+2512903,"Rio Tinto",PB,2
+2513000,"Salgadinho",PB,6
+2513109,"Salgado de São Félix",PB,2
+2513158,"Santa Cecília",PB,2
+2513208,"Santa Cruz",PB,6
+2513307,"Santa Helena",PB,4
+2513356,"Santa Inês",PB,8
+2513406,"Santa Luzia",PB,8
+2513505,"Santana de Mangueira",PB,6
+2513604,"Santana dos Garrotes",PB,6
+2513653,"Joca Claudino",PB,4
+2513703,"Santa Rita",PB,2
+2513802,"Santa Teresinha",PB,12
+2513851,"Santo André",PB,4
+2513901,"São Bento",PB,8
+2513927,"São Bentinho",PB,10
+2513943,"São Domingos do Cariri",PB,2
+2513968,"São Domingos",PB,8
+2513984,"São Francisco",PB,6
+2514008,"São João do Cariri",PB,4
+2514107,"São João do Tigre",PB,4
+2514206,"São José da Lagoa Tapada",PB,6
+2514305,"São José de Caiana",PB,6
+2514404,"São José de Espinharas",PB,12
+2514453,"São José dos Ramos",PB,2
+2514503,"São José de Piranhas",PB,6
+2514552,"São José de Princesa",PB,6
+2514602,"São José do Bonfim",PB,10
+2514651,"São José do Brejo do Cruz",PB,6
+2514701,"São José do Sabugi",PB,8
+2514800,"São José dos Cordeiros",PB,4
+2514909,"São Mamede",PB,10
+2515005,"São Miguel de Taipu",PB,2
+2515104,"São Sebastião de Lagoa de Roça",PB,2
+2515203,"São Sebastião do Umbuzeiro",PB,4
+2515302,"Sapé",PB,2
+2515401,"São Vicente do Seridó",PB,4
+2515500,"Serra Branca",PB,4
+2515609,"Serra da Raiz",PB,2
+2515708,"Serra Grande",PB,6
+2515807,"Serra Redonda",PB,2
+2515906,"Serraria",PB,2
+2515930,"Sertãozinho",PB,2
+2515971,"Sobrado",PB,2
+2516003,"Solânea",PB,2
+2516102,"Soledade",PB,4
+2516151,"Sossêgo",PB,4
+2516201,"Sousa",PB,6
+2516300,"Sumé",PB,4
+2516409,"Tacima",PB,2
+2516508,"Taperoá",PB,6
+2516607,"Tavares",PB,8
+2516706,"Teixeira",PB,8
+2516755,"Tenório",PB,4
+2516805,"Triunfo",PB,4
+2516904,"Uiraúna",PB,6
+2517001,"Umbuzeiro",PB,2
+2517100,"Várzea",PB,10
+2517209,"Vieirópolis",PB,6
+2517407,"Zabelê",PB,4
+2600054,"Abreu e Lima",PE,2
+2600104,"Afogados da Ingazeira",PE,8
+2600203,"Afrânio",PE,4
+2600302,"Agrestina",PE,4
+2600401,"Água Preta",PE,2
+2600500,"Águas Belas",PE,4
+2600609,"Alagoinha",PE,4
+2600708,"Aliança",PE,2
+2600807,"Altinho",PE,4
+2600906,"Amaraji",PE,2
+2601003,"Angelim",PE,2
+2601052,"Araçoiaba",PE,2
+2601102,"Araripina",PE,6
+2601201,"Arcoverde",PE,4
+2601300,"Barra de Guabiraba",PE,2
+2601409,"Barreiros",PE,2
+2601508,"Belém de Maria",PE,2
+2601607,"Belém do São Francisco",PE,6
+2601706,"Belo Jardim",PE,4
+2601805,"Betânia",PE,6
+2601904,"Bezerros",PE,4
+2602001,"Bodocó",PE,6
+2602100,"Bom Conselho",PE,4
+2602209,"Bom Jardim",PE,2
+2602308,"Bonito",PE,2
+2602407,"Brejão",PE,2
+2602506,"Brejinho",PE,8
+2602605,"Brejo da Madre de Deus",PE,4
+2602704,"Buenos Aires",PE,2
+2602803,"Buíque",PE,4
+2602902,"Cabo de Santo Agostinho",PE,2
+2603009,"Cabrobó",PE,4
+2603108,"Cachoeirinha",PE,4
+2603207,"Caetés",PE,4
+2603306,"Calçado",PE,4
+2603405,"Calumbi",PE,6
+2603454,"Camaragibe",PE,2
+2603504,"Camocim de São Félix",PE,2
+2603603,"Camutanga",PE,2
+2603702,"Canhotinho",PE,2
+2603801,"Capoeiras",PE,4
+2603900,"Carnaíba",PE,8
+2603926,"Carnaubeira da Penha",PE,6
+2604007,"Carpina",PE,2
+2604106,"Caruaru",PE,4
+2604155,"Casinhas",PE,2
+2604205,"Catende",PE,2
+2604304,"Cedro",PE,6
+2604403,"Chã de Alegria",PE,2
+2604502,"Chã Grande",PE,2
+2604601,"Condado",PE,2
+2604700,"Correntes",PE,2
+2604809,"Cortês",PE,2
+2604908,"Cumaru",PE,2
+2605004,"Cupira",PE,2
+2605103,"Custódia",PE,6
+2605152,"Dormentes",PE,4
+2605202,"Escada",PE,2
+2605301,"Exu",PE,4
+2605400,"Feira Nova",PE,2
+2605459,"Fernando de Noronha",PE,2
+2605509,"Ferreiros",PE,2
+2605608,"Flores",PE,6
+2605707,"Floresta",PE,6
+2605806,"Frei Miguelinho",PE,2
+2605905,"Gameleira",PE,2
+2606002,"Garanhuns",PE,4
+2606101,"Glória do Goitá",PE,2
+2606200,"Goiana",PE,2
+2606309,"Granito",PE,6
+2606408,"Gravatá",PE,2
+2606507,"Iati",PE,4
+2606606,"Ibimirim",PE,4
+2606705,"Ibirajuba",PE,4
+2606804,"Igarassu",PE,2
+2606903,"Iguaracy",PE,8
+2607000,"Inajá",PE,4
+2607109,"Ingazeira",PE,8
+2607208,"Ipojuca",PE,2
+2607307,"Ipubi",PE,4
+2607406,"Itacuruba",PE,6
+2607505,"Itaíba",PE,4
+2607604,"Ilha de Itamaracá",PE,2
+2607653,"Itambé",PE,2
+2607703,"Itapetim",PE,8
+2607752,"Itapissuma",PE,2
+2607802,"Itaquitinga",PE,2
+2607901,"Jaboatão dos Guararapes",PE,2
+2607950,"Jaqueira",PE,2
+2608008,"Jataúba",PE,4
+2608057,"Jatobá",PE,4
+2608107,"João Alfredo",PE,2
+2608206,"Joaquim Nabuco",PE,2
+2608255,"Jucati",PE,4
+2608305,"Jupi",PE,4
+2608404,"Jurema",PE,2
+2608453,"Lagoa do Carro",PE,2
+2608503,"Lagoa de Itaenga",PE,2
+2608602,"Lagoa do Ouro",PE,2
+2608701,"Lagoa dos Gatos",PE,2
+2608750,"Lagoa Grande",PE,4
+2608800,"Lajedo",PE,4
+2608909,"Limoeiro",PE,2
+2609006,"Macaparana",PE,2
+2609105,"Machados",PE,2
+2609154,"Manari",PE,4
+2609204,"Maraial",PE,2
+2609303,"Mirandiba",PE,6
+2609402,"Moreno",PE,2
+2609501,"Nazaré da Mata",PE,2
+2609600,"Olinda",PE,2
+2609709,"Orobó",PE,2
+2609808,"Orocó",PE,4
+2609907,"Ouricuri",PE,6
+2610004,"Palmares",PE,2
+2610103,"Palmeirina",PE,2
+2610202,"Panelas",PE,2
+2610301,"Paranatama",PE,2
+2610400,"Parnamirim",PE,6
+2610509,"Passira",PE,2
+2610608,"Paudalho",PE,2
+2610707,"Paulista",PE,2
+2610806,"Pedra",PE,4
+2610905,"Pesqueira",PE,4
+2611002,"Petrolândia",PE,6
+2611101,"Petrolina",PE,6
+2611200,"Poção",PE,4
+2611309,"Pombos",PE,2
+2611408,"Primavera",PE,2
+2611507,"Quipapá",PE,2
+2611533,"Quixaba",PE,8
+2611606,"Recife",PE,2
+2611705,"Riacho das Almas",PE,2
+2611804,"Ribeirão",PE,2
+2611903,"Rio Formoso",PE,2
+2612000,"Sairé",PE,2
+2612109,"Salgadinho",PE,2
+2612208,"Salgueiro",PE,6
+2612307,"Saloá",PE,4
+2612406,"Sanharó",PE,4
+2612455,"Santa Cruz",PE,6
+2612471,"Santa Cruz da Baixa Verde",PE,6
+2612505,"Santa Cruz do Capibaribe",PE,4
+2612554,"Santa Filomena",PE,4
+2612604,"Santa Maria da Boa Vista",PE,4
+2612703,"Santa Maria do Cambucá",PE,2
+2612802,"Santa Terezinha",PE,8
+2612901,"São Benedito do Sul",PE,2
+2613008,"São Bento do Una",PE,4
+2613107,"São Caitano",PE,4
+2613206,"São João",PE,2
+2613305,"São Joaquim do Monte",PE,4
+2613404,"São José da Coroa Grande",PE,2
+2613503,"São José do Belmonte",PE,8
+2613602,"São José do Egito",PE,8
+2613701,"São Lourenço da Mata",PE,2
+2613800,"São Vicente Férrer",PE,2
+2613909,"Serra Talhada",PE,6
+2614006,"Serrita",PE,6
+2614105,"Sertânia",PE,6
+2614204,"Sirinhaém",PE,2
+2614303,"Moreilândia",PE,4
+2614402,"Solidão",PE,8
+2614501,"Surubim",PE,2
+2614600,"Tabira",PE,8
+2614709,"Tacaimbó",PE,4
+2614808,"Tacaratu",PE,4
+2614857,"Tamandaré",PE,2
+2615003,"Taquaritinga do Norte",PE,4
+2615102,"Terezinha",PE,2
+2615201,"Terra Nova",PE,4
+2615300,"Timbaúba",PE,2
+2615409,"Toritama",PE,4
+2615508,"Tracunhaém",PE,2
+2615607,"Trindade",PE,4
+2615706,"Triunfo",PE,6
+2615805,"Tupanatinga",PE,4
+2615904,"Tuparetama",PE,6
+2616001,"Venturosa",PE,4
+2616100,"Verdejante",PE,6
+2616183,"Vertente do Lério",PE,2
+2616209,"Vertentes",PE,4
+2616308,"Vicência",PE,2
+2616407,"Vitória de Santo Antão",PE,2
+2616506,"Xexéu",PE,2
+2700102,"Água Branca",AL,4
+2700201,"Anadia",AL,2
+2700300,"Arapiraca",AL,2
+2700409,"Atalaia",AL,2
+2700508,"Barra de Santo Antônio",AL,2
+2700607,"Barra de São Miguel",AL,2
+2700706,"Batalha",AL,4
+2700805,"Belém",AL,2
+2700904,"Belo Monte",AL,4
+2701001,"Boca da Mata",AL,2
+2701100,"Branquinha",AL,2
+2701209,"Cacimbinhas",AL,4
+2701308,"Cajueiro",AL,2
+2701357,"Campestre",AL,2
+2701407,"Campo Alegre",AL,2
+2701506,"Campo Grande",AL,2
+2701605,"Canapi",AL,4
+2701704,"Capela",AL,2
+2701803,"Carneiros",AL,4
+2701902,"Chã Preta",AL,2
+2702009,"Coité do Nóia",AL,2
+2702108,"Colônia Leopoldina",AL,2
+2702207,"Coqueiro Seco",AL,2
+2702306,"Coruripe",AL,2
+2702355,"Craíbas",AL,2
+2702405,"Delmiro Gouveia",AL,4
+2702504,"Dois Riachos",AL,4
+2702553,"Estrela de Alagoas",AL,2
+2702603,"Feira Grande",AL,2
+2702702,"Feliz Deserto",AL,2
+2702801,"Flexeiras",AL,2
+2702900,"Girau do Ponciano",AL,2
+2703007,"Ibateguara",AL,2
+2703106,"Igaci",AL,2
+2703205,"Igreja Nova",AL,2
+2703304,"Inhapi",AL,4
+2703403,"Jacaré dos Homens",AL,4
+2703502,"Jacuípe",AL,2
+2703601,"Japaratinga",AL,2
+2703700,"Jaramataia",AL,2
+2703759,"Jequiá da Praia",AL,2
+2703809,"Joaquim Gomes",AL,2
+2703908,"Jundiá",AL,2
+2704005,"Junqueiro",AL,2
+2704104,"Lagoa da Canoa",AL,2
+2704203,"Limoeiro de Anadia",AL,2
+2704302,"Maceió",AL,2
+2704401,"Major Isidoro",AL,4
+2704500,"Maragogi",AL,2
+2704609,"Maravilha",AL,4
+2704708,"Marechal Deodoro",AL,2
+2704807,"Maribondo",AL,2
+2704906,"Mar Vermelho",AL,2
+2705002,"Mata Grande",AL,4
+2705101,"Matriz de Camaragibe",AL,2
+2705200,"Messias",AL,2
+2705309,"Minador do Negrão",AL,4
+2705408,"Monteirópolis",AL,4
+2705507,"Murici",AL,2
+2705606,"Novo Lino",AL,2
+2705705,"Olho d'Água das Flores",AL,4
+2705804,"Olho d'Água do Casado",AL,4
+2705903,"Olho d'Água Grande",AL,2
+2706000,"Olivença",AL,4
+2706109,"Ouro Branco",AL,4
+2706208,"Palestina",AL,4
+2706307,"Palmeira dos Índios",AL,2
+2706406,"Pão de Açúcar",AL,4
+2706422,"Pariconha",AL,2
+2706448,"Paripueira",AL,2
+2706505,"Passo de Camaragibe",AL,2
+2706604,"Paulo Jacinto",AL,2
+2706703,"Penedo",AL,2
+2706802,"Piaçabuçu",AL,2
+2706901,"Pilar",AL,2
+2707008,"Pindoba",AL,2
+2707107,"Piranhas",AL,4
+2707206,"Poço das Trincheiras",AL,4
+2707305,"Porto Calvo",AL,2
+2707404,"Porto de Pedras",AL,2
+2707503,"Porto Real do Colégio",AL,2
+2707602,"Quebrangulo",AL,2
+2707701,"Rio Largo",AL,2
+2707800,"Roteiro",AL,2
+2707909,"Santa Luzia do Norte",AL,2
+2708006,"Santana do Ipanema",AL,4
+2708105,"Santana do Mundaú",AL,2
+2708204,"São Brás",AL,2
+2708303,"São José da Laje",AL,2
+2708402,"São José da Tapera",AL,4
+2708501,"São Luís do Quitunde",AL,2
+2708600,"São Miguel dos Campos",AL,2
+2708709,"São Miguel dos Milagres",AL,2
+2708808,"São Sebastião",AL,2
+2708907,"Satuba",AL,2
+2708956,"Senador Rui Palmeira",AL,4
+2709004,"Tanque d'Arca",AL,2
+2709103,"Taquarana",AL,2
+2709152,"Teotônio Vilela",AL,2
+2709202,"Traipu",AL,2
+2709301,"União dos Palmares",AL,2
+2709400,"Viçosa",AL,2
+2800100,"Amparo do São Francisco",SE,2
+2800209,"Aquidabã",SE,4
+2800308,"Aracaju",SE,2
+2800407,"Arauá",SE,2
+2800506,"Areia Branca",SE,2
+2800605,"Barra dos Coqueiros",SE,2
+2800670,"Boquim",SE,2
+2800704,"Brejo Grande",SE,2
+2801009,"Campo do Brito",SE,2
+2801108,"Canhoba",SE,4
+2801207,"Canindé de São Francisco",SE,4
+2801306,"Capela",SE,4
+2801405,"Carira",SE,4
+2801504,"Carmópolis",SE,2
+2801603,"Cedro de São João",SE,2
+2801702,"Cristinápolis",SE,2
+2801900,"Cumbe",SE,4
+2802007,"Divina Pastora",SE,2
+2802106,"Estância",SE,2
+2802205,"Feira Nova",SE,4
+2802304,"Frei Paulo",SE,4
+2802403,"Gararu",SE,4
+2802502,"General Maynard",SE,2
+2802601,"Gracho Cardoso",SE,4
+2802700,"Ilha das Flores",SE,2
+2802809,"Indiaroba",SE,2
+2802908,"Itabaiana",SE,2
+2803005,"Itabaianinha",SE,4
+2803104,"Itabi",SE,4
+2803203,"Itaporanga d'Ajuda",SE,2
+2803302,"Japaratuba",SE,2
+2803401,"Japoatã",SE,2
+2803500,"Lagarto",SE,4
+2803609,"Laranjeiras",SE,2
+2803708,"Macambira",SE,2
+2803807,"Malhada dos Bois",SE,2
+2803906,"Malhador",SE,2
+2804003,"Maruim",SE,2
+2804102,"Moita Bonita",SE,2
+2804201,"Monte Alegre de Sergipe",SE,4
+2804300,"Muribeca",SE,2
+2804409,"Neópolis",SE,2
+2804458,"Nossa Senhora Aparecida",SE,4
+2804508,"Nossa Senhora da Glória",SE,4
+2804607,"Nossa Senhora das Dores",SE,4
+2804706,"Nossa Senhora de Lourdes",SE,2
+2804805,"Nossa Senhora do Socorro",SE,2
+2804904,"Pacatuba",SE,2
+2805000,"Pedra Mole",SE,2
+2805109,"Pedrinhas",SE,2
+2805208,"Pinhão",SE,2
+2805307,"Pirambu",SE,2
+2805406,"Poço Redondo",SE,4
+2805505,"Poço Verde",SE,4
+2805604,"Porto da Folha",SE,4
+2805703,"Propriá",SE,2
+2805802,"Riachão do Dantas",SE,4
+2805901,"Riachuelo",SE,2
+2806008,"Ribeirópolis",SE,4
+2806107,"Rosário do Catete",SE,2
+2806206,"Salgado",SE,2
+2806305,"Santa Luzia do Itanhy",SE,2
+2806404,"Santana do São Francisco",SE,2
+2806503,"Santa Rosa de Lima",SE,2
+2806602,"Santo Amaro das Brotas",SE,2
+2806701,"São Cristóvão",SE,2
+2806800,"São Domingos",SE,2
+2806909,"São Francisco",SE,2
+2807006,"São Miguel do Aleixo",SE,4
+2807105,"Simão Dias",SE,4
+2807204,"Siriri",SE,2
+2807303,"Telha",SE,2
+2807402,"Tobias Barreto",SE,4
+2807501,"Tomar do Geru",SE,2
+2807600,"Umbaúba",SE,2
+2900108,"Abaíra",BA,6
+2900207,"Abaré",BA,4
+2900306,"Acajutiba",BA,2
+2900355,"Adustina",BA,2
+2900405,"Água Fria",BA,4
+2900504,"Érico Cardoso",BA,6
+2900603,"Aiquara",BA,6
+2900702,"Alagoinhas",BA,4
+2900801,"Alcobaça",BA,4
+2900900,"Almadina",BA,4
+2901007,"Amargosa",BA,2
+2901106,"Amélia Rodrigues",BA,4
+2901155,"América Dourada",BA,6
+2901205,"Anagé",BA,4
+2901304,"Andaraí",BA,6
+2901353,"Andorinha",BA,4
+2901403,"Angical",BA,10
+2901502,"Anguera",BA,4
+2901601,"Antas",BA,2
+2901700,"Antônio Cardoso",BA,4
+2901809,"Antônio Gonçalves",BA,4
+2901908,"Aporá",BA,2
+2901957,"Apuarema",BA,4
+2902005,"Aracatu",BA,4
+2902054,"Araçás",BA,4
+2902104,"Araci",BA,4
+2902203,"Aramari",BA,4
+2902252,"Arataca",BA,4
+2902302,"Aratuípe",BA,2
+2902401,"Aurelino Leal",BA,4
+2902500,"Baianópolis",BA,12
+2902609,"Baixa Grande",BA,4
+2902658,"Banzaê",BA,4
+2902708,"Barra",BA,12
+2902807,"Barra da Estiva",BA,6
+2902906,"Barra do Choça",BA,4
+2903003,"Barra do Mendes",BA,6
+2903102,"Barra do Rocha",BA,4
+2903201,"Barreiras",BA,20
+2903235,"Barro Alto",BA,4
+2903276,"Barrocas",BA,2
+2903300,"Barro Preto",BA,4
+2903409,"Belmonte",BA,6
+2903508,"Belo Campo",BA,4
+2903607,"Biritinga",BA,4
+2903706,"Boa Nova",BA,6
+2903805,"Boa Vista do Tupim",BA,6
+2903904,"Bom Jesus da Lapa",BA,14
+2903953,"Bom Jesus da Serra",BA,4
+2904001,"Boninal",BA,4
+2904050,"Bonito",BA,4
+2904100,"Boquira",BA,14
+2904209,"Botuporã",BA,6
+2904308,"Brejões",BA,2
+2904407,"Brejolândia",BA,12
+2904506,"Brotas de Macaúbas",BA,10
+2904605,"Brumado",BA,6
+2904704,"Buerarema",BA,2
+2904753,"Buritirama",BA,8
+2904803,"Caatiba",BA,4
+2904852,"Cabaceiras do Paraguaçu",BA,4
+2904902,"Cachoeira",BA,4
+2905008,"Caculé",BA,4
+2905107,"Caém",BA,4
+2905156,"Caetanos",BA,4
+2905206,"Caetité",BA,6
+2905305,"Cafarnaum",BA,4
+2905404,"Cairu",BA,2
+2905503,"Caldeirão Grande",BA,4
+2905602,"Camacan",BA,4
+2905701,"Camaçari",BA,2
+2905800,"Camamu",BA,2
+2905909,"Campo Alegre de Lourdes",BA,8
+2906006,"Campo Formoso",BA,6
+2906105,"Canápolis",BA,10
+2906204,"Canarana",BA,4
+2906303,"Canavieiras",BA,6
+2906402,"Candeal",BA,4
+2906501,"Candeias",BA,2
+2906600,"Candiba",BA,6
+2906709,"Cândido Sales",BA,4
+2906808,"Cansanção",BA,4
+2906824,"Canudos",BA,4
+2906857,"Capela do Alto Alegre",BA,4
+2906873,"Capim Grosso",BA,2
+2906899,"Caraíbas",BA,4
+2906907,"Caravelas",BA,6
+2907004,"Cardeal da Silva",BA,2
+2907103,"Carinhanha",BA,8
+2907202,"Casa Nova",BA,6
+2907301,"Castro Alves",BA,4
+2907400,"Catolândia",BA,10
+2907509,"Catu",BA,2
+2907558,"Caturama",BA,6
+2907608,"Central",BA,6
+2907707,"Chorrochó",BA,4
+2907806,"Cícero Dantas",BA,2
+2907905,"Cipó",BA,4
+2908002,"Coaraci",BA,4
+2908101,"Cocos",BA,14
+2908200,"Conceição da Feira",BA,4
+2908309,"Conceição do Almeida",BA,2
+2908408,"Conceição do Coité",BA,4
+2908507,"Conceição do Jacuípe",BA,4
+2908606,"Conde",BA,2
+2908705,"Condeúba",BA,4
+2908804,"Contendas do Sincorá",BA,4
+2908903,"Coração de Maria",BA,4
+2909000,"Cordeiros",BA,4
+2909109,"Coribe",BA,10
+2909208,"Coronel João Sá",BA,4
+2909307,"Correntina",BA,16
+2909406,"Cotegipe",BA,14
+2909505,"Cravolândia",BA,4
+2909604,"Crisópolis",BA,4
+2909703,"Cristópolis",BA,14
+2909802,"Cruz das Almas",BA,4
+2909901,"Curaçá",BA,6
+2910008,"Dário Meira",BA,6
+2910057,"Dias d'Ávila",BA,2
+2910107,"Dom Basílio",BA,6
+2910206,"Dom Macedo Costa",BA,2
+2910305,"Elísio Medrado",BA,2
+2910404,"Encruzilhada",BA,6
+2910503,"Entre Rios",BA,4
+2910602,"Esplanada",BA,2
+2910701,"Euclides da Cunha",BA,4
+2910727,"Eunápolis",BA,6
+2910750,"Fátima",BA,2
+2910776,"Feira da Mata",BA,8
+2910800,"Feira de Santana",BA,4
+2910859,"Filadélfia",BA,4
+2910909,"Firmino Alves",BA,4
+2911006,"Floresta Azul",BA,4
+2911105,"Formosa do Rio Preto",BA,22
+2911204,"Gandu",BA,2
+2911253,"Gavião",BA,2
+2911303,"Gentio do Ouro",BA,10
+2911402,"Glória",BA,6
+2911501,"Gongogi",BA,4
+2911600,"Governador Mangabeira",BA,4
+2911659,"Guajeru",BA,4
+2911709,"Guanambi",BA,6
+2911808,"Guaratinga",BA,6
+2911857,"Heliópolis",BA,2
+2911907,"Iaçu",BA,4
+2912004,"Ibiassucê",BA,4
+2912103,"Ibicaraí",BA,4
+2912202,"Ibicoara",BA,6
+2912301,"Ibicuí",BA,4
+2912400,"Ibipeba",BA,6
+2912509,"Ibipitanga",BA,8
+2912608,"Ibiquera",BA,4
+2912707,"Ibirapitanga",BA,2
+2912806,"Ibirapuã",BA,6
+2912905,"Ibirataia",BA,4
+2913002,"Ibitiara",BA,10
+2913101,"Ibititá",BA,4
+2913200,"Ibotirama",BA,14
+2913309,"Ichu",BA,4
+2913408,"Igaporã",BA,6
+2913457,"Igrapiúna",BA,2
+2913507,"Iguaí",BA,4
+2913606,"Ilhéus",BA,4
+2913705,"Inhambupe",BA,4
+2913804,"Ipecaetá",BA,4
+2913903,"Ipiaú",BA,4
+2914000,"Ipirá",BA,4
+2914109,"Ipupiara",BA,8
+2914208,"Irajuba",BA,4
+2914307,"Iramaia",BA,6
+2914406,"Iraquara",BA,4
+2914505,"Irará",BA,4
+2914604,"Irecê",BA,6
+2914653,"Itabela",BA,6
+2914703,"Itaberaba",BA,4
+2914802,"Itabuna",BA,2
+2914901,"Itacaré",BA,2
+2915007,"Itaeté",BA,6
+2915106,"Itagi",BA,8
+2915205,"Itagibá",BA,6
+2915304,"Itagimirim",BA,6
+2915353,"Itaguaçu da Bahia",BA,10
+2915403,"Itaju do Colônia",BA,4
+2915502,"Itajuípe",BA,4
+2915601,"Itamaraju",BA,8
+2915700,"Itamari",BA,4
+2915809,"Itambé",BA,6
+2915908,"Itanagra",BA,2
+2916005,"Itanhém",BA,6
+2916104,"Itaparica",BA,4
+2916203,"Itapé",BA,4
+2916302,"Itapebi",BA,6
+2916401,"Itapetinga",BA,4
+2916500,"Itapicuru",BA,4
+2916609,"Itapitanga",BA,4
+2916708,"Itaquara",BA,4
+2916807,"Itarantim",BA,4
+2916856,"Itatim",BA,2
+2916906,"Itiruçu",BA,4
+2917003,"Itiúba",BA,4
+2917102,"Itororó",BA,4
+2917201,"Ituaçu",BA,6
+2917300,"Ituberá",BA,2
+2917334,"Iuiu",BA,8
+2917359,"Jaborandi",BA,16
+2917409,"Jacaraci",BA,4
+2917508,"Jacobina",BA,4
+2917607,"Jaguaquara",BA,4
+2917706,"Jaguarari",BA,4
+2917805,"Jaguaripe",BA,4
+2917904,"Jandaíra",BA,2
+2918001,"Jequié",BA,8
+2918100,"Jeremoabo",BA,4
+2918209,"Jiquiriçá",BA,2
+2918308,"Jitaúna",BA,6
+2918357,"João Dourado",BA,6
+2918407,"Juazeiro",BA,6
+2918456,"Jucuruçu",BA,8
+2918506,"Jussara",BA,6
+2918555,"Jussari",BA,4
+2918605,"Jussiape",BA,6
+2918704,"Lafaiete Coutinho",BA,6
+2918753,"Lagoa Real",BA,6
+2918803,"Laje",BA,2
+2918902,"Lajedão",BA,6
+2919009,"Lajedinho",BA,4
+2919058,"Lajedo do Tabocal",BA,6
+2919108,"Lamarão",BA,2
+2919157,"Lapão",BA,6
+2919207,"Lauro de Freitas",BA,2
+2919306,"Lençóis",BA,4
+2919405,"Licínio de Almeida",BA,6
+2919504,"Livramento de Nossa Senhora",BA,6
+2919553,"Luís Eduardo Magalhães",BA,18
+2919603,"Macajuba",BA,2
+2919702,"Macarani",BA,6
+2919801,"Macaúbas",BA,12
+2919900,"Macururé",BA,6
+2919926,"Madre de Deus",BA,4
+2919959,"Maetinga",BA,4
+2920007,"Maiquinique",BA,4
+2920106,"Mairi",BA,4
+2920205,"Malhada",BA,8
+2920304,"Malhada de Pedras",BA,6
+2920403,"Manoel Vitorino",BA,8
+2920452,"Mansidão",BA,8
+2920502,"Maracás",BA,8
+2920601,"Maragogipe",BA,4
+2920700,"Maraú",BA,2
+2920809,"Marcionílio Souza",BA,6
+2920908,"Mascote",BA,6
+2921005,"Mata de São João",BA,2
+2921054,"Matina",BA,6
+2921104,"Medeiros Neto",BA,6
+2921203,"Miguel Calmon",BA,4
+2921302,"Milagres",BA,4
+2921401,"Mirangaba",BA,4
+2921450,"Mirante",BA,6
+2921500,"Monte Santo",BA,4
+2921609,"Morpará",BA,12
+2921708,"Morro do Chapéu",BA,6
+2921807,"Mortugaba",BA,4
+2921906,"Mucugê",BA,6
+2922003,"Mucuri",BA,6
+2922052,"Mulungu do Morro",BA,4
+2922102,"Mundo Novo",BA,4
+2922201,"Muniz Ferreira",BA,2
+2922250,"Muquém do São Francisco",BA,16
+2922300,"Muritiba",BA,4
+2922409,"Mutuípe",BA,2
+2922508,"Nazaré",BA,4
+2922607,"Nilo Peçanha",BA,2
+2922656,"Nordestina",BA,4
+2922706,"Nova Canaã",BA,4
+2922730,"Nova Fátima",BA,4
+2922755,"Nova Ibiá",BA,2
+2922805,"Nova Itarana",BA,4
+2922854,"Nova Redenção",BA,4
+2922904,"Nova Soure",BA,4
+2923001,"Nova Viçosa",BA,6
+2923035,"Novo Horizonte",BA,6
+2923050,"Novo Triunfo",BA,2
+2923100,"Olindina",BA,4
+2923209,"Oliveira dos Brejinhos",BA,14
+2923308,"Ouriçangas",BA,4
+2923357,"Ourolândia",BA,4
+2923407,"Palmas de Monte Alto",BA,8
+2923506,"Palmeiras",BA,4
+2923605,"Paramirim",BA,6
+2923704,"Paratinga",BA,16
+2923803,"Paripiranga",BA,2
+2923902,"Pau Brasil",BA,4
+2924009,"Paulo Afonso",BA,4
+2924058,"Pé de Serra",BA,4
+2924108,"Pedrão",BA,4
+2924207,"Pedro Alexandre",BA,4
+2924306,"Piatã",BA,6
+2924405,"Pilão Arcado",BA,10
+2924504,"Pindaí",BA,6
+2924603,"Pindobaçu",BA,4
+2924652,"Pintadas",BA,4
+2924678,"Piraí do Norte",BA,2
+2924702,"Piripá",BA,4
+2924801,"Piritiba",BA,4
+2924900,"Planaltino",BA,4
+2925006,"Planalto",BA,4
+2925105,"Poções",BA,4
+2925204,"Pojuca",BA,2
+2925253,"Ponto Novo",BA,4
+2925303,"Porto Seguro",BA,6
+2925402,"Potiraguá",BA,6
+2925501,"Prado",BA,6
+2925600,"Presidente Dutra",BA,6
+2925709,"Presidente Jânio Quadros",BA,4
+2925758,"Presidente Tancredo Neves",BA,2
+2925808,"Queimadas",BA,4
+2925907,"Quijingue",BA,4
+2925931,"Quixabeira",BA,2
+2925956,"Rafael Jambeiro",BA,4
+2926004,"Remanso",BA,6
+2926103,"Retirolândia",BA,2
+2926202,"Riachão das Neves",BA,14
+2926301,"Riachão do Jacuípe",BA,4
+2926400,"Riacho de Santana",BA,10
+2926509,"Ribeira do Amparo",BA,4
+2926608,"Ribeira do Pombal",BA,4
+2926657,"Ribeirão do Largo",BA,6
+2926707,"Rio de Contas",BA,6
+2926806,"Rio do Antônio",BA,6
+2926905,"Rio do Pires",BA,6
+2927002,"Rio Real",BA,2
+2927101,"Rodelas",BA,6
+2927200,"Ruy Barbosa",BA,4
+2927309,"Salinas da Margarida",BA,4
+2927408,"Salvador",BA,4
+2927507,"Santa Bárbara",BA,2
+2927606,"Santa Brígida",BA,4
+2927705,"Santa Cruz Cabrália",BA,6
+2927804,"Santa Cruz da Vitória",BA,4
+2927903,"Santa Inês",BA,4
+2928000,"Santaluz",BA,4
+2928059,"Santa Luzia",BA,4
+2928109,"Santa Maria da Vitória",BA,10
+2928208,"Santana",BA,10
+2928307,"Santanópolis",BA,4
+2928406,"Santa Rita de Cássia",BA,12
+2928505,"Santa Terezinha",BA,4
+2928604,"Santo Amaro",BA,4
+2928703,"Santo Antônio de Jesus",BA,2
+2928802,"Santo Estêvão",BA,4
+2928901,"São Desidério",BA,18
+2928950,"São Domingos",BA,4
+2929008,"São Félix",BA,4
+2929057,"São Félix do Coribe",BA,8
+2929107,"São Felipe",BA,2
+2929206,"São Francisco do Conde",BA,4
+2929255,"São Gabriel",BA,6
+2929305,"São Gonçalo dos Campos",BA,4
+2929354,"São José da Vitória",BA,4
+2929370,"São José do Jacuípe",BA,2
+2929404,"São Miguel das Matas",BA,2
+2929503,"São Sebastião do Passé",BA,4
+2929602,"Sapeaçu",BA,4
+2929701,"Sátiro Dias",BA,4
+2929750,"Saubara",BA,4
+2929800,"Saúde",BA,4
+2929909,"Seabra",BA,4
+2930006,"Sebastião Laranjeiras",BA,8
+2930105,"Senhor do Bonfim",BA,4
+2930154,"Serra do Ramalho",BA,8
+2930204,"Sento Sé",BA,8
+2930303,"Serra Dourada",BA,10
+2930402,"Serra Preta",BA,4
+2930501,"Serrinha",BA,2
+2930600,"Serrolândia",BA,2
+2930709,"Simões Filho",BA,2
+2930758,"Sítio do Mato",BA,16
+2930766,"Sítio do Quinto",BA,2
+2930774,"Sobradinho",BA,6
+2930808,"Souto Soares",BA,4
+2930907,"Tabocas do Brejo Velho",BA,12
+2931004,"Tanhaçu",BA,4
+2931053,"Tanque Novo",BA,6
+2931103,"Tanquinho",BA,4
+2931202,"Taperoá",BA,2
+2931301,"Tapiramutá",BA,2
+2931350,"Teixeira de Freitas",BA,6
+2931400,"Teodoro Sampaio",BA,4
+2931509,"Teofilândia",BA,4
+2931608,"Teolândia",BA,2
+2931707,"Terra Nova",BA,4
+2931806,"Tremedal",BA,4
+2931905,"Tucano",BA,4
+2932002,"Uauá",BA,4
+2932101,"Ubaíra",BA,4
+2932200,"Ubaitaba",BA,2
+2932309,"Ubatã",BA,2
+2932408,"Uibaí",BA,6
+2932457,"Umburanas",BA,4
+2932507,"Una",BA,4
+2932606,"Urandi",BA,6
+2932705,"Uruçuca",BA,2
+2932804,"Utinga",BA,4
+2932903,"Valença",BA,2
+2933000,"Valente",BA,4
+2933059,"Várzea da Roça",BA,2
+2933109,"Várzea do Poço",BA,4
+2933158,"Várzea Nova",BA,4
+2933174,"Varzedo",BA,2
+2933208,"Vera Cruz",BA,4
+2933257,"Vereda",BA,6
+2933307,"Vitória da Conquista",BA,4
+2933406,"Wagner",BA,4
+2933455,"Wanderley",BA,14
+2933505,"Wenceslau Guimarães",BA,2
+2933604,"Xique-Xique",BA,10
+3100104,"Abadia dos Dourados",MG,12
+3100203,"Abaeté",MG,14
+3100302,"Abre Campo",MG,10
+3100401,"Acaiaca",MG,14
+3100500,"Açucena",MG,16
+3100609,"Água Boa",MG,10
+3100708,"Água Comprida",MG,16
+3100807,"Aguanil",MG,12
+3100906,"Águas Formosas",MG,8
+3101003,"Águas Vermelhas",MG,6
+3101102,"Aimorés",MG,8
+3101201,"Aiuruoca",MG,20
+3101300,"Alagoa",MG,20
+3101409,"Albertina",MG,14
+3101508,"Além Paraíba",MG,20
+3101607,"Alfenas",MG,10
+3101631,"Alfredo Vasconcelos",MG,20
+3101706,"Almenara",MG,8
+3101805,"Alpercata",MG,10
+3101904,"Alpinópolis",MG,14
+3102001,"Alterosa",MG,12
+3102050,"Alto Caparaó",MG,12
+3102100,"Alto Rio Doce",MG,20
+3102209,"Alvarenga",MG,8
+3102308,"Alvinópolis",MG,18
+3102407,"Alvorada de Minas",MG,14
+3102506,"Amparo do Serra",MG,10
+3102605,"Andradas",MG,14
+3102704,"Cachoeira de Pajeú",MG,8
+3102803,"Andrelândia",MG,20
+3102852,"Angelândia",MG,8
+3102902,"Antônio Carlos",MG,26
+3103009,"Antônio Dias",MG,16
+3103108,"Antônio Prado de Minas",MG,14
+3103207,"Araçaí",MG,10
+3103306,"Aracitaba",MG,22
+3103405,"Araçuaí",MG,8
+3103504,"Araguari",MG,14
+3103603,"Arantina",MG,22
+3103702,"Araponga",MG,10
+3103751,"Araporã",MG,16
+3103801,"Arapuá",MG,10
+3103900,"Araújos",MG,12
+3104007,"Araxá",MG,14
+3104106,"Arceburgo",MG,16
+3104205,"Arcos",MG,14
+3104304,"Areado",MG,10
+3104403,"Argirita",MG,20
+3104452,"Aricanduva",MG,8
+3104502,"Arinos",MG,14
+3104601,"Astolfo Dutra",MG,16
+3104700,"Ataléia",MG,10
+3104809,"Augusto de Lima",MG,10
+3104908,"Baependi",MG,16
+3105004,"Baldim",MG,10
+3105103,"Bambuí",MG,14
+3105202,"Bandeira",MG,6
+3105301,"Bandeira do Sul",MG,12
+3105400,"Barão de Cocais",MG,14
+3105509,"Barão de Monte Alto",MG,16
+3105608,"Barbacena",MG,20
+3105707,"Barra Longa",MG,18
+3105905,"Barroso",MG,18
+3106002,"Bela Vista de Minas",MG,16
+3106101,"Belmiro Braga",MG,30
+3106200,"Belo Horizonte",MG,14
+3106309,"Belo Oriente",MG,12
+3106408,"Belo Vale",MG,16
+3106507,"Berilo",MG,6
+3106606,"Bertópolis",MG,6
+3106655,"Berizal",MG,6
+3106705,"Betim",MG,12
+3106804,"Bias Fortes",MG,28
+3106903,"Bicas",MG,24
+3107000,"Biquinhas",MG,12
+3107109,"Boa Esperança",MG,12
+3107208,"Bocaina de Minas",MG,28
+3107307,"Bocaiúva",MG,10
+3107406,"Bom Despacho",MG,14
+3107505,"Bom Jardim de Minas",MG,26
+3107604,"Bom Jesus da Penha",MG,16
+3107703,"Bom Jesus do Amparo",MG,14
+3107802,"Bom Jesus do Galho",MG,12
+3107901,"Bom Repouso",MG,14
+3108008,"Bom Sucesso",MG,10
+3108107,"Bonfim",MG,12
+3108206,"Bonfinópolis de Minas",MG,12
+3108255,"Bonito de Minas",MG,10
+3108305,"Borda da Mata",MG,14
+3108404,"Botelhos",MG,12
+3108503,"Botumirim",MG,8
+3108552,"Brasilândia de Minas",MG,12
+3108602,"Brasília de Minas",MG,10
+3108701,"Brás Pires",MG,18
+3108800,"Braúnas",MG,16
+3108909,"Brazópolis",MG,14
+3109006,"Brumadinho",MG,14
+3109105,"Bueno Brandão",MG,14
+3109204,"Buenópolis",MG,10
+3109253,"Bugre",MG,10
+3109303,"Buritis",MG,16
+3109402,"Buritizeiro",MG,14
+3109451,"Cabeceira Grande",MG,14
+3109501,"Cabo Verde",MG,12
+3109600,"Cachoeira da Prata",MG,10
+3109709,"Cachoeira de Minas",MG,12
+3109808,"Cachoeira Dourada",MG,16
+3109907,"Caetanópolis",MG,10
+3110004,"Caeté",MG,14
+3110103,"Caiana",MG,14
+3110202,"Cajuri",MG,12
+3110301,"Caldas",MG,14
+3110400,"Camacho",MG,12
+3110509,"Camanducaia",MG,18
+3110608,"Cambuí",MG,14
+3110707,"Cambuquira",MG,12
+3110806,"Campanário",MG,10
+3110905,"Campanha",MG,12
+3111002,"Campestre",MG,12
+3111101,"Campina Verde",MG,20
+3111150,"Campo Azul",MG,10
+3111200,"Campo Belo",MG,12
+3111309,"Campo do Meio",MG,10
+3111408,"Campo Florido",MG,16
+3111507,"Campos Altos",MG,14
+3111606,"Campos Gerais",MG,10
+3111705,"Canaã",MG,10
+3111804,"Canápolis",MG,18
+3111903,"Cana Verde",MG,12
+3112000,"Candeias",MG,12
+3112059,"Cantagalo",MG,12
+3112109,"Caparaó",MG,12
+3112208,"Capela Nova",MG,20
+3112307,"Capelinha",MG,8
+3112406,"Capetinga",MG,14
+3112505,"Capim Branco",MG,10
+3112604,"Capinópolis",MG,14
+3112653,"Capitão Andrade",MG,8
+3112703,"Capitão Enéas",MG,8
+3112802,"Capitólio",MG,14
+3112901,"Caputira",MG,10
+3113008,"Caraí",MG,6
+3113107,"Caranaíba",MG,20
+3113206,"Carandaí",MG,20
+3113305,"Carangola",MG,14
+3113404,"Caratinga",MG,12
+3113503,"Carbonita",MG,8
+3113602,"Careaçu",MG,12
+3113701,"Carlos Chagas",MG,8
+3113800,"Carmésia",MG,16
+3113909,"Carmo da Cachoeira",MG,14
+3114006,"Carmo da Mata",MG,10
+3114105,"Carmo de Minas",MG,10
+3114204,"Carmo do Cajuru",MG,10
+3114303,"Carmo do Paranaíba",MG,14
+3114402,"Carmo do Rio Claro",MG,12
+3114501,"Carmópolis de Minas",MG,10
+3114550,"Carneirinho",MG,16
+3114600,"Carrancas",MG,12
+3114709,"Carvalhópolis",MG,12
+3114808,"Carvalhos",MG,22
+3114907,"Casa Grande",MG,16
+3115003,"Cascalho Rico",MG,12
+3115102,"Cássia",MG,16
+3115201,"Conceição da Barra de Minas",MG,12
+3115300,"Cataguases",MG,18
+3115359,"Catas Altas",MG,18
+3115409,"Catas Altas da Noruega",MG,18
+3115458,"Catuji",MG,6
+3115474,"Catuti",MG,10
+3115508,"Caxambu",MG,12
+3115607,"Cedro do Abaeté",MG,12
+3115706,"Central de Minas",MG,8
+3115805,"Centralina",MG,18
+3115904,"Chácara",MG,28
+3116001,"Chalé",MG,12
+3116100,"Chapada do Norte",MG,6
+3116159,"Chapada Gaúcha",MG,14
+3116209,"Chiador",MG,22
+3116308,"Cipotânea",MG,18
+3116407,"Claraval",MG,12
+3116506,"Claro dos Poções",MG,8
+3116605,"Cláudio",MG,10
+3116704,"Coimbra",MG,12
+3116803,"Coluna",MG,12
+3116902,"Comendador Gomes",MG,20
+3117009,"Comercinho",MG,6
+3117108,"Conceição da Aparecida",MG,12
+3117207,"Conceição das Pedras",MG,10
+3117306,"Conceição das Alagoas",MG,16
+3117405,"Conceição de Ipanema",MG,12
+3117504,"Conceição do Mato Dentro",MG,16
+3117603,"Conceição do Pará",MG,10
+3117702,"Conceição do Rio Verde",MG,12
+3117801,"Conceição dos Ouros",MG,12
+3117836,"Cônego Marinho",MG,10
+3117876,"Confins",MG,10
+3117900,"Congonhal",MG,14
+3118007,"Congonhas",MG,18
+3118106,"Congonhas do Norte",MG,12
+3118205,"Conquista",MG,14
+3118304,"Conselheiro Lafaiete",MG,20
+3118403,"Conselheiro Pena",MG,8
+3118502,"Consolação",MG,14
+3118601,"Contagem",MG,12
+3118700,"Coqueiral",MG,12
+3118809,"Coração de Jesus",MG,10
+3118908,"Cordisburgo",MG,10
+3119005,"Cordislândia",MG,12
+3119104,"Corinto",MG,10
+3119203,"Coroaci",MG,14
+3119302,"Coromandel",MG,12
+3119401,"Coronel Fabriciano",MG,14
+3119500,"Coronel Murta",MG,8
+3119609,"Coronel Pacheco",MG,28
+3119708,"Coronel Xavier Chaves",MG,16
+3119807,"Córrego Danta",MG,12
+3119906,"Córrego do Bom Jesus",MG,14
+3119955,"Córrego Fundo",MG,14
+3120003,"Córrego Novo",MG,12
+3120102,"Couto de Magalhães de Minas",MG,12
+3120151,"Crisólita",MG,8
+3120201,"Cristais",MG,12
+3120300,"Cristália",MG,8
+3120409,"Cristiano Otoni",MG,18
+3120508,"Cristina",MG,10
+3120607,"Crucilândia",MG,12
+3120706,"Cruzeiro da Fortaleza",MG,14
+3120805,"Cruzília",MG,14
+3120839,"Cuparaque",MG,8
+3120870,"Curral de Dentro",MG,6
+3120904,"Curvelo",MG,10
+3121001,"Datas",MG,12
+3121100,"Delfim Moreira",MG,14
+3121209,"Delfinópolis",MG,18
+3121258,"Delta",MG,16
+3121308,"Descoberto",MG,18
+3121407,"Desterro de Entre Rios",MG,14
+3121506,"Desterro do Melo",MG,20
+3121605,"Diamantina",MG,10
+3121704,"Diogo de Vasconcelos",MG,16
+3121803,"Dionísio",MG,16
+3121902,"Divinésia",MG,14
+3122009,"Divino",MG,12
+3122108,"Divino das Laranjeiras",MG,10
+3122207,"Divinolândia de Minas",MG,16
+3122306,"Divinópolis",MG,12
+3122355,"Divisa Alegre",MG,6
+3122405,"Divisa Nova",MG,10
+3122454,"Divisópolis",MG,6
+3122470,"Dom Bosco",MG,10
+3122504,"Dom Cavati",MG,8
+3122603,"Dom Joaquim",MG,16
+3122702,"Dom Silvério",MG,18
+3122801,"Dom Viçoso",MG,12
+3122900,"Dona Euzébia",MG,16
+3123007,"Dores de Campos",MG,18
+3123106,"Dores de Guanhães",MG,16
+3123205,"Dores do Indaiá",MG,14
+3123304,"Dores do Turvo",MG,16
+3123403,"Doresópolis",MG,14
+3123502,"Douradoquara",MG,12
+3123528,"Durandé",MG,12
+3123601,"Elói Mendes",MG,12
+3123700,"Engenheiro Caldas",MG,10
+3123809,"Engenheiro Navarro",MG,8
+3123858,"Entre Folhas",MG,10
+3123908,"Entre Rios de Minas",MG,16
+3124005,"Ervália",MG,12
+3124104,"Esmeraldas",MG,10
+3124203,"Espera Feliz",MG,14
+3124302,"Espinosa",MG,8
+3124401,"Espírito Santo do Dourado",MG,14
+3124500,"Estiva",MG,12
+3124609,"Estrela Dalva",MG,18
+3124708,"Estrela do Indaiá",MG,12
+3124807,"Estrela do Sul",MG,10
+3124906,"Eugenópolis",MG,14
+3125002,"Ewbank da Câmara",MG,30
+3125101,"Extrema",MG,16
+3125200,"Fama",MG,10
+3125309,"Faria Lemos",MG,14
+3125408,"Felício dos Santos",MG,12
+3125507,"São Gonçalo do Rio Preto",MG,10
+3125606,"Felisburgo",MG,6
+3125705,"Felixlândia",MG,10
+3125804,"Fernandes Tourinho",MG,10
+3125903,"Ferros",MG,16
+3125952,"Fervedouro",MG,10
+3126000,"Florestal",MG,10
+3126109,"Formiga",MG,14
+3126208,"Formoso",MG,16
+3126307,"Fortaleza de Minas",MG,14
+3126406,"Fortuna de Minas",MG,10
+3126505,"Francisco Badaró",MG,6
+3126604,"Francisco Dumont",MG,10
+3126703,"Francisco Sá",MG,8
+3126752,"Franciscópolis",MG,8
+3126802,"Frei Gaspar",MG,10
+3126901,"Frei Inocêncio",MG,10
+3126950,"Frei Lagonegro",MG,10
+3127008,"Fronteira",MG,18
+3127057,"Fronteira dos Vales",MG,6
+3127073,"Fruta de Leite",MG,8
+3127107,"Frutal",MG,20
+3127206,"Funilândia",MG,10
+3127305,"Galiléia",MG,8
+3127339,"Gameleiras",MG,10
+3127354,"Glaucilândia",MG,8
+3127370,"Goiabeira",MG,8
+3127388,"Goianá",MG,24
+3127404,"Gonçalves",MG,16
+3127503,"Gonzaga",MG,16
+3127602,"Gouveia",MG,12
+3127701,"Governador Valadares",MG,14
+3127800,"Grão Mogol",MG,8
+3127909,"Grupiara",MG,12
+3128006,"Guanhães",MG,16
+3128105,"Guapé",MG,12
+3128204,"Guaraciaba",MG,14
+3128253,"Guaraciama",MG,8
+3128303,"Guaranésia",MG,16
+3128402,"Guarani",MG,18
+3128501,"Guarará",MG,24
+3128600,"Guarda-Mor",MG,14
+3128709,"Guaxupé",MG,14
+3128808,"Guidoval",MG,14
+3128907,"Guimarânia",MG,14
+3129004,"Guiricema",MG,12
+3129103,"Gurinhatã",MG,16
+3129202,"Heliodora",MG,10
+3129301,"Iapu",MG,10
+3129400,"Ibertioga",MG,22
+3129509,"Ibiá",MG,14
+3129608,"Ibiaí",MG,12
+3129657,"Ibiracatu",MG,8
+3129707,"Ibiraci",MG,14
+3129806,"Ibirité",MG,12
+3129905,"Ibitiúra de Minas",MG,14
+3130002,"Ibituruna",MG,10
+3130051,"Icaraí de Minas",MG,10
+3130101,"Igarapé",MG,10
+3130200,"Igaratinga",MG,10
+3130309,"Iguatama",MG,14
+3130408,"Ijaci",MG,12
+3130507,"Ilicínea",MG,12
+3130556,"Imbé de Minas",MG,8
+3130606,"Inconfidentes",MG,14
+3130655,"Indaiabira",MG,6
+3130705,"Indianópolis",MG,10
+3130804,"Ingaí",MG,14
+3130903,"Inhapim",MG,8
+3131000,"Inhaúma",MG,10
+3131109,"Inimutaba",MG,10
+3131158,"Ipaba",MG,10
+3131208,"Ipanema",MG,10
+3131307,"Ipatinga",MG,12
+3131406,"Ipiaçu",MG,14
+3131505,"Ipuiúna",MG,14
+3131604,"Iraí de Minas",MG,12
+3131703,"Itabira",MG,16
+3131802,"Itabirinha",MG,10
+3131901,"Itabirito",MG,16
+3132008,"Itacambira",MG,8
+3132107,"Itacarambi",MG,10
+3132206,"Itaguara",MG,12
+3132305,"Itaipé",MG,8
+3132404,"Itajubá",MG,12
+3132503,"Itamarandiba",MG,12
+3132602,"Itamarati de Minas",MG,18
+3132701,"Itambacuri",MG,10
+3132800,"Itambé do Mato Dentro",MG,16
+3132909,"Itamogi",MG,16
+3133006,"Itamonte",MG,20
+3133105,"Itanhandu",MG,16
+3133204,"Itanhomi",MG,8
+3133303,"Itaobim",MG,6
+3133402,"Itapagipe",MG,20
+3133501,"Itapecerica",MG,14
+3133600,"Itapeva",MG,16
+3133709,"Itatiaiuçu",MG,10
+3133758,"Itaú de Minas",MG,14
+3133808,"Itaúna",MG,10
+3133907,"Itaverava",MG,20
+3134004,"Itinga",MG,8
+3134103,"Itueta",MG,8
+3134202,"Ituiutaba",MG,18
+3134301,"Itumirim",MG,12
+3134400,"Iturama",MG,16
+3134509,"Itutinga",MG,12
+3134608,"Jaboticatubas",MG,14
+3134707,"Jacinto",MG,8
+3134806,"Jacuí",MG,16
+3134905,"Jacutinga",MG,14
+3135001,"Jaguaraçu",MG,14
+3135050,"Jaíba",MG,10
+3135076,"Jampruca",MG,10
+3135100,"Janaúba",MG,10
+3135209,"Januária",MG,12
+3135308,"Japaraíba",MG,14
+3135357,"Japonvar",MG,8
+3135407,"Jeceaba",MG,16
+3135456,"Jenipapo de Minas",MG,6
+3135506,"Jequeri",MG,10
+3135605,"Jequitaí",MG,10
+3135704,"Jequitibá",MG,10
+3135803,"Jequitinhonha",MG,6
+3135902,"Jesuânia",MG,10
+3136009,"Joaíma",MG,6
+3136108,"Joanésia",MG,14
+3136207,"João Monlevade",MG,16
+3136306,"João Pinheiro",MG,14
+3136405,"Joaquim Felício",MG,10
+3136504,"Jordânia",MG,6
+3136520,"José Gonçalves de Minas",MG,6
+3136553,"José Raydan",MG,10
+3136579,"Josenópolis",MG,8
+3136603,"Nova União",MG,12
+3136652,"Juatuba",MG,10
+3136702,"Juiz de Fora",MG,30
+3136801,"Juramento",MG,8
+3136900,"Juruaia",MG,14
+3136959,"Juvenília",MG,10
+3137007,"Ladainha",MG,8
+3137106,"Lagamar",MG,12
+3137205,"Lagoa da Prata",MG,14
+3137304,"Lagoa dos Patos",MG,12
+3137403,"Lagoa Dourada",MG,16
+3137502,"Lagoa Formosa",MG,14
+3137536,"Lagoa Grande",MG,10
+3137601,"Lagoa Santa",MG,10
+3137700,"Lajinha",MG,12
+3137809,"Lambari",MG,10
+3137908,"Lamim",MG,18
+3138005,"Laranjal",MG,16
+3138104,"Lassance",MG,10
+3138203,"Lavras",MG,14
+3138302,"Leandro Ferreira",MG,12
+3138351,"Leme do Prado",MG,6
+3138401,"Leopoldina",MG,20
+3138500,"Liberdade",MG,26
+3138609,"Lima Duarte",MG,30
+3138625,"Limeira do Oeste",MG,12
+3138658,"Lontra",MG,8
+3138674,"Luisburgo",MG,12
+3138682,"Luislândia",MG,10
+3138708,"Luminárias",MG,14
+3138807,"Luz",MG,14
+3138906,"Machacalis",MG,8
+3139003,"Machado",MG,12
+3139102,"Madre de Deus de Minas",MG,14
+3139201,"Malacacheta",MG,8
+3139250,"Mamonas",MG,8
+3139300,"Manga",MG,10
+3139409,"Manhuaçu",MG,12
+3139508,"Manhumirim",MG,12
+3139607,"Mantena",MG,8
+3139706,"Maravilhas",MG,10
+3139805,"Mar de Espanha",MG,24
+3139904,"Maria da Fé",MG,12
+3140001,"Mariana",MG,18
+3140100,"Marilac",MG,12
+3140159,"Mário Campos",MG,12
+3140209,"Maripá de Minas",MG,22
+3140308,"Marliéria",MG,14
+3140407,"Marmelópolis",MG,14
+3140506,"Martinho Campos",MG,14
+3140530,"Martins Soares",MG,12
+3140555,"Mata Verde",MG,6
+3140605,"Materlândia",MG,14
+3140704,"Mateus Leme",MG,10
+3140803,"Matias Barbosa",MG,30
+3140852,"Matias Cardoso",MG,8
+3140902,"Matipó",MG,10
+3141009,"Mato Verde",MG,10
+3141108,"Matozinhos",MG,10
+3141207,"Matutina",MG,10
+3141306,"Medeiros",MG,14
+3141405,"Medina",MG,6
+3141504,"Mendes Pimentel",MG,8
+3141603,"Mercês",MG,20
+3141702,"Mesquita",MG,14
+3141801,"Minas Novas",MG,6
+3141900,"Minduri",MG,14
+3142007,"Mirabela",MG,8
+3142106,"Miradouro",MG,12
+3142205,"Miraí",MG,14
+3142254,"Miravânia",MG,10
+3142304,"Moeda",MG,16
+3142403,"Moema",MG,12
+3142502,"Monjolos",MG,10
+3142601,"Monsenhor Paulo",MG,12
+3142700,"Montalvânia",MG,8
+3142809,"Monte Alegre de Minas",MG,20
+3142908,"Monte Azul",MG,10
+3143005,"Monte Belo",MG,12
+3143104,"Monte Carmelo",MG,12
+3143153,"Monte Formoso",MG,6
+3143203,"Monte Santo de Minas",MG,16
+3143302,"Montes Claros",MG,8
+3143401,"Monte Sião",MG,14
+3143450,"Montezuma",MG,6
+3143500,"Morada Nova de Minas",MG,14
+3143609,"Morro da Garça",MG,10
+3143708,"Morro do Pilar",MG,14
+3143807,"Munhoz",MG,14
+3143906,"Muriaé",MG,16
+3144003,"Mutum",MG,12
+3144102,"Muzambinho",MG,14
+3144201,"Nacip Raydan",MG,12
+3144300,"Nanuque",MG,6
+3144359,"Naque",MG,10
+3144375,"Natalândia",MG,12
+3144409,"Natércia",MG,10
+3144508,"Nazareno",MG,10
+3144607,"Nepomuceno",MG,14
+3144656,"Ninheira",MG,4
+3144672,"Nova Belém",MG,8
+3144706,"Nova Era",MG,16
+3144805,"Nova Lima",MG,14
+3144904,"Nova Módica",MG,10
+3145000,"Nova Ponte",MG,14
+3145059,"Nova Porteirinha",MG,8
+3145109,"Nova Resende",MG,14
+3145208,"Nova Serrana",MG,10
+3145307,"Novo Cruzeiro",MG,8
+3145356,"Novo Oriente de Minas",MG,6
+3145372,"Novorizonte",MG,6
+3145406,"Olaria",MG,28
+3145455,"Olhos-d'Água",MG,10
+3145505,"Olímpio Noronha",MG,10
+3145604,"Oliveira",MG,12
+3145703,"Oliveira Fortes",MG,20
+3145802,"Onça de Pitangui",MG,10
+3145851,"Oratórios",MG,10
+3145877,"Orizânia",MG,10
+3145901,"Ouro Branco",MG,20
+3146008,"Ouro Fino",MG,14
+3146107,"Ouro Preto",MG,18
+3146206,"Ouro Verde de Minas",MG,10
+3146255,"Padre Carvalho",MG,6
+3146305,"Padre Paraíso",MG,6
+3146404,"Paineiras",MG,12
+3146503,"Pains",MG,14
+3146552,"Pai Pedro",MG,10
+3146602,"Paiva",MG,20
+3146701,"Palma",MG,18
+3146750,"Palmópolis",MG,6
+3146909,"Papagaios",MG,10
+3147006,"Paracatu",MG,14
+3147105,"Pará de Minas",MG,10
+3147204,"Paraguaçu",MG,10
+3147303,"Paraisópolis",MG,16
+3147402,"Paraopeba",MG,10
+3147501,"Passabém",MG,16
+3147600,"Passa Quatro",MG,16
+3147709,"Passa Tempo",MG,14
+3147808,"Passa Vinte",MG,30
+3147907,"Passos",MG,16
+3147956,"Patis",MG,8
+3148004,"Patos de Minas",MG,14
+3148103,"Patrocínio",MG,14
+3148202,"Patrocínio do Muriaé",MG,14
+3148301,"Paula Cândido",MG,14
+3148400,"Paulistas",MG,14
+3148509,"Pavão",MG,8
+3148608,"Peçanha",MG,14
+3148707,"Pedra Azul",MG,8
+3148756,"Pedra Bonita",MG,10
+3148806,"Pedra do Anta",MG,10
+3148905,"Pedra do Indaiá",MG,14
+3149002,"Pedra Dourada",MG,12
+3149101,"Pedralva",MG,10
+3149150,"Pedras de Maria da Cruz",MG,10
+3149200,"Pedrinópolis",MG,12
+3149309,"Pedro Leopoldo",MG,10
+3149408,"Pedro Teixeira",MG,30
+3149507,"Pequeri",MG,24
+3149606,"Pequi",MG,10
+3149705,"Perdigão",MG,10
+3149804,"Perdizes",MG,16
+3149903,"Perdões",MG,12
+3149952,"Periquito",MG,12
+3150000,"Pescador",MG,10
+3150109,"Piau",MG,28
+3150158,"Piedade de Caratinga",MG,8
+3150208,"Piedade de Ponte Nova",MG,12
+3150307,"Piedade do Rio Grande",MG,16
+3150406,"Piedade dos Gerais",MG,14
+3150505,"Pimenta",MG,14
+3150539,"Pingo-d'Água",MG,12
+3150570,"Pintópolis",MG,12
+3150604,"Piracema",MG,14
+3150703,"Pirajuba",MG,16
+3150802,"Piranga",MG,18
+3150901,"Piranguçu",MG,14
+3151008,"Piranguinho",MG,12
+3151107,"Pirapetinga",MG,18
+3151206,"Pirapora",MG,12
+3151305,"Piraúba",MG,16
+3151404,"Pitangui",MG,10
+3151503,"Piumhi",MG,12
+3151602,"Planura",MG,16
+3151701,"Poço Fundo",MG,12
+3151800,"Poços de Caldas",MG,14
+3151909,"Pocrane",MG,8
+3152006,"Pompéu",MG,10
+3152105,"Ponte Nova",MG,14
+3152131,"Ponto Chique",MG,12
+3152170,"Ponto dos Volantes",MG,6
+3152204,"Porteirinha",MG,10
+3152303,"Porto Firme",MG,14
+3152402,"Poté",MG,8
+3152501,"Pouso Alegre",MG,14
+3152600,"Pouso Alto",MG,14
+3152709,"Prados",MG,16
+3152808,"Prata",MG,20
+3152907,"Pratápolis",MG,14
+3153004,"Pratinha",MG,14
+3153103,"Presidente Bernardes",MG,16
+3153202,"Presidente Juscelino",MG,10
+3153301,"Presidente Kubitschek",MG,12
+3153400,"Presidente Olegário",MG,14
+3153509,"Alto Jequitibá",MG,12
+3153608,"Prudente de Morais",MG,10
+3153707,"Quartel Geral",MG,14
+3153806,"Queluzito",MG,18
+3153905,"Raposos",MG,14
+3154002,"Raul Soares",MG,12
+3154101,"Recreio",MG,18
+3154150,"Reduto",MG,12
+3154200,"Resende Costa",MG,14
+3154309,"Resplendor",MG,8
+3154408,"Ressaquinha",MG,20
+3154457,"Riachinho",MG,12
+3154507,"Riacho dos Machados",MG,8
+3154606,"Ribeirão das Neves",MG,12
+3154705,"Ribeirão Vermelho",MG,12
+3154804,"Rio Acima",MG,16
+3154903,"Rio Casca",MG,14
+3155009,"Rio Doce",MG,16
+3155108,"Rio do Prado",MG,6
+3155207,"Rio Espera",MG,18
+3155306,"Rio Manso",MG,12
+3155405,"Rio Novo",MG,22
+3155504,"Rio Paranaíba",MG,12
+3155603,"Rio Pardo de Minas",MG,8
+3155702,"Rio Piracicaba",MG,18
+3155801,"Rio Pomba",MG,18
+3155900,"Rio Preto",MG,30
+3156007,"Rio Vermelho",MG,14
+3156106,"Ritápolis",MG,14
+3156205,"Rochedo de Minas",MG,22
+3156304,"Rodeiro",MG,14
+3156403,"Romaria",MG,12
+3156452,"Rosário da Limeira",MG,12
+3156502,"Rubelita",MG,8
+3156601,"Rubim",MG,8
+3156700,"Sabará",MG,14
+3156809,"Sabinópolis",MG,14
+3156908,"Sacramento",MG,18
+3157005,"Salinas",MG,6
+3157104,"Salto da Divisa",MG,6
+3157203,"Santa Bárbara",MG,18
+3157252,"Santa Bárbara do Leste",MG,8
+3157278,"Santa Bárbara do Monte Verde",MG,30
+3157302,"Santa Bárbara do Tugúrio",MG,20
+3157336,"Santa Cruz de Minas",MG,14
+3157377,"Santa Cruz de Salinas",MG,6
+3157401,"Santa Cruz do Escalvado",MG,14
+3157500,"Santa Efigênia de Minas",MG,16
+3157609,"Santa Fé de Minas",MG,12
+3157658,"Santa Helena de Minas",MG,6
+3157708,"Santa Juliana",MG,14
+3157807,"Santa Luzia",MG,12
+3157906,"Santa Margarida",MG,10
+3158003,"Santa Maria de Itabira",MG,16
+3158102,"Santa Maria do Salto",MG,6
+3158201,"Santa Maria do Suaçuí",MG,10
+3158300,"Santana da Vargem",MG,12
+3158409,"Santana de Cataguases",MG,16
+3158508,"Santana de Pirapama",MG,12
+3158607,"Santana do Deserto",MG,26
+3158706,"Santana do Garambéu",MG,22
+3158805,"Santana do Jacaré",MG,12
+3158904,"Santana do Manhuaçu",MG,12
+3158953,"Santana do Paraíso",MG,12
+3159001,"Santana do Riacho",MG,12
+3159100,"Santana dos Montes",MG,20
+3159209,"Santa Rita de Caldas",MG,14
+3159308,"Santa Rita de Jacutinga",MG,30
+3159357,"Santa Rita de Minas",MG,8
+3159407,"Santa Rita de Ibitipoca",MG,24
+3159506,"Santa Rita do Itueto",MG,8
+3159605,"Santa Rita do Sapucaí",MG,12
+3159704,"Santa Rosa da Serra",MG,12
+3159803,"Santa Vitória",MG,14
+3159902,"Santo Antônio do Amparo",MG,10
+3160009,"Santo Antônio do Aventureiro",MG,20
+3160108,"Santo Antônio do Grama",MG,10
+3160207,"Santo Antônio do Itambé",MG,14
+3160306,"Santo Antônio do Jacinto",MG,8
+3160405,"Santo Antônio do Monte",MG,14
+3160454,"Santo Antônio do Retiro",MG,6
+3160504,"Santo Antônio do Rio Abaixo",MG,16
+3160603,"Santo Hipólito",MG,10
+3160702,"Santos Dumont",MG,28
+3160801,"São Bento Abade",MG,14
+3160900,"São Brás do Suaçuí",MG,16
+3160959,"São Domingos das Dores",MG,8
+3161007,"São Domingos do Prata",MG,18
+3161056,"São Félix de Minas",MG,10
+3161106,"São Francisco",MG,12
+3161205,"São Francisco de Paula",MG,12
+3161304,"São Francisco de Sales",MG,16
+3161403,"São Francisco do Glória",MG,12
+3161502,"São Geraldo",MG,14
+3161601,"São Geraldo da Piedade",MG,14
+3161650,"São Geraldo do Baixio",MG,8
+3161700,"São Gonçalo do Abaeté",MG,16
+3161809,"São Gonçalo do Pará",MG,10
+3161908,"São Gonçalo do Rio Abaixo",MG,16
+3162005,"São Gonçalo do Sapucaí",MG,12
+3162104,"São Gotardo",MG,12
+3162203,"São João Batista do Glória",MG,16
+3162252,"São João da Lagoa",MG,10
+3162302,"São João da Mata",MG,14
+3162401,"São João da Ponte",MG,8
+3162450,"São João das Missões",MG,10
+3162500,"São João del Rei",MG,16
+3162559,"São João do Manhuaçu",MG,12
+3162575,"São João do Manteninha",MG,8
+3162609,"São João do Oriente",MG,8
+3162658,"São João do Pacuí",MG,10
+3162708,"São João do Paraíso",MG,6
+3162807,"São João Evangelista",MG,14
+3162906,"São João Nepomuceno",MG,24
+3162922,"São Joaquim de Bicas",MG,12
+3162948,"São José da Barra",MG,12
+3162955,"São José da Lapa",MG,10
+3163003,"São José da Safira",MG,10
+3163102,"São José da Varginha",MG,10
+3163201,"São José do Alegre",MG,12
+3163300,"São José do Divino",MG,10
+3163409,"São José do Goiabal",MG,14
+3163508,"São José do Jacuri",MG,12
+3163607,"São José do Mantimento",MG,12
+3163706,"São Lourenço",MG,12
+3163805,"São Miguel do Anta",MG,10
+3163904,"São Pedro da União",MG,14
+3164001,"São Pedro dos Ferros",MG,12
+3164100,"São Pedro do Suaçuí",MG,12
+3164209,"São Romão",MG,10
+3164308,"São Roque de Minas",MG,18
+3164407,"São Sebastião da Bela Vista",MG,12
+3164431,"São Sebastião da Vargem Alegre",MG,12
+3164472,"São Sebastião do Anta",MG,8
+3164506,"São Sebastião do Maranhão",MG,10
+3164605,"São Sebastião do Oeste",MG,12
+3164704,"São Sebastião do Paraíso",MG,16
+3164803,"São Sebastião do Rio Preto",MG,16
+3164902,"São Sebastião do Rio Verde",MG,12
+3165008,"São Tiago",MG,12
+3165107,"São Tomás de Aquino",MG,16
+3165206,"São Tomé das Letras",MG,14
+3165305,"São Vicente de Minas",MG,14
+3165404,"Sapucaí-Mirim",MG,18
+3165503,"Sardoá",MG,14
+3165537,"Sarzedo",MG,12
+3165552,"Setubinha",MG,8
+3165560,"Sem-Peixe",MG,16
+3165578,"Senador Amaral",MG,14
+3165602,"Senador Cortes",MG,22
+3165701,"Senador Firmino",MG,16
+3165800,"Senador José Bento",MG,14
+3165909,"Senador Modestino Gonçalves",MG,10
+3166006,"Senhora de Oliveira",MG,18
+3166105,"Senhora do Porto",MG,16
+3166204,"Senhora dos Remédios",MG,20
+3166303,"Sericita",MG,10
+3166402,"Seritinga",MG,20
+3166501,"Serra Azul de Minas",MG,14
+3166600,"Serra da Saudade",MG,12
+3166709,"Serra dos Aimorés",MG,6
+3166808,"Serra do Salitre",MG,12
+3166907,"Serrania",MG,10
+3166956,"Serranópolis de Minas",MG,8
+3167004,"Serranos",MG,18
+3167103,"Serro",MG,14
+3167202,"Sete Lagoas",MG,10
+3167301,"Silveirânia",MG,18
+3167400,"Silvianópolis",MG,14
+3167509,"Simão Pereira",MG,28
+3167608,"Simonésia",MG,10
+3167707,"Sobrália",MG,10
+3167806,"Soledade de Minas",MG,12
+3167905,"Tabuleiro",MG,22
+3168002,"Taiobeiras",MG,6
+3168051,"Taparuba",MG,10
+3168101,"Tapira",MG,16
+3168200,"Tapiraí",MG,14
+3168309,"Taquaraçu de Minas",MG,12
+3168408,"Tarumirim",MG,8
+3168507,"Teixeiras",MG,12
+3168606,"Teófilo Otoni",MG,10
+3168705,"Timóteo",MG,14
+3168804,"Tiradentes",MG,16
+3168903,"Tiros",MG,14
+3169000,"Tocantins",MG,16
+3169059,"Tocos do Moji",MG,12
+3169109,"Toledo",MG,14
+3169208,"Tombos",MG,14
+3169307,"Três Corações",MG,14
+3169356,"Três Marias",MG,14
+3169406,"Três Pontas",MG,14
+3169505,"Tumiritinga",MG,8
+3169604,"Tupaciguara",MG,18
+3169703,"Turmalina",MG,8
+3169802,"Turvolândia",MG,12
+3169901,"Ubá",MG,14
+3170008,"Ubaí",MG,10
+3170057,"Ubaporanga",MG,8
+3170107,"Uberaba",MG,16
+3170206,"Uberlândia",MG,20
+3170305,"Umburatiba",MG,8
+3170404,"Unaí",MG,14
+3170438,"União de Minas",MG,14
+3170479,"Uruana de Minas",MG,10
+3170503,"Urucânia",MG,12
+3170529,"Urucuia",MG,14
+3170578,"Vargem Alegre",MG,12
+3170602,"Vargem Bonita",MG,16
+3170651,"Vargem Grande do Rio Pardo",MG,6
+3170701,"Varginha",MG,14
+3170750,"Varjão de Minas",MG,16
+3170800,"Várzea da Palma",MG,10
+3170909,"Varzelândia",MG,8
+3171006,"Vazante",MG,12
+3171030,"Verdelândia",MG,10
+3171071,"Veredinha",MG,8
+3171105,"Veríssimo",MG,16
+3171154,"Vermelho Novo",MG,10
+3171204,"Vespasiano",MG,12
+3171303,"Viçosa",MG,12
+3171402,"Vieiras",MG,12
+3171501,"Mathias Lobato",MG,10
+3171600,"Virgem da Lapa",MG,8
+3171709,"Virgínia",MG,14
+3171808,"Virginópolis",MG,16
+3171907,"Virgolândia",MG,12
+3172004,"Visconde do Rio Branco",MG,14
+3172103,"Volta Grande",MG,18
+3172202,"Wenceslau Braz",MG,14
+3200102,"Afonso Cláudio",ES,10
+3200136,"Águia Branca",ES,10
+3200169,"Água Doce do Norte",ES,8
+3200201,"Alegre",ES,14
+3200300,"Alfredo Chaves",ES,12
+3200359,"Alto Rio Novo",ES,8
+3200409,"Anchieta",ES,10
+3200508,"Apiacá",ES,12
+3200607,"Aracruz",ES,8
+3200706,"Atílio Vivácqua",ES,10
+3200805,"Baixo Guandu",ES,8
+3200904,"Barra de São Francisco",ES,10
+3201001,"Boa Esperança",ES,8
+3201100,"Bom Jesus do Norte",ES,12
+3201159,"Brejetuba",ES,10
+3201209,"Cachoeiro de Itapemirim",ES,12
+3201308,"Cariacica",ES,6
+3201407,"Castelo",ES,12
+3201506,"Colatina",ES,8
+3201605,"Conceição da Barra",ES,6
+3201704,"Conceição do Castelo",ES,12
+3201803,"Divino de São Lourenço",ES,12
+3201902,"Domingos Martins",ES,10
+3202009,"Dores do Rio Preto",ES,14
+3202108,"Ecoporanga",ES,10
+3202207,"Fundão",ES,8
+3202256,"Governador Lindenberg",ES,8
+3202306,"Guaçuí",ES,14
+3202405,"Guarapari",ES,8
+3202454,"Ibatiba",ES,12
+3202504,"Ibiraçu",ES,8
+3202553,"Ibitirama",ES,12
+3202603,"Iconha",ES,10
+3202652,"Irupi",ES,12
+3202702,"Itaguaçu",ES,6
+3202801,"Itapemirim",ES,10
+3202900,"Itarana",ES,6
+3203007,"Iúna",ES,12
+3203056,"Jaguaré",ES,6
+3203106,"Jerônimo Monteiro",ES,12
+3203130,"João Neiva",ES,8
+3203163,"Laranja da Terra",ES,6
+3203205,"Linhares",ES,8
+3203304,"Mantenópolis",ES,8
+3203320,"Marataízes",ES,8
+3203346,"Marechal Floriano",ES,8
+3203353,"Marilândia",ES,8
+3203403,"Mimoso do Sul",ES,12
+3203502,"Montanha",ES,6
+3203601,"Mucurici",ES,6
+3203700,"Muniz Freire",ES,12
+3203809,"Muqui",ES,12
+3203908,"Nova Venécia",ES,12
+3204005,"Pancas",ES,8
+3204054,"Pedro Canário",ES,4
+3204104,"Pinheiros",ES,6
+3204203,"Piúma",ES,8
+3204252,"Ponto Belo",ES,6
+3204302,"Presidente Kennedy",ES,10
+3204351,"Rio Bananal",ES,8
+3204401,"Rio Novo do Sul",ES,10
+3204500,"Santa Leopoldina",ES,8
+3204559,"Santa Maria de Jetibá",ES,8
+3204609,"Santa Teresa",ES,8
+3204658,"São Domingos do Norte",ES,8
+3204708,"São Gabriel da Palha",ES,10
+3204807,"São José do Calçado",ES,14
+3204906,"São Mateus",ES,10
+3204955,"São Roque do Canaã",ES,6
+3205002,"Serra",ES,8
+3205010,"Sooretama",ES,6
+3205036,"Vargem Alta",ES,12
+3205069,"Venda Nova do Imigrante",ES,10
+3205101,"Viana",ES,6
+3205150,"Vila Pavão",ES,12
+3205176,"Vila Valério",ES,8
+3205200,"Vila Velha",ES,6
+3205309,"Vitória",ES,6
+3300100,"Angra dos Reis",RJ,16
+3300159,"Aperibé",RJ,18
+3300209,"Araruama",RJ,14
+3300225,"Areal",RJ,18
+3300233,"Armação dos Búzios",RJ,10
+3300258,"Arraial do Cabo",RJ,6
+3300308,"Barra do Piraí",RJ,32
+3300407,"Barra Mansa",RJ,32
+3300456,"Belford Roxo",RJ,20
+3300506,"Bom Jardim",RJ,22
+3300605,"Bom Jesus do Itabapoana",RJ,14
+3300704,"Cabo Frio",RJ,14
+3300803,"Cachoeiras de Macacu",RJ,22
+3300902,"Cambuci",RJ,18
+3300936,"Carapebus",RJ,12
+3300951,"Comendador Levy Gasparian",RJ,26
+3301009,"Campos dos Goytacazes",RJ,16
+3301108,"Cantagalo",RJ,20
+3301157,"Cardoso Moreira",RJ,12
+3301207,"Carmo",RJ,20
+3301306,"Casimiro de Abreu",RJ,20
+3301405,"Conceição de Macabu",RJ,16
+3301504,"Cordeiro",RJ,20
+3301603,"Duas Barras",RJ,22
+3301702,"Duque de Caxias",RJ,22
+3301801,"Engenheiro Paulo de Frontin",RJ,26
+3301850,"Guapimirim",RJ,22
+3301876,"Iguaba Grande",RJ,10
+3301900,"Itaboraí",RJ,22
+3302007,"Itaguaí",RJ,22
+3302056,"Italva",RJ,12
+3302106,"Itaocara",RJ,18
+3302205,"Itaperuna",RJ,14
+3302254,"Itatiaia",RJ,24
+3302270,"Japeri",RJ,22
+3302304,"Laje do Muriaé",RJ,16
+3302403,"Macaé",RJ,20
+3302452,"Macuco",RJ,20
+3302502,"Magé",RJ,22
+3302601,"Mangaratiba",RJ,16
+3302700,"Maricá",RJ,16
+3302809,"Mendes",RJ,28
+3302858,"Mesquita",RJ,20
+3302908,"Miguel Pereira",RJ,24
+3303005,"Miracema",RJ,16
+3303104,"Natividade",RJ,14
+3303203,"Nilópolis",RJ,20
+3303302,"Niterói",RJ,18
+3303401,"Nova Friburgo",RJ,22
+3303500,"Nova Iguaçu",RJ,22
+3303609,"Paracambi",RJ,24
+3303708,"Paraíba do Sul",RJ,26
+3303807,"Paraty",RJ,16
+3303856,"Paty do Alferes",RJ,22
+3303906,"Petrópolis",RJ,20
+3303955,"Pinheiral",RJ,28
+3304003,"Piraí",RJ,28
+3304102,"Porciúncula",RJ,14
+3304110,"Porto Real",RJ,28
+3304128,"Quatis",RJ,30
+3304144,"Queimados",RJ,20
+3304151,"Quissamã",RJ,10
+3304201,"Resende",RJ,30
+3304300,"Rio Bonito",RJ,20
+3304409,"Rio Claro",RJ,24
+3304508,"Rio das Flores",RJ,30
+3304524,"Rio das Ostras",RJ,16
+3304557,"Rio de Janeiro",RJ,20
+3304607,"Santa Maria Madalena",RJ,16
+3304706,"Santo Antônio de Pádua",RJ,18
+3304755,"São Francisco de Itabapoana",RJ,8
+3304805,"São Fidélis",RJ,16
+3304904,"São Gonçalo",RJ,20
+3305000,"São João da Barra",RJ,6
+3305109,"São João de Meriti",RJ,20
+3305133,"São José de Ubá",RJ,14
+3305158,"São José do Vale do Rio Preto",RJ,20
+3305208,"São Pedro da Aldeia",RJ,10
+3305307,"São Sebastião do Alto",RJ,18
+3305406,"Sapucaia",RJ,20
+3305505,"Saquarema",RJ,14
+3305554,"Seropédica",RJ,22
+3305604,"Silva Jardim",RJ,22
+3305703,"Sumidouro",RJ,22
+3305752,"Tanguá",RJ,20
+3305802,"Teresópolis",RJ,22
+3305901,"Trajano de Moraes",RJ,20
+3306008,"Três Rios",RJ,22
+3306107,"Valença",RJ,30
+3306156,"Varre-Sai",RJ,14
+3306206,"Vassouras",RJ,28
+3306305,"Volta Redonda",RJ,30
+3500105,"Adamantina",SP,16
+3500204,"Adolfo",SP,12
+3500303,"Aguaí",SP,12
+3500402,"Águas da Prata",SP,14
+3500501,"Águas de Lindóia",SP,14
+3500550,"Águas de Santa Bárbara",SP,14
+3500600,"Águas de São Pedro",SP,16
+3500709,"Agudos",SP,14
+3500758,"Alambari",SP,18
+3500808,"Alfredo Marcondes",SP,12
+3500907,"Altair",SP,16
+3501004,"Altinópolis",SP,16
+3501103,"Alto Alegre",SP,12
+3501152,"Alumínio",SP,16
+3501202,"Álvares Florence",SP,14
+3501301,"Álvares Machado",SP,16
+3501400,"Álvaro de Carvalho",SP,14
+3501509,"Alvinlândia",SP,16
+3501608,"Americana",SP,18
+3501707,"Américo Brasiliense",SP,16
+3501806,"Américo de Campos",SP,14
+3501905,"Amparo",SP,14
+3502002,"Analândia",SP,16
+3502101,"Andradina",SP,18
+3502200,"Angatuba",SP,16
+3502309,"Anhembi",SP,16
+3502408,"Anhumas",SP,16
+3502507,"Aparecida",SP,20
+3502606,"Aparecida d'Oeste",SP,16
+3502705,"Apiaí",SP,20
+3502754,"Araçariguama",SP,16
+3502804,"Araçatuba",SP,14
+3502903,"Araçoiaba da Serra",SP,18
+3503000,"Aramina",SP,14
+3503109,"Arandu",SP,14
+3503158,"Arapeí",SP,22
+3503208,"Araraquara",SP,16
+3503307,"Araras",SP,16
+3503356,"Arco-Íris",SP,14
+3503406,"Arealva",SP,12
+3503505,"Areias",SP,20
+3503604,"Areiópolis",SP,14
+3503703,"Ariranha",SP,16
+3503802,"Artur Nogueira",SP,16
+3503901,"Arujá",SP,22
+3503950,"Aspásia",SP,12
+3504008,"Assis",SP,16
+3504107,"Atibaia",SP,18
+3504206,"Auriflama",SP,14
+3504305,"Avaí",SP,14
+3504404,"Avanhandava",SP,10
+3504503,"Avaré",SP,16
+3504602,"Bady Bassitt",SP,14
+3504701,"Balbinos",SP,12
+3504800,"Bálsamo",SP,12
+3504909,"Bananal",SP,22
+3505005,"Barão de Antonina",SP,12
+3505104,"Barbosa",SP,10
+3505203,"Bariri",SP,16
+3505302,"Barra Bonita",SP,14
+3505351,"Barra do Chapéu",SP,16
+3505401,"Barra do Turvo",SP,20
+3505500,"Barretos",SP,16
+3505609,"Barrinha",SP,14
+3505708,"Barueri",SP,18
+3505807,"Bastos",SP,14
+3505906,"Batatais",SP,16
+3506003,"Bauru",SP,12
+3506102,"Bebedouro",SP,14
+3506201,"Bento de Abreu",SP,14
+3506300,"Bernardino de Campos",SP,12
+3506359,"Bertioga",SP,18
+3506409,"Bilac",SP,12
+3506508,"Birigui",SP,12
+3506607,"Biritiba Mirim",SP,18
+3506706,"Boa Esperança do Sul",SP,18
+3506805,"Bocaina",SP,16
+3506904,"Bofete",SP,16
+3507001,"Boituva",SP,16
+3507100,"Bom Jesus dos Perdões",SP,18
+3507159,"Bom Sucesso de Itararé",SP,16
+3507209,"Borá",SP,16
+3507308,"Boracéia",SP,12
+3507407,"Borborema",SP,16
+3507456,"Borebi",SP,16
+3507506,"Botucatu",SP,16
+3507605,"Bragança Paulista",SP,16
+3507704,"Braúna",SP,12
+3507753,"Brejo Alegre",SP,10
+3507803,"Brodowski",SP,16
+3507902,"Brotas",SP,16
+3508009,"Buri",SP,18
+3508108,"Buritama",SP,12
+3508207,"Buritizal",SP,14
+3508306,"Cabrália Paulista",SP,14
+3508405,"Cabreúva",SP,16
+3508504,"Caçapava",SP,20
+3508603,"Cachoeira Paulista",SP,18
+3508702,"Caconde",SP,14
+3508801,"Cafelândia",SP,12
+3508900,"Caiabu",SP,14
+3509007,"Caieiras",SP,20
+3509106,"Caiuá",SP,20
+3509205,"Cajamar",SP,18
+3509254,"Cajati",SP,18
+3509304,"Cajobi",SP,14
+3509403,"Cajuru",SP,18
+3509452,"Campina do Monte Alegre",SP,14
+3509502,"Campinas",SP,18
+3509601,"Campo Limpo Paulista",SP,18
+3509700,"Campos do Jordão",SP,16
+3509809,"Campos Novos Paulista",SP,16
+3509908,"Cananéia",SP,16
+3509957,"Canas",SP,18
+3510005,"Cândido Mota",SP,16
+3510104,"Cândido Rodrigues",SP,18
+3510153,"Canitar",SP,14
+3510203,"Capão Bonito",SP,20
+3510302,"Capela do Alto",SP,18
+3510401,"Capivari",SP,16
+3510500,"Caraguatatuba",SP,16
+3510609,"Carapicuíba",SP,18
+3510708,"Cardoso",SP,14
+3510807,"Casa Branca",SP,14
+3510906,"Cássia dos Coqueiros",SP,16
+3511003,"Castilho",SP,18
+3511102,"Catanduva",SP,16
+3511201,"Catiguá",SP,16
+3511300,"Cedral",SP,14
+3511409,"Cerqueira César",SP,16
+3511508,"Cerquilho",SP,16
+3511607,"Cesário Lange",SP,16
+3511706,"Charqueada",SP,16
+3511904,"Clementina",SP,12
+3512001,"Colina",SP,14
+3512100,"Colômbia",SP,18
+3512209,"Conchal",SP,16
+3512308,"Conchas",SP,16
+3512407,"Cordeirópolis",SP,16
+3512506,"Coroados",SP,12
+3512605,"Coronel Macedo",SP,12
+3512704,"Corumbataí",SP,16
+3512803,"Cosmópolis",SP,18
+3512902,"Cosmorama",SP,12
+3513009,"Cotia",SP,18
+3513108,"Cravinhos",SP,18
+3513207,"Cristais Paulista",SP,14
+3513306,"Cruzália",SP,16
+3513405,"Cruzeiro",SP,18
+3513504,"Cubatão",SP,18
+3513603,"Cunha",SP,20
+3513702,"Descalvado",SP,16
+3513801,"Diadema",SP,18
+3513850,"Dirce Reis",SP,12
+3513900,"Divinolândia",SP,14
+3514007,"Dobrada",SP,16
+3514106,"Dois Córregos",SP,16
+3514205,"Dolcinópolis",SP,14
+3514304,"Dourado",SP,16
+3514403,"Dracena",SP,18
+3514502,"Duartina",SP,14
+3514601,"Dumont",SP,14
+3514700,"Echaporã",SP,18
+3514809,"Eldorado",SP,20
+3514908,"Elias Fausto",SP,16
+3514924,"Elisiário",SP,16
+3514957,"Embaúba",SP,14
+3515004,"Embu das Artes",SP,18
+3515103,"Embu-Guaçu",SP,16
+3515129,"Emilianópolis",SP,16
+3515152,"Engenheiro Coelho",SP,16
+3515186,"Espírito Santo do Pinhal",SP,14
+3515194,"Espírito Santo do Turvo",SP,14
+3515202,"Estrela d'Oeste",SP,12
+3515301,"Estrela do Norte",SP,18
+3515350,"Euclides da Cunha Paulista",SP,20
+3515400,"Fartura",SP,12
+3515509,"Fernandópolis",SP,14
+3515608,"Fernando Prestes",SP,18
+3515657,"Fernão",SP,14
+3515707,"Ferraz de Vasconcelos",SP,20
+3515806,"Flora Rica",SP,16
+3515905,"Floreal",SP,14
+3516002,"Flórida Paulista",SP,16
+3516101,"Florínea",SP,14
+3516200,"Franca",SP,16
+3516309,"Francisco Morato",SP,18
+3516408,"Franco da Rocha",SP,18
+3516507,"Gabriel Monteiro",SP,12
+3516606,"Gália",SP,16
+3516705,"Garça",SP,16
+3516804,"Gastão Vidigal",SP,12
+3516853,"Gavião Peixoto",SP,18
+3516903,"General Salgado",SP,12
+3517000,"Getulina",SP,12
+3517109,"Glicério",SP,10
+3517208,"Guaiçara",SP,10
+3517307,"Guaimbê",SP,12
+3517406,"Guaíra",SP,16
+3517505,"Guapiaçu",SP,14
+3517604,"Guapiara",SP,18
+3517703,"Guará",SP,14
+3517802,"Guaraçaí",SP,16
+3517901,"Guaraci",SP,18
+3518008,"Guarani d'Oeste",SP,14
+3518107,"Guarantã",SP,12
+3518206,"Guararapes",SP,14
+3518305,"Guararema",SP,20
+3518404,"Guaratinguetá",SP,20
+3518503,"Guareí",SP,16
+3518602,"Guariba",SP,16
+3518701,"Guarujá",SP,18
+3518800,"Guarulhos",SP,22
+3518859,"Guatapará",SP,16
+3518909,"Guzolândia",SP,14
+3519006,"Herculândia",SP,14
+3519055,"Holambra",SP,18
+3519071,"Hortolândia",SP,18
+3519105,"Iacanga",SP,14
+3519204,"Iacri",SP,14
+3519253,"Iaras",SP,16
+3519303,"Ibaté",SP,16
+3519402,"Ibirá",SP,16
+3519501,"Ibirarema",SP,16
+3519600,"Ibitinga",SP,16
+3519709,"Ibiúna",SP,16
+3519808,"Icém",SP,18
+3519907,"Iepê",SP,16
+3520004,"Igaraçu do Tietê",SP,12
+3520103,"Igarapava",SP,16
+3520202,"Igaratá",SP,20
+3520301,"Iguape",SP,20
+3520400,"Ilhabela",SP,12
+3520426,"Ilha Comprida",SP,16
+3520442,"Ilha Solteira",SP,18
+3520509,"Indaiatuba",SP,16
+3520608,"Indiana",SP,14
+3520707,"Indiaporã",SP,14
+3520806,"Inúbia Paulista",SP,14
+3520905,"Ipaussu",SP,12
+3521002,"Iperó",SP,16
+3521101,"Ipeúna",SP,16
+3521150,"Ipiguá",SP,12
+3521200,"Iporanga",SP,20
+3521309,"Ipuã",SP,16
+3521408,"Iracemápolis",SP,16
+3521507,"Irapuã",SP,14
+3521606,"Irapuru",SP,18
+3521705,"Itaberá",SP,14
+3521804,"Itaí",SP,14
+3521903,"Itajobi",SP,16
+3522000,"Itaju",SP,16
+3522109,"Itanhaém",SP,16
+3522158,"Itaoca",SP,18
+3522208,"Itapecerica da Serra",SP,18
+3522307,"Itapetininga",SP,18
+3522406,"Itapeva",SP,18
+3522505,"Itapevi",SP,18
+3522604,"Itapira",SP,14
+3522653,"Itapirapuã Paulista",SP,16
+3522703,"Itápolis",SP,18
+3522802,"Itaporanga",SP,12
+3522901,"Itapuí",SP,12
+3523008,"Itapura",SP,18
+3523107,"Itaquaquecetuba",SP,22
+3523206,"Itararé",SP,14
+3523305,"Itariri",SP,18
+3523404,"Itatiba",SP,14
+3523503,"Itatinga",SP,16
+3523602,"Itirapina",SP,16
+3523701,"Itirapuã",SP,14
+3523800,"Itobi",SP,14
+3523909,"Itu",SP,16
+3524006,"Itupeva",SP,16
+3524105,"Ituverava",SP,14
+3524204,"Jaborandi",SP,14
+3524303,"Jaboticabal",SP,14
+3524402,"Jacareí",SP,20
+3524501,"Jaci",SP,12
+3524600,"Jacupiranga",SP,18
+3524709,"Jaguariúna",SP,18
+3524808,"Jales",SP,12
+3524907,"Jambeiro",SP,20
+3525003,"Jandira",SP,18
+3525102,"Jardinópolis",SP,14
+3525201,"Jarinu",SP,16
+3525300,"Jaú",SP,14
+3525409,"Jeriquara",SP,14
+3525508,"Joanópolis",SP,18
+3525607,"João Ramalho",SP,16
+3525706,"José Bonifácio",SP,12
+3525805,"Júlio Mesquita",SP,12
+3525854,"Jumirim",SP,16
+3525904,"Jundiaí",SP,18
+3526001,"Junqueirópolis",SP,18
+3526100,"Juquiá",SP,20
+3526209,"Juquitiba",SP,14
+3526308,"Lagoinha",SP,20
+3526407,"Laranjal Paulista",SP,18
+3526506,"Lavínia",SP,16
+3526605,"Lavrinhas",SP,20
+3526704,"Leme",SP,14
+3526803,"Lençóis Paulista",SP,16
+3526902,"Limeira",SP,16
+3527009,"Lindóia",SP,14
+3527108,"Lins",SP,10
+3527207,"Lorena",SP,20
+3527256,"Lourdes",SP,12
+3527306,"Louveira",SP,16
+3527405,"Lucélia",SP,16
+3527504,"Lucianópolis",SP,14
+3527603,"Luís Antônio",SP,16
+3527702,"Luiziânia",SP,12
+3527801,"Lupércio",SP,16
+3527900,"Lutécia",SP,18
+3528007,"Macatuba",SP,12
+3528106,"Macaubal",SP,12
+3528205,"Macedônia",SP,14
+3528304,"Magda",SP,14
+3528403,"Mairinque",SP,16
+3528502,"Mairiporã",SP,20
+3528601,"Manduri",SP,14
+3528700,"Marabá Paulista",SP,18
+3528809,"Maracaí",SP,16
+3528858,"Marapoama",SP,14
+3528908,"Mariápolis",SP,16
+3529005,"Marília",SP,18
+3529104,"Marinópolis",SP,14
+3529203,"Martinópolis",SP,16
+3529302,"Matão",SP,18
+3529401,"Mauá",SP,20
+3529500,"Mendonça",SP,14
+3529609,"Meridiano",SP,14
+3529658,"Mesópolis",SP,14
+3529708,"Miguelópolis",SP,16
+3529807,"Mineiros do Tietê",SP,14
+3529906,"Miracatu",SP,20
+3530003,"Mira Estrela",SP,14
+3530102,"Mirandópolis",SP,16
+3530201,"Mirante do Paranapanema",SP,18
+3530300,"Mirassol",SP,12
+3530409,"Mirassolândia",SP,12
+3530508,"Mococa",SP,16
+3530607,"Mogi das Cruzes",SP,20
+3530706,"Mogi Guaçu",SP,14
+3530805,"Mogi Mirim",SP,16
+3530904,"Mombuca",SP,18
+3531001,"Monções",SP,10
+3531100,"Mongaguá",SP,16
+3531209,"Monte Alegre do Sul",SP,14
+3531308,"Monte Alto",SP,18
+3531407,"Monte Aprazível",SP,12
+3531506,"Monte Azul Paulista",SP,14
+3531605,"Monte Castelo",SP,18
+3531704,"Monteiro Lobato",SP,20
+3531803,"Monte Mor",SP,16
+3531902,"Morro Agudo",SP,16
+3532009,"Morungaba",SP,14
+3532058,"Motuca",SP,16
+3532108,"Murutinga do Sul",SP,16
+3532157,"Nantes",SP,16
+3532207,"Narandiba",SP,16
+3532306,"Natividade da Serra",SP,20
+3532405,"Nazaré Paulista",SP,20
+3532504,"Neves Paulista",SP,12
+3532603,"Nhandeara",SP,14
+3532702,"Nipoã",SP,10
+3532801,"Nova Aliança",SP,14
+3532827,"Nova Campina",SP,16
+3532843,"Nova Canaã Paulista",SP,16
+3532868,"Nova Castilho",SP,12
+3532900,"Nova Europa",SP,18
+3533007,"Nova Granada",SP,16
+3533106,"Nova Guataporanga",SP,18
+3533205,"Nova Independência",SP,18
+3533254,"Novais",SP,16
+3533304,"Nova Luzitânia",SP,12
+3533403,"Nova Odessa",SP,18
+3533502,"Novo Horizonte",SP,14
+3533601,"Nuporanga",SP,14
+3533700,"Ocauçu",SP,18
+3533809,"Óleo",SP,14
+3533908,"Olímpia",SP,14
+3534005,"Onda Verde",SP,14
+3534104,"Oriente",SP,18
+3534203,"Orindiúva",SP,18
+3534302,"Orlândia",SP,14
+3534401,"Osasco",SP,18
+3534500,"Oscar Bressane",SP,18
+3534609,"Osvaldo Cruz",SP,14
+3534708,"Ourinhos",SP,14
+3534757,"Ouroeste",SP,14
+3534807,"Ouro Verde",SP,18
+3534906,"Pacaembu",SP,16
+3535002,"Palestina",SP,16
+3535101,"Palmares Paulista",SP,16
+3535200,"Palmeira d'Oeste",SP,14
+3535309,"Palmital",SP,16
+3535408,"Panorama",SP,18
+3535507,"Paraguaçu Paulista",SP,16
+3535606,"Paraibuna",SP,20
+3535705,"Paraíso",SP,16
+3535804,"Paranapanema",SP,16
+3535903,"Paranapuã",SP,14
+3536000,"Parapuã",SP,14
+3536109,"Pardinho",SP,16
+3536208,"Pariquera-Açu",SP,14
+3536257,"Parisi",SP,14
+3536307,"Patrocínio Paulista",SP,16
+3536406,"Paulicéia",SP,16
+3536505,"Paulínia",SP,18
+3536570,"Paulistânia",SP,14
+3536604,"Paulo de Faria",SP,18
+3536703,"Pederneiras",SP,12
+3536802,"Pedra Bela",SP,14
+3536901,"Pedranópolis",SP,14
+3537008,"Pedregulho",SP,14
+3537107,"Pedreira",SP,14
+3537156,"Pedrinhas Paulista",SP,14
+3537206,"Pedro de Toledo",SP,18
+3537305,"Penápolis",SP,10
+3537404,"Pereira Barreto",SP,18
+3537503,"Pereiras",SP,16
+3537602,"Peruíbe",SP,14
+3537701,"Piacatu",SP,12
+3537800,"Piedade",SP,18
+3537909,"Pilar do Sul",SP,20
+3538006,"Pindamonhangaba",SP,18
+3538105,"Pindorama",SP,16
+3538204,"Pinhalzinho",SP,14
+3538303,"Piquerobi",SP,16
+3538501,"Piquete",SP,16
+3538600,"Piracaia",SP,18
+3538709,"Piracicaba",SP,18
+3538808,"Piraju",SP,14
+3538907,"Pirajuí",SP,12
+3539004,"Pirangi",SP,16
+3539103,"Pirapora do Bom Jesus",SP,18
+3539202,"Pirapozinho",SP,16
+3539301,"Pirassununga",SP,16
+3539400,"Piratininga",SP,14
+3539509,"Pitangueiras",SP,14
+3539608,"Planalto",SP,10
+3539707,"Platina",SP,16
+3539806,"Poá",SP,20
+3539905,"Poloni",SP,12
+3540002,"Pompéia",SP,18
+3540101,"Pongaí",SP,12
+3540200,"Pontal",SP,14
+3540259,"Pontalinda",SP,12
+3540309,"Pontes Gestal",SP,14
+3540408,"Populina",SP,14
+3540507,"Porangaba",SP,16
+3540606,"Porto Feliz",SP,16
+3540705,"Porto Ferreira",SP,16
+3540754,"Potim",SP,18
+3540804,"Potirendaba",SP,14
+3540853,"Pracinha",SP,16
+3540903,"Pradópolis",SP,16
+3541000,"Praia Grande",SP,18
+3541059,"Pratânia",SP,14
+3541109,"Presidente Alves",SP,12
+3541208,"Presidente Bernardes",SP,18
+3541307,"Presidente Epitácio",SP,22
+3541406,"Presidente Prudente",SP,14
+3541505,"Presidente Venceslau",SP,18
+3541604,"Promissão",SP,10
+3541653,"Quadra",SP,16
+3541703,"Quatá",SP,16
+3541802,"Queiroz",SP,14
+3541901,"Queluz",SP,20
+3542008,"Quintana",SP,16
+3542107,"Rafard",SP,16
+3542206,"Rancharia",SP,16
+3542305,"Redenção da Serra",SP,20
+3542404,"Regente Feijó",SP,16
+3542503,"Reginópolis",SP,12
+3542602,"Registro",SP,18
+3542701,"Restinga",SP,14
+3542800,"Ribeira",SP,16
+3542909,"Ribeirão Bonito",SP,16
+3543006,"Ribeirão Branco",SP,18
+3543105,"Ribeirão Corrente",SP,14
+3543204,"Ribeirão do Sul",SP,14
+3543238,"Ribeirão dos Índios",SP,16
+3543253,"Ribeirão Grande",SP,20
+3543303,"Ribeirão Pires",SP,20
+3543402,"Ribeirão Preto",SP,16
+3543501,"Riversul",SP,12
+3543600,"Rifaina",SP,14
+3543709,"Rincão",SP,16
+3543808,"Rinópolis",SP,14
+3543907,"Rio Claro",SP,16
+3544004,"Rio das Pedras",SP,18
+3544103,"Rio Grande da Serra",SP,20
+3544202,"Riolândia",SP,16
+3544251,"Rosana",SP,22
+3544301,"Roseira",SP,18
+3544400,"Rubiácea",SP,14
+3544509,"Rubinéia",SP,18
+3544608,"Sabino",SP,12
+3544707,"Sagres",SP,16
+3544806,"Sales",SP,12
+3544905,"Sales Oliveira",SP,14
+3545001,"Salesópolis",SP,20
+3545100,"Salmourão",SP,14
+3545159,"Saltinho",SP,18
+3545209,"Salto",SP,16
+3545308,"Salto de Pirapora",SP,18
+3545407,"Salto Grande",SP,14
+3545506,"Sandovalina",SP,18
+3545605,"Santa Adélia",SP,18
+3545704,"Santa Albertina",SP,14
+3545803,"Santa Bárbara d'Oeste",SP,16
+3546009,"Santa Branca",SP,20
+3546108,"Santa Clara d'Oeste",SP,16
+3546207,"Santa Cruz da Conceição",SP,16
+3546256,"Santa Cruz da Esperança",SP,18
+3546306,"Santa Cruz das Palmeiras",SP,14
+3546405,"Santa Cruz do Rio Pardo",SP,14
+3546504,"Santa Ernestina",SP,16
+3546603,"Santa Fé do Sul",SP,16
+3546702,"Santa Gertrudes",SP,16
+3546801,"Santa Isabel",SP,22
+3546900,"Santa Lúcia",SP,16
+3547007,"Santa Maria da Serra",SP,14
+3547106,"Santa Mercedes",SP,16
+3547205,"Santana da Ponte Pensa",SP,14
+3547304,"Santana de Parnaíba",SP,18
+3547403,"Santa Rita d'Oeste",SP,14
+3547502,"Santa Rita do Passa Quatro",SP,16
+3547601,"Santa Rosa de Viterbo",SP,18
+3547650,"Santa Salete",SP,14
+3547700,"Santo Anastácio",SP,16
+3547809,"Santo André",SP,20
+3547908,"Santo Antônio da Alegria",SP,16
+3548005,"Santo Antônio de Posse",SP,16
+3548054,"Santo Antônio do Aracanguá",SP,14
+3548104,"Santo Antônio do Jardim",SP,14
+3548203,"Santo Antônio do Pinhal",SP,18
+3548302,"Santo Expedito",SP,14
+3548401,"Santópolis do Aguapeí",SP,12
+3548500,"Santos",SP,18
+3548609,"São Bento do Sapucaí",SP,16
+3548708,"São Bernardo do Campo",SP,20
+3548807,"São Caetano do Sul",SP,20
+3548906,"São Carlos",SP,16
+3549003,"São Francisco",SP,12
+3549102,"São João da Boa Vista",SP,14
+3549201,"São João das Duas Pontes",SP,12
+3549250,"São João de Iracema",SP,12
+3549300,"São João do Pau d'Alho",SP,18
+3549409,"São Joaquim da Barra",SP,16
+3549508,"São José da Bela Vista",SP,14
+3549607,"São José do Barreiro",SP,22
+3549706,"São José do Rio Pardo",SP,14
+3549805,"São José do Rio Preto",SP,14
+3549904,"São José dos Campos",SP,20
+3549953,"São Lourenço da Serra",SP,16
+3550001,"São Luiz do Paraitinga",SP,18
+3550100,"São Manuel",SP,14
+3550209,"São Miguel Arcanjo",SP,18
+3550308,"São Paulo",SP,22
+3550407,"São Pedro",SP,16
+3550506,"São Pedro do Turvo",SP,16
+3550605,"São Roque",SP,16
+3550704,"São Sebastião",SP,18
+3550803,"São Sebastião da Grama",SP,14
+3550902,"São Simão",SP,18
+3551009,"São Vicente",SP,18
+3551108,"Sarapuí",SP,18
+3551207,"Sarutaiá",SP,12
+3551306,"Sebastianópolis do Sul",SP,12
+3551405,"Serra Azul",SP,18
+3551504,"Serrana",SP,16
+3551603,"Serra Negra",SP,14
+3551702,"Sertãozinho",SP,14
+3551801,"Sete Barras",SP,20
+3551900,"Severínia",SP,14
+3552007,"Silveiras",SP,20
+3552106,"Socorro",SP,14
+3552205,"Sorocaba",SP,16
+3552304,"Sud Mennucci",SP,16
+3552403,"Sumaré",SP,18
+3552502,"Suzano",SP,20
+3552551,"Suzanápolis",SP,16
+3552601,"Tabapuã",SP,16
+3552700,"Tabatinga",SP,18
+3552809,"Taboão da Serra",SP,18
+3552908,"Taciba",SP,16
+3553005,"Taguaí",SP,12
+3553104,"Taiaçu",SP,16
+3553203,"Taiúva",SP,14
+3553302,"Tambaú",SP,16
+3553401,"Tanabi",SP,12
+3553500,"Tapiraí",SP,20
+3553609,"Tapiratiba",SP,14
+3553658,"Taquaral",SP,14
+3553708,"Taquaritinga",SP,18
+3553807,"Taquarituba",SP,12
+3553856,"Taquarivaí",SP,18
+3553906,"Tarabai",SP,18
+3553955,"Tarumã",SP,16
+3554003,"Tatuí",SP,18
+3554102,"Taubaté",SP,20
+3554201,"Tejupá",SP,12
+3554300,"Teodoro Sampaio",SP,22
+3554409,"Terra Roxa",SP,14
+3554508,"Tietê",SP,18
+3554607,"Timburi",SP,12
+3554656,"Torre de Pedra",SP,16
+3554706,"Torrinha",SP,14
+3554755,"Trabiju",SP,16
+3554805,"Tremembé",SP,18
+3554904,"Três Fronteiras",SP,16
+3554953,"Tuiuti",SP,14
+3555000,"Tupã",SP,14
+3555109,"Tupi Paulista",SP,18
+3555208,"Turiúba",SP,10
+3555307,"Turmalina",SP,14
+3555356,"Ubarana",SP,12
+3555406,"Ubatuba",SP,16
+3555505,"Ubirajara",SP,16
+3555604,"Uchoa",SP,16
+3555703,"União Paulista",SP,10
+3555802,"Urânia",SP,14
+3555901,"Uru",SP,12
+3556008,"Urupês",SP,16
+3556107,"Valentim Gentil",SP,14
+3556206,"Valinhos",SP,16
+3556305,"Valparaíso",SP,14
+3556354,"Vargem",SP,16
+3556404,"Vargem Grande do Sul",SP,14
+3556453,"Vargem Grande Paulista",SP,16
+3556503,"Várzea Paulista",SP,16
+3556602,"Vera Cruz",SP,16
+3556701,"Vinhedo",SP,16
+3556800,"Viradouro",SP,14
+3556909,"Vista Alegre do Alto",SP,16
+3556958,"Vitória Brasil",SP,12
+3557006,"Votorantim",SP,16
+3557105,"Votuporanga",SP,14
+3557154,"Zacarias",SP,10
+3557204,"Chavantes",SP,14
+3557303,"Estiva Gerbi",SP,12
+4100103,"Abatiá",PR,14
+4100202,"Adrianópolis",PR,18
+4100301,"Agudos do Sul",PR,14
+4100400,"Almirante Tamandaré",PR,12
+4100459,"Altamira do Paraná",PR,22
+4100509,"Altônia",PR,20
+4100608,"Alto Paraná",PR,18
+4100707,"Alto Piquiri",PR,20
+4100806,"Alvorada do Sul",PR,16
+4100905,"Amaporã",PR,18
+4101002,"Ampére",PR,22
+4101051,"Anahy",PR,20
+4101101,"Andirá",PR,16
+4101150,"Ângulo",PR,18
+4101200,"Antonina",PR,18
+4101309,"Antônio Olinto",PR,12
+4101408,"Apucarana",PR,18
+4101507,"Arapongas",PR,18
+4101606,"Arapoti",PR,16
+4101655,"Arapuã",PR,16
+4101705,"Araruna",PR,18
+4101804,"Araucária",PR,14
+4101853,"Ariranha do Ivaí",PR,16
+4101903,"Assaí",PR,12
+4102000,"Assis Chateaubriand",PR,22
+4102109,"Astorga",PR,18
+4102208,"Atalaia",PR,18
+4102307,"Balsa Nova",PR,12
+4102406,"Bandeirantes",PR,16
+4102505,"Barbosa Ferraz",PR,18
+4102604,"Barracão",PR,22
+4102703,"Barra do Jacaré",PR,16
+4102752,"Bela Vista da Caroba",PR,22
+4102802,"Bela Vista do Paraíso",PR,14
+4102901,"Bituruna",PR,18
+4103008,"Boa Esperança",PR,18
+4103024,"Boa Esperança do Iguaçu",PR,20
+4103040,"Boa Ventura de São Roque",PR,16
+4103057,"Boa Vista da Aparecida",PR,22
+4103107,"Bocaiúva do Sul",PR,16
+4103156,"Bom Jesus do Sul",PR,22
+4103206,"Bom Sucesso",PR,18
+4103222,"Bom Sucesso do Sul",PR,20
+4103305,"Borrazópolis",PR,16
+4103354,"Braganey",PR,22
+4103370,"Brasilândia do Sul",PR,20
+4103404,"Cafeara",PR,16
+4103453,"Cafelândia",PR,18
+4103479,"Cafezal do Sul",PR,22
+4103503,"Califórnia",PR,18
+4103602,"Cambará",PR,16
+4103701,"Cambé",PR,16
+4103800,"Cambira",PR,18
+4103909,"Campina da Lagoa",PR,22
+4103958,"Campina do Simão",PR,16
+4104006,"Campina Grande do Sul",PR,16
+4104055,"Campo Bonito",PR,22
+4104105,"Campo do Tenente",PR,14
+4104204,"Campo Largo",PR,14
+4104253,"Campo Magro",PR,12
+4104303,"Campo Mourão",PR,18
+4104402,"Cândido de Abreu",PR,16
+4104428,"Candói",PR,20
+4104451,"Cantagalo",PR,18
+4104501,"Capanema",PR,24
+4104600,"Capitão Leônidas Marques",PR,24
+4104659,"Carambeí",PR,12
+4104709,"Carlópolis",PR,12
+4104808,"Cascavel",PR,22
+4104907,"Castro",PR,14
+4105003,"Catanduvas",PR,20
+4105102,"Centenário do Sul",PR,16
+4105201,"Cerro Azul",PR,14
+4105300,"Céu Azul",PR,24
+4105409,"Chopinzinho",PR,22
+4105508,"Cianorte",PR,20
+4105607,"Cidade Gaúcha",PR,20
+4105706,"Clevelândia",PR,18
+4105805,"Colombo",PR,14
+4105904,"Colorado",PR,18
+4106001,"Congonhinhas",PR,14
+4106100,"Conselheiro Mairinck",PR,12
+4106209,"Contenda",PR,14
+4106308,"Corbélia",PR,20
+4106407,"Cornélio Procópio",PR,14
+4106456,"Coronel Domingos Soares",PR,16
+4106506,"Coronel Vivida",PR,20
+4106555,"Corumbataí do Sul",PR,16
+4106571,"Cruzeiro do Iguaçu",PR,20
+4106605,"Cruzeiro do Oeste",PR,22
+4106704,"Cruzeiro do Sul",PR,18
+4106803,"Cruz Machado",PR,16
+4106852,"Cruzmaltina",PR,16
+4106902,"Curitiba",PR,14
+4107009,"Curiúva",PR,18
+4107108,"Diamante do Norte",PR,20
+4107124,"Diamante do Sul",PR,20
+4107157,"Diamante D'Oeste",PR,24
+4107207,"Dois Vizinhos",PR,20
+4107256,"Douradina",PR,24
+4107306,"Doutor Camargo",PR,20
+4107405,"Enéas Marques",PR,20
+4107504,"Engenheiro Beltrão",PR,20
+4107520,"Esperança Nova",PR,24
+4107538,"Entre Rios do Oeste",PR,24
+4107546,"Espigão Alto do Iguaçu",PR,20
+4107553,"Farol",PR,16
+4107603,"Faxinal",PR,18
+4107652,"Fazenda Rio Grande",PR,14
+4107702,"Fênix",PR,18
+4107736,"Fernandes Pinheiro",PR,12
+4107751,"Figueira",PR,16
+4107801,"Floraí",PR,20
+4107850,"Flor da Serra do Sul",PR,22
+4107900,"Floresta",PR,20
+4108007,"Florestópolis",PR,16
+4108106,"Flórida",PR,18
+4108205,"Formosa do Oeste",PR,20
+4108304,"Foz do Iguaçu",PR,22
+4108320,"Francisco Alves",PR,20
+4108403,"Francisco Beltrão",PR,22
+4108452,"Foz do Jordão",PR,18
+4108502,"General Carneiro",PR,18
+4108551,"Godoy Moreira",PR,16
+4108601,"Goioerê",PR,18
+4108650,"Goioxim",PR,18
+4108700,"Grandes Rios",PR,16
+4108809,"Guaíra",PR,24
+4108908,"Guairaçá",PR,18
+4108957,"Guamiranga",PR,12
+4109005,"Guapirama",PR,14
+4109104,"Guaporema",PR,20
+4109203,"Guaraci",PR,16
+4109302,"Guaraniaçu",PR,22
+4109401,"Guarapuava",PR,18
+4109500,"Guaraqueçaba",PR,18
+4109609,"Guaratuba",PR,16
+4109658,"Honório Serpa",PR,18
+4109708,"Ibaiti",PR,14
+4109757,"Ibema",PR,18
+4109807,"Ibiporã",PR,14
+4109906,"Icaraíma",PR,24
+4110003,"Iguaraçu",PR,18
+4110052,"Iguatu",PR,20
+4110078,"Imbaú",PR,14
+4110102,"Imbituva",PR,12
+4110201,"Inácio Martins",PR,16
+4110300,"Inajá",PR,18
+4110409,"Indianópolis",PR,20
+4110508,"Ipiranga",PR,12
+4110607,"Iporã",PR,20
+4110656,"Iracema do Oeste",PR,20
+4110706,"Irati",PR,14
+4110805,"Iretama",PR,16
+4110904,"Itaguajé",PR,18
+4110953,"Itaipulândia",PR,22
+4111001,"Itambaracá",PR,16
+4111100,"Itambé",PR,20
+4111209,"Itapejara d'Oeste",PR,20
+4111258,"Itaperuçu",PR,14
+4111308,"Itaúna do Sul",PR,18
+4111407,"Ivaí",PR,12
+4111506,"Ivaiporã",PR,16
+4111555,"Ivaté",PR,24
+4111605,"Ivatuba",PR,20
+4111704,"Jaboti",PR,12
+4111803,"Jacarezinho",PR,16
+4111902,"Jaguapitã",PR,16
+4112009,"Jaguariaíva",PR,14
+4112108,"Jandaia do Sul",PR,18
+4112207,"Janiópolis",PR,18
+4112306,"Japira",PR,12
+4112405,"Japurá",PR,20
+4112504,"Jardim Alegre",PR,16
+4112603,"Jardim Olinda",PR,18
+4112702,"Jataizinho",PR,12
+4112751,"Jesuítas",PR,20
+4112801,"Joaquim Távora",PR,12
+4112900,"Jundiaí do Sul",PR,14
+4112959,"Juranda",PR,20
+4113007,"Jussara",PR,20
+4113106,"Kaloré",PR,16
+4113205,"Lapa",PR,14
+4113254,"Laranjal",PR,20
+4113304,"Laranjeiras do Sul",PR,22
+4113403,"Leópolis",PR,14
+4113429,"Lidianópolis",PR,16
+4113452,"Lindoeste",PR,22
+4113502,"Loanda",PR,20
+4113601,"Lobato",PR,18
+4113700,"Londrina",PR,16
+4113734,"Luiziana",PR,18
+4113759,"Lunardelli",PR,16
+4113809,"Lupionópolis",PR,16
+4113908,"Mallet",PR,16
+4114005,"Mamborê",PR,20
+4114104,"Mandaguaçu",PR,18
+4114203,"Mandaguari",PR,18
+4114302,"Mandirituba",PR,14
+4114351,"Manfrinópolis",PR,22
+4114401,"Mangueirinha",PR,18
+4114500,"Manoel Ribas",PR,16
+4114609,"Marechal Cândido Rondon",PR,24
+4114708,"Maria Helena",PR,24
+4114807,"Marialva",PR,18
+4114906,"Marilândia do Sul",PR,18
+4115002,"Marilena",PR,20
+4115101,"Mariluz",PR,20
+4115200,"Maringá",PR,18
+4115309,"Mariópolis",PR,18
+4115358,"Maripá",PR,24
+4115408,"Marmeleiro",PR,20
+4115457,"Marquinho",PR,18
+4115507,"Marumbi",PR,18
+4115606,"Matelândia",PR,24
+4115705,"Matinhos",PR,14
+4115739,"Mato Rico",PR,18
+4115754,"Mauá da Serra",PR,18
+4115804,"Medianeira",PR,22
+4115853,"Mercedes",PR,24
+4115903,"Mirador",PR,18
+4116000,"Miraselva",PR,14
+4116059,"Missal",PR,22
+4116109,"Moreira Sales",PR,18
+4116208,"Morretes",PR,18
+4116307,"Munhoz de Melo",PR,18
+4116406,"Nossa Senhora das Graças",PR,18
+4116505,"Nova Aliança do Ivaí",PR,18
+4116604,"Nova América da Colina",PR,12
+4116703,"Nova Aurora",PR,20
+4116802,"Nova Cantu",PR,22
+4116901,"Nova Esperança",PR,18
+4116950,"Nova Esperança do Sudoeste",PR,20
+4117008,"Nova Fátima",PR,14
+4117057,"Nova Laranjeiras",PR,22
+4117107,"Nova Londrina",PR,20
+4117206,"Nova Olímpia",PR,20
+4117214,"Nova Santa Bárbara",PR,12
+4117222,"Nova Santa Rosa",PR,24
+4117255,"Nova Prata do Iguaçu",PR,22
+4117271,"Nova Tebas",PR,16
+4117297,"Novo Itacolomi",PR,18
+4117305,"Ortigueira",PR,18
+4117404,"Ourizona",PR,20
+4117453,"Ouro Verde do Oeste",PR,24
+4117503,"Paiçandu",PR,20
+4117602,"Palmas",PR,16
+4117701,"Palmeira",PR,12
+4117800,"Palmital",PR,18
+4117909,"Palotina",PR,24
+4118006,"Paraíso do Norte",PR,20
+4118105,"Paranacity",PR,18
+4118204,"Paranaguá",PR,16
+4118303,"Paranapoema",PR,18
+4118402,"Paranavaí",PR,18
+4118451,"Pato Bragado",PR,24
+4118501,"Pato Branco",PR,20
+4118600,"Paula Freitas",PR,16
+4118709,"Paulo Frontin",PR,16
+4118808,"Peabiru",PR,20
+4118857,"Perobal",PR,22
+4118907,"Pérola",PR,24
+4119004,"Pérola d'Oeste",PR,24
+4119103,"Piên",PR,14
+4119152,"Pinhais",PR,14
+4119202,"Pinhalão",PR,14
+4119251,"Pinhal de São Bento",PR,22
+4119301,"Pinhão",PR,18
+4119400,"Piraí do Sul",PR,14
+4119509,"Piraquara",PR,16
+4119608,"Pitanga",PR,18
+4119657,"Pitangueiras",PR,14
+4119707,"Planaltina do Paraná",PR,18
+4119806,"Planalto",PR,24
+4119905,"Ponta Grossa",PR,12
+4119954,"Pontal do Paraná",PR,16
+4120002,"Porecatu",PR,16
+4120101,"Porto Amazonas",PR,12
+4120150,"Porto Barreiro",PR,22
+4120200,"Porto Rico",PR,20
+4120309,"Porto Vitória",PR,16
+4120333,"Prado Ferreira",PR,14
+4120358,"Pranchita",PR,22
+4120408,"Presidente Castelo Branco",PR,20
+4120507,"Primeiro de Maio",PR,16
+4120606,"Prudentópolis",PR,16
+4120655,"Quarto Centenário",PR,20
+4120705,"Quatiguá",PR,12
+4120804,"Quatro Barras",PR,16
+4120853,"Quatro Pontes",PR,24
+4120903,"Quedas do Iguaçu",PR,22
+4121000,"Querência do Norte",PR,24
+4121109,"Quinta do Sol",PR,20
+4121208,"Quitandinha",PR,14
+4121257,"Ramilândia",PR,22
+4121307,"Rancho Alegre",PR,12
+4121356,"Rancho Alegre D'Oeste",PR,18
+4121406,"Realeza",PR,24
+4121505,"Rebouças",PR,14
+4121604,"Renascença",PR,20
+4121703,"Reserva",PR,16
+4121752,"Reserva do Iguaçu",PR,18
+4121802,"Ribeirão Claro",PR,14
+4121901,"Ribeirão do Pinhal",PR,14
+4122008,"Rio Azul",PR,14
+4122107,"Rio Bom",PR,18
+4122156,"Rio Bonito do Iguaçu",PR,22
+4122172,"Rio Branco do Ivaí",PR,16
+4122206,"Rio Branco do Sul",PR,14
+4122305,"Rio Negro",PR,14
+4122404,"Rolândia",PR,16
+4122503,"Roncador",PR,20
+4122602,"Rondon",PR,20
+4122651,"Rosário do Ivaí",PR,18
+4122701,"Sabáudia",PR,16
+4122800,"Salgado Filho",PR,22
+4122909,"Salto do Itararé",PR,12
+4123006,"Salto do Lontra",PR,20
+4123105,"Santa Amélia",PR,14
+4123204,"Santa Cecília do Pavão",PR,12
+4123303,"Santa Cruz de Monte Castelo",PR,22
+4123402,"Santa Fé",PR,18
+4123501,"Santa Helena",PR,24
+4123600,"Santa Inês",PR,16
+4123709,"Santa Isabel do Ivaí",PR,22
+4123808,"Santa Izabel do Oeste",PR,22
+4123824,"Santa Lúcia",PR,22
+4123857,"Santa Maria do Oeste",PR,18
+4123907,"Santa Mariana",PR,14
+4123956,"Santa Mônica",PR,20
+4124004,"Santana do Itararé",PR,12
+4124020,"Santa Tereza do Oeste",PR,22
+4124053,"Santa Terezinha de Itaipu",PR,22
+4124103,"Santo Antônio da Platina",PR,16
+4124202,"Santo Antônio do Caiuá",PR,18
+4124301,"Santo Antônio do Paraíso",PR,14
+4124400,"Santo Antônio do Sudoeste",PR,22
+4124509,"Santo Inácio",PR,16
+4124608,"São Carlos do Ivaí",PR,20
+4124707,"São Jerônimo da Serra",PR,16
+4124806,"São João",PR,22
+4124905,"São João do Caiuá",PR,18
+4125001,"São João do Ivaí",PR,16
+4125100,"São João do Triunfo",PR,12
+4125209,"São Jorge d'Oeste",PR,22
+4125308,"São Jorge do Ivaí",PR,20
+4125357,"São Jorge do Patrocínio",PR,22
+4125407,"São José da Boa Vista",PR,12
+4125456,"São José das Palmeiras",PR,24
+4125506,"São José dos Pinhais",PR,16
+4125555,"São Manoel do Paraná",PR,20
+4125605,"São Mateus do Sul",PR,14
+4125704,"São Miguel do Iguaçu",PR,22
+4125753,"São Pedro do Iguaçu",PR,24
+4125803,"São Pedro do Ivaí",PR,18
+4125902,"São Pedro do Paraná",PR,20
+4126009,"São Sebastião da Amoreira",PR,12
+4126108,"São Tomé",PR,20
+4126207,"Sapopema",PR,18
+4126256,"Sarandi",PR,18
+4126272,"Saudade do Iguaçu",PR,22
+4126306,"Sengés",PR,14
+4126355,"Serranópolis do Iguaçu",PR,24
+4126405,"Sertaneja",PR,14
+4126504,"Sertanópolis",PR,14
+4126603,"Siqueira Campos",PR,12
+4126652,"Sulina",PR,22
+4126678,"Tamarana",PR,18
+4126702,"Tamboara",PR,18
+4126801,"Tapejara",PR,20
+4126900,"Tapira",PR,22
+4127007,"Teixeira Soares",PR,12
+4127106,"Telêmaco Borba",PR,18
+4127205,"Terra Boa",PR,20
+4127304,"Terra Rica",PR,18
+4127403,"Terra Roxa",PR,24
+4127502,"Tibagi",PR,14
+4127601,"Tijucas do Sul",PR,14
+4127700,"Toledo",PR,24
+4127809,"Tomazina",PR,12
+4127858,"Três Barras do Paraná",PR,20
+4127882,"Tunas do Paraná",PR,16
+4127908,"Tuneiras do Oeste",PR,18
+4127957,"Tupãssi",PR,20
+4127965,"Turvo",PR,16
+4128005,"Ubiratã",PR,22
+4128104,"Umuarama",PR,26
+4128203,"União da Vitória",PR,16
+4128302,"Uniflor",PR,18
+4128401,"Uraí",PR,12
+4128500,"Wenceslau Braz",PR,12
+4128534,"Ventania",PR,16
+4128559,"Vera Cruz do Oeste",PR,22
+4128609,"Verê",PR,20
+4128625,"Alto Paraíso",PR,24
+4128633,"Doutor Ulysses",PR,16
+4128658,"Virmond",PR,20
+4128708,"Vitorino",PR,18
+4128807,"Xambrê",PR,24
+4200051,"Abdon Batista",SC,14
+4200101,"Abelardo Luz",SC,18
+4200200,"Agrolândia",SC,14
+4200309,"Agronômica",SC,14
+4200408,"Água Doce",SC,18
+4200507,"Águas de Chapecó",SC,18
+4200556,"Águas Frias",SC,20
+4200606,"Águas Mornas",SC,18
+4200705,"Alfredo Wagner",SC,16
+4200754,"Alto Bela Vista",SC,16
+4200804,"Anchieta",SC,22
+4200903,"Angelina",SC,20
+4201000,"Anita Garibaldi",SC,14
+4201109,"Anitápolis",SC,16
+4201208,"Antônio Carlos",SC,20
+4201257,"Apiúna",SC,18
+4201273,"Arabutã",SC,18
+4201307,"Araquari",SC,18
+4201406,"Araranguá",SC,12
+4201505,"Armazém",SC,16
+4201604,"Arroio Trinta",SC,18
+4201653,"Arvoredo",SC,18
+4201703,"Ascurra",SC,18
+4201802,"Atalanta",SC,14
+4201901,"Aurora",SC,16
+4201950,"Balneário Arroio do Silva",SC,12
+4202008,"Balneário Camboriú",SC,16
+4202057,"Balneário Barra do Sul",SC,16
+4202073,"Balneário Gaivota",SC,12
+4202081,"Bandeirante",SC,22
+4202099,"Barra Bonita",SC,20
+4202107,"Barra Velha",SC,16
+4202131,"Bela Vista do Toldo",SC,14
+4202156,"Belmonte",SC,22
+4202206,"Benedito Novo",SC,16
+4202305,"Biguaçu",SC,18
+4202404,"Blumenau",SC,18
+4202438,"Bocaina do Sul",SC,14
+4202453,"Bombinhas",SC,16
+4202503,"Bom Jardim da Serra",SC,12
+4202537,"Bom Jesus",SC,18
+4202578,"Bom Jesus do Oeste",SC,18
+4202602,"Bom Retiro",SC,14
+4202701,"Botuverá",SC,18
+4202800,"Braço do Norte",SC,16
+4202859,"Braço do Trombudo",SC,14
+4202875,"Brunópolis",SC,16
+4202909,"Brusque",SC,18
+4203006,"Caçador",SC,18
+4203105,"Caibi",SC,20
+4203154,"Calmon",SC,18
+4203204,"Camboriú",SC,18
+4203253,"Capão Alto",SC,12
+4203303,"Campo Alegre",SC,16
+4203402,"Campo Belo do Sul",SC,14
+4203501,"Campo Erê",SC,22
+4203600,"Campos Novos",SC,16
+4203709,"Canelinha",SC,18
+4203808,"Canoinhas",SC,14
+4203907,"Capinzal",SC,16
+4203956,"Capivari de Baixo",SC,14
+4204004,"Catanduvas",SC,18
+4204103,"Caxambu do Sul",SC,18
+4204152,"Celso Ramos",SC,14
+4204178,"Cerro Negro",SC,14
+4204194,"Chapadão do Lageado",SC,14
+4204202,"Chapecó",SC,20
+4204251,"Cocal do Sul",SC,14
+4204301,"Concórdia",SC,18
+4204350,"Cordilheira Alta",SC,20
+4204400,"Coronel Freitas",SC,20
+4204459,"Coronel Martins",SC,18
+4204509,"Corupá",SC,18
+4204558,"Correia Pinto",SC,16
+4204608,"Criciúma",SC,14
+4204707,"Cunha Porã",SC,20
+4204756,"Cunhataí",SC,18
+4204806,"Curitibanos",SC,18
+4204905,"Descanso",SC,22
+4205001,"Dionísio Cerqueira",SC,22
+4205100,"Dona Emma",SC,16
+4205159,"Doutor Pedrinho",SC,14
+4205175,"Entre Rios",SC,20
+4205191,"Ermo",SC,14
+4205209,"Erval Velho",SC,16
+4205308,"Faxinal dos Guedes",SC,18
+4205357,"Flor do Sertão",SC,20
+4205407,"Florianópolis",SC,16
+4205431,"Formosa do Sul",SC,20
+4205456,"Forquilhinha",SC,14
+4205506,"Fraiburgo",SC,18
+4205555,"Frei Rogério",SC,18
+4205605,"Galvão",SC,18
+4205704,"Garopaba",SC,12
+4205803,"Garuva",SC,14
+4205902,"Gaspar",SC,18
+4206009,"Governador Celso Ramos",SC,16
+4206108,"Grão-Pará",SC,16
+4206207,"Gravatal",SC,16
+4206306,"Guabiruba",SC,18
+4206405,"Guaraciaba",SC,20
+4206504,"Guaramirim",SC,18
+4206603,"Guarujá do Sul",SC,22
+4206652,"Guatambú",SC,18
+4206702,"Herval d'Oeste",SC,16
+4206751,"Ibiam",SC,16
+4206801,"Ibicaré",SC,16
+4206900,"Ibirama",SC,18
+4207007,"Içara",SC,14
+4207106,"Ilhota",SC,16
+4207205,"Imaruí",SC,14
+4207304,"Imbituba",SC,14
+4207403,"Imbuia",SC,16
+4207502,"Indaial",SC,18
+4207577,"Iomerê",SC,18
+4207601,"Ipira",SC,16
+4207650,"Iporã do Oeste",SC,22
+4207684,"Ipuaçu",SC,18
+4207700,"Ipumirim",SC,18
+4207759,"Iraceminha",SC,20
+4207809,"Irani",SC,18
+4207858,"Irati",SC,20
+4207908,"Irineópolis",SC,16
+4208005,"Itá",SC,18
+4208104,"Itaiópolis",SC,16
+4208203,"Itajaí",SC,18
+4208302,"Itapema",SC,16
+4208401,"Itapiranga",SC,24
+4208450,"Itapoá",SC,14
+4208500,"Ituporanga",SC,16
+4208609,"Jaborá",SC,18
+4208708,"Jacinto Machado",SC,14
+4208807,"Jaguaruna",SC,14
+4208906,"Jaraguá do Sul",SC,18
+4208955,"Jardinópolis",SC,20
+4209003,"Joaçaba",SC,16
+4209102,"Joinville",SC,18
+4209151,"José Boiteux",SC,16
+4209177,"Jupiá",SC,18
+4209201,"Lacerdópolis",SC,16
+4209300,"Lages",SC,14
+4209409,"Laguna",SC,14
+4209458,"Lajeado Grande",SC,20
+4209508,"Laurentino",SC,16
+4209607,"Lauro Müller",SC,14
+4209706,"Lebon Régis",SC,18
+4209805,"Leoberto Leal",SC,18
+4209854,"Lindóia do Sul",SC,18
+4209904,"Lontras",SC,18
+4210001,"Luiz Alves",SC,18
+4210035,"Luzerna",SC,16
+4210050,"Macieira",SC,18
+4210100,"Mafra",SC,14
+4210209,"Major Gercino",SC,20
+4210308,"Major Vieira",SC,16
+4210407,"Maracajá",SC,12
+4210506,"Maravilha",SC,20
+4210555,"Marema",SC,20
+4210605,"Massaranduba",SC,18
+4210704,"Matos Costa",SC,18
+4210803,"Meleiro",SC,12
+4210852,"Mirim Doce",SC,16
+4210902,"Modelo",SC,20
+4211009,"Mondaí",SC,22
+4211058,"Monte Carlo",SC,16
+4211108,"Monte Castelo",SC,16
+4211207,"Morro da Fumaça",SC,14
+4211256,"Morro Grande",SC,14
+4211306,"Navegantes",SC,16
+4211405,"Nova Erechim",SC,20
+4211454,"Nova Itaberaba",SC,20
+4211504,"Nova Trento",SC,20
+4211603,"Nova Veneza",SC,14
+4211652,"Novo Horizonte",SC,20
+4211702,"Orleans",SC,14
+4211751,"Otacílio Costa",SC,14
+4211801,"Ouro",SC,16
+4211850,"Ouro Verde",SC,18
+4211876,"Paial",SC,18
+4211892,"Painel",SC,14
+4211900,"Palhoça",SC,18
+4212007,"Palma Sola",SC,22
+4212056,"Palmeira",SC,14
+4212106,"Palmitos",SC,18
+4212205,"Papanduva",SC,16
+4212239,"Paraíso",SC,20
+4212254,"Passo de Torres",SC,14
+4212270,"Passos Maia",SC,18
+4212304,"Paulo Lopes",SC,16
+4212403,"Pedras Grandes",SC,16
+4212502,"Penha",SC,16
+4212601,"Peritiba",SC,16
+4212650,"Pescaria Brava",SC,14
+4212700,"Petrolândia",SC,14
+4212809,"Balneário Piçarras",SC,16
+4212908,"Pinhalzinho",SC,20
+4213005,"Pinheiro Preto",SC,16
+4213104,"Piratuba",SC,16
+4213153,"Planalto Alegre",SC,18
+4213203,"Pomerode",SC,18
+4213302,"Ponte Alta",SC,16
+4213351,"Ponte Alta do Norte",SC,18
+4213401,"Ponte Serrada",SC,18
+4213500,"Porto Belo",SC,18
+4213609,"Porto União",SC,16
+4213708,"Pouso Redondo",SC,16
+4213807,"Praia Grande",SC,14
+4213906,"Presidente Castello Branco",SC,18
+4214003,"Presidente Getúlio",SC,16
+4214102,"Presidente Nereu",SC,18
+4214151,"Princesa",SC,20
+4214201,"Quilombo",SC,20
+4214300,"Rancho Queimado",SC,18
+4214409,"Rio das Antas",SC,18
+4214508,"Rio do Campo",SC,16
+4214607,"Rio do Oeste",SC,16
+4214706,"Rio dos Cedros",SC,18
+4214805,"Rio do Sul",SC,16
+4214904,"Rio Fortuna",SC,16
+4215000,"Rio Negrinho",SC,14
+4215059,"Rio Rufino",SC,12
+4215075,"Riqueza",SC,20
+4215109,"Rodeio",SC,18
+4215208,"Romelândia",SC,20
+4215307,"Salete",SC,16
+4215356,"Saltinho",SC,18
+4215406,"Salto Veloso",SC,18
+4215455,"Sangão",SC,14
+4215505,"Santa Cecília",SC,18
+4215554,"Santa Helena",SC,22
+4215604,"Santa Rosa de Lima",SC,16
+4215653,"Santa Rosa do Sul",SC,14
+4215679,"Santa Terezinha",SC,16
+4215687,"Santa Terezinha do Progresso",SC,20
+4215695,"Santiago do Sul",SC,20
+4215703,"Santo Amaro da Imperatriz",SC,18
+4215752,"São Bernardino",SC,18
+4215802,"São Bento do Sul",SC,18
+4215901,"São Bonifácio",SC,16
+4216008,"São Carlos",SC,18
+4216057,"São Cristóvão do Sul",SC,18
+4216107,"São Domingos",SC,18
+4216206,"São Francisco do Sul",SC,16
+4216255,"São João do Oeste",SC,24
+4216305,"São João Batista",SC,20
+4216354,"São João do Itaperiú",SC,16
+4216404,"São João do Sul",SC,14
+4216503,"São Joaquim",SC,12
+4216602,"São José",SC,18
+4216701,"São José do Cedro",SC,22
+4216800,"São José do Cerrito",SC,16
+4216909,"São Lourenço do Oeste",SC,20
+4217006,"São Ludgero",SC,16
+4217105,"São Martinho",SC,16
+4217154,"São Miguel da Boa Vista",SC,20
+4217204,"São Miguel do Oeste",SC,20
+4217253,"São Pedro de Alcântara",SC,18
+4217303,"Saudades",SC,18
+4217402,"Schroeder",SC,18
+4217501,"Seara",SC,18
+4217550,"Serra Alta",SC,18
+4217600,"Siderópolis",SC,14
+4217709,"Sombrio",SC,14
+4217758,"Sul Brasil",SC,20
+4217808,"Taió",SC,16
+4217907,"Tangará",SC,16
+4217956,"Tigrinhos",SC,20
+4218004,"Tijucas",SC,18
+4218103,"Timbé do Sul",SC,14
+4218202,"Timbó",SC,18
+4218251,"Timbó Grande",SC,16
+4218301,"Três Barras",SC,14
+4218350,"Treviso",SC,14
+4218400,"Treze de Maio",SC,14
+4218509,"Treze Tílias",SC,18
+4218608,"Trombudo Central",SC,14
+4218707,"Tubarão",SC,16
+4218756,"Tunápolis",SC,24
+4218806,"Turvo",SC,14
+4218855,"União do Oeste",SC,20
+4218905,"Urubici",SC,14
+4218954,"Urupema",SC,12
+4219002,"Urussanga",SC,14
+4219101,"Vargeão",SC,18
+4219150,"Vargem",SC,14
+4219176,"Vargem Bonita",SC,18
+4219200,"Vidal Ramos",SC,18
+4219309,"Videira",SC,18
+4219358,"Vitor Meireles",SC,16
+4219408,"Witmarsum",SC,16
+4219507,"Xanxerê",SC,18
+4219606,"Xavantina",SC,18
+4219705,"Xaxim",SC,20
+4219853,"Zortéa",SC,14
+4220000,"Balneário Rincão",SC,12
+4300001,"Lagoa Mirim",RS,12
+4300002,"Lagoa dos Patos",RS,14
+4300034,"Aceguá",RS,16
+4300059,"Água Santa",RS,18
+4300109,"Agudo",RS,18
+4300208,"Ajuricaba",RS,24
+4300307,"Alecrim",RS,24
+4300406,"Alegrete",RS,26
+4300455,"Alegria",RS,20
+4300471,"Almirante Tamandaré do Sul",RS,16
+4300505,"Alpestre",RS,18
+4300554,"Alto Alegre",RS,16
+4300570,"Alto Feliz",RS,14
+4300604,"Alvorada",RS,12
+4300638,"Amaral Ferrador",RS,16
+4300646,"Ametista do Sul",RS,18
+4300661,"André da Rocha",RS,14
+4300703,"Anta Gorda",RS,18
+4300802,"Antônio Prado",RS,14
+4300851,"Arambaré",RS,12
+4300877,"Araricá",RS,14
+4300901,"Aratiba",RS,18
+4301008,"Arroio do Meio",RS,20
+4301057,"Arroio do Sal",RS,14
+4301073,"Arroio do Padre",RS,14
+4301107,"Arroio dos Ratos",RS,12
+4301206,"Arroio do Tigre",RS,18
+4301305,"Arroio Grande",RS,16
+4301404,"Arvorezinha",RS,18
+4301503,"Augusto Pestana",RS,26
+4301552,"Áurea",RS,18
+4301602,"Bagé",RS,18
+4301636,"Balneário Pinhal",RS,10
+4301651,"Barão",RS,14
+4301701,"Barão de Cotegipe",RS,18
+4301750,"Barão do Triunfo",RS,14
+4301800,"Barracão",RS,14
+4301859,"Barra do Guarita",RS,22
+4301875,"Barra do Quaraí",RS,24
+4301909,"Barra do Ribeiro",RS,14
+4301925,"Barra do Rio Azul",RS,18
+4301958,"Barra Funda",RS,16
+4302006,"Barros Cassal",RS,16
+4302055,"Benjamin Constant do Sul",RS,16
+4302105,"Bento Gonçalves",RS,16
+4302154,"Boa Vista das Missões",RS,18
+4302204,"Boa Vista do Buricá",RS,20
+4302220,"Boa Vista do Cadeado",RS,26
+4302238,"Boa Vista do Incra",RS,22
+4302253,"Boa Vista do Sul",RS,16
+4302303,"Bom Jesus",RS,12
+4302352,"Bom Princípio",RS,14
+4302378,"Bom Progresso",RS,20
+4302402,"Bom Retiro do Sul",RS,18
+4302451,"Boqueirão do Leão",RS,18
+4302501,"Bossoroca",RS,28
+4302584,"Bozano",RS,26
+4302600,"Braga",RS,20
+4302659,"Brochier",RS,14
+4302709,"Butiá",RS,16
+4302808,"Caçapava do Sul",RS,20
+4302907,"Cacequi",RS,22
+4303004,"Cachoeira do Sul",RS,18
+4303103,"Cachoeirinha",RS,12
+4303202,"Cacique Doble",RS,14
+4303301,"Caibaté",RS,24
+4303400,"Caiçara",RS,22
+4303509,"Camaquã",RS,14
+4303558,"Camargo",RS,18
+4303608,"Cambará do Sul",RS,14
+4303673,"Campestre da Serra",RS,12
+4303707,"Campina das Missões",RS,24
+4303806,"Campinas do Sul",RS,16
+4303905,"Campo Bom",RS,14
+4304002,"Campo Novo",RS,20
+4304101,"Campos Borges",RS,18
+4304200,"Candelária",RS,16
+4304309,"Cândido Godói",RS,24
+4304358,"Candiota",RS,14
+4304408,"Canela",RS,12
+4304507,"Canguçu",RS,16
+4304606,"Canoas",RS,14
+4304614,"Canudos do Vale",RS,20
+4304622,"Capão Bonito do Sul",RS,12
+4304630,"Capão da Canoa",RS,14
+4304655,"Capão do Cipó",RS,28
+4304663,"Capão do Leão",RS,12
+4304671,"Capivari do Sul",RS,10
+4304689,"Capela de Santana",RS,14
+4304697,"Capitão",RS,20
+4304705,"Carazinho",RS,18
+4304713,"Caraá",RS,14
+4304804,"Carlos Barbosa",RS,14
+4304853,"Carlos Gomes",RS,16
+4304903,"Casca",RS,20
+4304952,"Caseiros",RS,16
+4305009,"Catuípe",RS,24
+4305108,"Caxias do Sul",RS,14
+4305116,"Centenário",RS,18
+4305124,"Cerrito",RS,14
+4305132,"Cerro Branco",RS,16
+4305157,"Cerro Grande",RS,16
+4305173,"Cerro Grande do Sul",RS,12
+4305207,"Cerro Largo",RS,26
+4305306,"Chapada",RS,16
+4305355,"Charqueadas",RS,14
+4305371,"Charrua",RS,18
+4305405,"Chiapetta",RS,22
+4305439,"Chuí",RS,10
+4305447,"Chuvisca",RS,14
+4305454,"Cidreira",RS,12
+4305504,"Ciríaco",RS,18
+4305587,"Colinas",RS,20
+4305603,"Colorado",RS,16
+4305702,"Condor",RS,22
+4305801,"Constantina",RS,16
+4305835,"Coqueiro Baixo",RS,20
+4305850,"Coqueiros do Sul",RS,18
+4305871,"Coronel Barros",RS,26
+4305900,"Coronel Bicaco",RS,20
+4305934,"Coronel Pilar",RS,16
+4305959,"Cotiporã",RS,16
+4305975,"Coxilha",RS,18
+4306007,"Crissiumal",RS,20
+4306056,"Cristal",RS,14
+4306072,"Cristal do Sul",RS,18
+4306106,"Cruz Alta",RS,26
+4306130,"Cruzaltense",RS,16
+4306205,"Cruzeiro do Sul",RS,20
+4306304,"David Canabarro",RS,16
+4306320,"Derrubadas",RS,22
+4306353,"Dezesseis de Novembro",RS,24
+4306379,"Dilermando de Aguiar",RS,20
+4306403,"Dois Irmãos",RS,14
+4306429,"Dois Irmãos das Missões",RS,18
+4306452,"Dois Lajeados",RS,18
+4306502,"Dom Feliciano",RS,18
+4306551,"Dom Pedro de Alcântara",RS,14
+4306601,"Dom Pedrito",RS,18
+4306700,"Dona Francisca",RS,18
+4306734,"Doutor Maurício Cardoso",RS,22
+4306759,"Doutor Ricardo",RS,18
+4306767,"Eldorado do Sul",RS,14
+4306809,"Encantado",RS,18
+4306908,"Encruzilhada do Sul",RS,18
+4306924,"Engenho Velho",RS,16
+4306932,"Entre-Ijuís",RS,26
+4306957,"Entre Rios do Sul",RS,16
+4306973,"Erebango",RS,18
+4307005,"Erechim",RS,18
+4307054,"Ernestina",RS,18
+4307104,"Herval",RS,18
+4307203,"Erval Grande",RS,18
+4307302,"Erval Seco",RS,20
+4307401,"Esmeralda",RS,12
+4307450,"Esperança do Sul",RS,22
+4307500,"Espumoso",RS,16
+4307559,"Estação",RS,18
+4307609,"Estância Velha",RS,14
+4307708,"Esteio",RS,14
+4307807,"Estrela",RS,20
+4307815,"Estrela Velha",RS,20
+4307831,"Eugênio de Castro",RS,26
+4307864,"Fagundes Varela",RS,18
+4307906,"Farroupilha",RS,14
+4308003,"Faxinal do Soturno",RS,20
+4308052,"Faxinalzinho",RS,16
+4308078,"Fazenda Vilanova",RS,18
+4308102,"Feliz",RS,14
+4308201,"Flores da Cunha",RS,14
+4308250,"Floriano Peixoto",RS,18
+4308300,"Fontoura Xavier",RS,18
+4308409,"Formigueiro",RS,18
+4308433,"Forquetinha",RS,20
+4308458,"Fortaleza dos Valos",RS,22
+4308508,"Frederico Westphalen",RS,20
+4308607,"Garibaldi",RS,16
+4308656,"Garruchos",RS,30
+4308706,"Gaurama",RS,18
+4308805,"General Câmara",RS,16
+4308854,"Gentil",RS,18
+4308904,"Getúlio Vargas",RS,18
+4309001,"Giruá",RS,24
+4309050,"Glorinha",RS,14
+4309100,"Gramado",RS,14
+4309126,"Gramado dos Loureiros",RS,16
+4309159,"Gramado Xavier",RS,16
+4309209,"Gravataí",RS,14
+4309258,"Guabiju",RS,16
+4309308,"Guaíba",RS,14
+4309407,"Guaporé",RS,18
+4309506,"Guarani das Missões",RS,24
+4309555,"Harmonia",RS,14
+4309571,"Herveiras",RS,16
+4309605,"Horizontina",RS,22
+4309654,"Hulha Negra",RS,16
+4309704,"Humaitá",RS,20
+4309753,"Ibarama",RS,18
+4309803,"Ibiaçá",RS,16
+4309902,"Ibiraiaras",RS,14
+4309951,"Ibirapuitã",RS,16
+4310009,"Ibirubá",RS,20
+4310108,"Igrejinha",RS,14
+4310207,"Ijuí",RS,26
+4310306,"Ilópolis",RS,18
+4310330,"Imbé",RS,14
+4310363,"Imigrante",RS,18
+4310405,"Independência",RS,22
+4310413,"Inhacorá",RS,22
+4310439,"Ipê",RS,14
+4310462,"Ipiranga do Sul",RS,18
+4310504,"Iraí",RS,18
+4310538,"Itaara",RS,22
+4310553,"Itacurubi",RS,28
+4310579,"Itapuca",RS,18
+4310603,"Itaqui",RS,26
+4310652,"Itati",RS,14
+4310702,"Itatiba do Sul",RS,18
+4310751,"Ivorá",RS,22
+4310801,"Ivoti",RS,14
+4310850,"Jaboticaba",RS,16
+4310876,"Jacuizinho",RS,18
+4310900,"Jacutinga",RS,16
+4311007,"Jaguarão",RS,18
+4311106,"Jaguari",RS,24
+4311122,"Jaquirana",RS,12
+4311130,"Jari",RS,26
+4311155,"Jóia",RS,26
+4311205,"Júlio de Castilhos",RS,24
+4311239,"Lagoa Bonita do Sul",RS,16
+4311254,"Lagoão",RS,18
+4311270,"Lagoa dos Três Cantos",RS,16
+4311304,"Lagoa Vermelha",RS,14
+4311403,"Lajeado",RS,20
+4311429,"Lajeado do Bugre",RS,16
+4311502,"Lavras do Sul",RS,20
+4311601,"Liberato Salzano",RS,16
+4311627,"Lindolfo Collor",RS,14
+4311643,"Linha Nova",RS,14
+4311700,"Machadinho",RS,14
+4311718,"Maçambará",RS,26
+4311734,"Mampituba",RS,14
+4311759,"Manoel Viana",RS,22
+4311775,"Maquiné",RS,14
+4311791,"Maratá",RS,14
+4311809,"Marau",RS,18
+4311908,"Marcelino Ramos",RS,18
+4311981,"Mariana Pimentel",RS,14
+4312005,"Mariano Moro",RS,18
+4312054,"Marques de Souza",RS,20
+4312104,"Mata",RS,24
+4312138,"Mato Castelhano",RS,18
+4312153,"Mato Leitão",RS,20
+4312179,"Mato Queimado",RS,24
+4312203,"Maximiliano de Almeida",RS,16
+4312252,"Minas do Leão",RS,16
+4312302,"Miraguaí",RS,20
+4312351,"Montauri",RS,20
+4312377,"Monte Alegre dos Campos",RS,12
+4312385,"Monte Belo do Sul",RS,16
+4312401,"Montenegro",RS,14
+4312427,"Mormaço",RS,14
+4312443,"Morrinhos do Sul",RS,14
+4312450,"Morro Redondo",RS,14
+4312476,"Morro Reuter",RS,14
+4312500,"Mostardas",RS,12
+4312609,"Muçum",RS,18
+4312617,"Muitos Capões",RS,12
+4312625,"Muliterno",RS,16
+4312658,"Não-Me-Toque",RS,16
+4312674,"Nicolau Vergueiro",RS,16
+4312708,"Nonoai",RS,18
+4312757,"Nova Alvorada",RS,20
+4312807,"Nova Araçá",RS,18
+4312906,"Nova Bassano",RS,18
+4312955,"Nova Boa Vista",RS,16
+4313003,"Nova Bréscia",RS,20
+4313011,"Nova Candelária",RS,20
+4313037,"Nova Esperança do Sul",RS,26
+4313060,"Nova Hartz",RS,16
+4313086,"Nova Pádua",RS,14
+4313102,"Nova Palma",RS,20
+4313201,"Nova Petrópolis",RS,14
+4313300,"Nova Prata",RS,16
+4313334,"Nova Ramada",RS,22
+4313359,"Nova Roma do Sul",RS,14
+4313375,"Nova Santa Rita",RS,14
+4313391,"Novo Cabrais",RS,16
+4313409,"Novo Hamburgo",RS,14
+4313425,"Novo Machado",RS,24
+4313441,"Novo Tiradentes",RS,16
+4313466,"Novo Xingu",RS,16
+4313490,"Novo Barreiro",RS,16
+4313508,"Osório",RS,14
+4313607,"Paim Filho",RS,16
+4313656,"Palmares do Sul",RS,10
+4313706,"Palmeira das Missões",RS,20
+4313805,"Palmitinho",RS,22
+4313904,"Panambi",RS,24
+4313953,"Pantano Grande",RS,18
+4314001,"Paraí",RS,18
+4314027,"Paraíso do Sul",RS,16
+4314035,"Pareci Novo",RS,14
+4314050,"Parobé",RS,16
+4314068,"Passa Sete",RS,16
+4314076,"Passo do Sobrado",RS,16
+4314100,"Passo Fundo",RS,18
+4314134,"Paulo Bento",RS,16
+4314159,"Paverama",RS,16
+4314175,"Pedras Altas",RS,16
+4314209,"Pedro Osório",RS,16
+4314308,"Pejuçara",RS,24
+4314407,"Pelotas",RS,14
+4314423,"Picada Café",RS,14
+4314456,"Pinhal",RS,16
+4314464,"Pinhal da Serra",RS,12
+4314472,"Pinhal Grande",RS,20
+4314498,"Pinheirinho do Vale",RS,22
+4314506,"Pinheiro Machado",RS,16
+4314548,"Pinto Bandeira",RS,14
+4314555,"Pirapó",RS,26
+4314605,"Piratini",RS,16
+4314704,"Planalto",RS,18
+4314753,"Poço das Antas",RS,16
+4314779,"Pontão",RS,18
+4314787,"Ponte Preta",RS,16
+4314803,"Portão",RS,14
+4314902,"Porto Alegre",RS,14
+4315008,"Porto Lucena",RS,24
+4315057,"Porto Mauá",RS,24
+4315073,"Porto Vera Cruz",RS,24
+4315107,"Porto Xavier",RS,24
+4315131,"Pouso Novo",RS,18
+4315149,"Presidente Lucena",RS,14
+4315156,"Progresso",RS,20
+4315172,"Protásio Alves",RS,14
+4315206,"Putinga",RS,18
+4315305,"Quaraí",RS,24
+4315313,"Quatro Irmãos",RS,18
+4315321,"Quevedos",RS,22
+4315354,"Quinze de Novembro",RS,20
+4315404,"Redentora",RS,20
+4315453,"Relvado",RS,18
+4315503,"Restinga Sêca",RS,18
+4315552,"Rio dos Índios",RS,18
+4315602,"Rio Grande",RS,12
+4315701,"Rio Pardo",RS,18
+4315750,"Riozinho",RS,14
+4315800,"Roca Sales",RS,18
+4315909,"Rodeio Bonito",RS,16
+4315958,"Rolador",RS,26
+4316006,"Rolante",RS,14
+4316105,"Ronda Alta",RS,16
+4316204,"Rondinha",RS,16
+4316303,"Roque Gonzales",RS,26
+4316402,"Rosário do Sul",RS,22
+4316428,"Sagrada Família",RS,16
+4316436,"Saldanha Marinho",RS,16
+4316451,"Salto do Jacuí",RS,22
+4316477,"Salvador das Missões",RS,26
+4316501,"Salvador do Sul",RS,14
+4316600,"Sananduva",RS,16
+4316709,"Santa Bárbara do Sul",RS,20
+4316733,"Santa Cecília do Sul",RS,16
+4316758,"Santa Clara do Sul",RS,20
+4316808,"Santa Cruz do Sul",RS,18
+4316907,"Santa Maria",RS,22
+4316956,"Santa Maria do Herval",RS,14
+4316972,"Santa Margarida do Sul",RS,18
+4317004,"Santana da Boa Vista",RS,18
+4317103,"Sant'Ana do Livramento",RS,22
+4317202,"Santa Rosa",RS,24
+4317251,"Santa Tereza",RS,16
+4317301,"Santa Vitória do Palmar",RS,12
+4317400,"Santiago",RS,28
+4317509,"Santo Ângelo",RS,24
+4317558,"Santo Antônio do Palma",RS,18
+4317608,"Santo Antônio da Patrulha",RS,14
+4317707,"Santo Antônio das Missões",RS,28
+4317756,"Santo Antônio do Planalto",RS,18
+4317806,"Santo Augusto",RS,22
+4317905,"Santo Cristo",RS,24
+4317954,"Santo Expedito do Sul",RS,14
+4318002,"São Borja",RS,32
+4318051,"São Domingos do Sul",RS,18
+4318101,"São Francisco de Assis",RS,28
+4318200,"São Francisco de Paula",RS,14
+4318309,"São Gabriel",RS,20
+4318408,"São Jerônimo",RS,16
+4318424,"São João da Urtiga",RS,16
+4318432,"São João do Polêsine",RS,18
+4318440,"São Jorge",RS,16
+4318457,"São José das Missões",RS,16
+4318465,"São José do Herval",RS,18
+4318481,"São José do Hortêncio",RS,14
+4318499,"São José do Inhacorá",RS,20
+4318507,"São José do Norte",RS,12
+4318606,"São José do Ouro",RS,14
+4318614,"São José do Sul",RS,14
+4318622,"São José dos Ausentes",RS,14
+4318705,"São Leopoldo",RS,14
+4318804,"São Lourenço do Sul",RS,16
+4318903,"São Luiz Gonzaga",RS,26
+4319000,"São Marcos",RS,12
+4319109,"São Martinho",RS,20
+4319125,"São Martinho da Serra",RS,24
+4319158,"São Miguel das Missões",RS,26
+4319208,"São Nicolau",RS,26
+4319307,"São Paulo das Missões",RS,24
+4319356,"São Pedro da Serra",RS,14
+4319364,"São Pedro das Missões",RS,16
+4319372,"São Pedro do Butiá",RS,26
+4319406,"São Pedro do Sul",RS,22
+4319505,"São Sebastião do Caí",RS,14
+4319604,"São Sepé",RS,18
+4319703,"São Valentim",RS,16
+4319711,"São Valentim do Sul",RS,18
+4319737,"São Valério do Sul",RS,20
+4319752,"São Vendelino",RS,14
+4319802,"São Vicente do Sul",RS,22
+4319901,"Sapiranga",RS,14
+4320008,"Sapucaia do Sul",RS,14
+4320107,"Sarandi",RS,16
+4320206,"Seberi",RS,18
+4320230,"Sede Nova",RS,20
+4320263,"Segredo",RS,18
+4320305,"Selbach",RS,16
+4320321,"Senador Salgado Filho",RS,24
+4320354,"Sentinela do Sul",RS,12
+4320404,"Serafina Corrêa",RS,20
+4320453,"Sério",RS,20
+4320503,"Sertão",RS,18
+4320552,"Sertão Santana",RS,12
+4320578,"Sete de Setembro",RS,24
+4320602,"Severiano de Almeida",RS,18
+4320651,"Silveira Martins",RS,20
+4320677,"Sinimbu",RS,18
+4320701,"Sobradinho",RS,16
+4320800,"Soledade",RS,18
+4320859,"Tabaí",RS,16
+4320909,"Tapejara",RS,18
+4321006,"Tapera",RS,16
+4321105,"Tapes",RS,14
+4321204,"Taquara",RS,16
+4321303,"Taquari",RS,16
+4321329,"Taquaruçu do Sul",RS,20
+4321352,"Tavares",RS,12
+4321402,"Tenente Portela",RS,22
+4321436,"Terra de Areia",RS,14
+4321451,"Teutônia",RS,18
+4321469,"Tio Hugo",RS,16
+4321477,"Tiradentes do Sul",RS,20
+4321493,"Toropi",RS,24
+4321501,"Torres",RS,14
+4321600,"Tramandaí",RS,12
+4321626,"Travesseiro",RS,20
+4321634,"Três Arroios",RS,18
+4321667,"Três Cachoeiras",RS,14
+4321709,"Três Coroas",RS,14
+4321808,"Três de Maio",RS,22
+4321832,"Três Forquilhas",RS,14
+4321857,"Três Palmeiras",RS,16
+4321907,"Três Passos",RS,22
+4321956,"Trindade do Sul",RS,16
+4322004,"Triunfo",RS,14
+4322103,"Tucunduva",RS,24
+4322152,"Tunas",RS,18
+4322186,"Tupanci do Sul",RS,12
+4322202,"Tupanciretã",RS,26
+4322251,"Tupandi",RS,14
+4322301,"Tuparendi",RS,24
+4322327,"Turuçu",RS,14
+4322343,"Ubiretama",RS,24
+4322350,"União da Serra",RS,20
+4322376,"Unistalda",RS,28
+4322400,"Uruguaiana",RS,26
+4322509,"Vacaria",RS,12
+4322525,"Vale Verde",RS,16
+4322533,"Vale do Sol",RS,16
+4322541,"Vale Real",RS,14
+4322558,"Vanini",RS,16
+4322608,"Venâncio Aires",RS,20
+4322707,"Vera Cruz",RS,16
+4322806,"Veranópolis",RS,16
+4322855,"Vespasiano Corrêa",RS,18
+4322905,"Viadutos",RS,16
+4323002,"Viamão",RS,12
+4323101,"Vicente Dutra",RS,22
+4323200,"Victor Graeff",RS,16
+4323309,"Vila Flores",RS,16
+4323358,"Vila Lângaro",RS,18
+4323408,"Vila Maria",RS,20
+4323457,"Vila Nova do Sul",RS,18
+4323507,"Vista Alegre",RS,22
+4323606,"Vista Alegre do Prata",RS,18
+4323705,"Vista Gaúcha",RS,22
+4323754,"Vitória das Missões",RS,24
+4323770,"Westfália",RS,16
+4323804,"Xangri-lá",RS,14
+5000203,"Água Clara",MS,26
+5000252,"Alcinópolis",MS,24
+5000609,"Amambai",MS,24
+5000708,"Anastácio",MS,22
+5000807,"Anaurilândia",MS,24
+5000856,"Angélica",MS,22
+5000906,"Antônio João",MS,24
+5001003,"Aparecida do Taboado",MS,18
+5001102,"Aquidauana",MS,24
+5001243,"Aral Moreira",MS,26
+5001508,"Bandeirantes",MS,20
+5001904,"Bataguassu",MS,24
+5002001,"Batayporã",MS,22
+5002100,"Bela Vista",MS,30
+5002159,"Bodoquena",MS,22
+5002209,"Bonito",MS,22
+5002308,"Brasilândia",MS,26
+5002407,"Caarapó",MS,24
+5002605,"Camapuã",MS,22
+5002704,"Campo Grande",MS,30
+5002803,"Caracol",MS,26
+5002902,"Cassilândia",MS,20
+5002951,"Chapadão do Sul",MS,24
+5003108,"Corguinho",MS,18
+5003157,"Coronel Sapucaia",MS,24
+5003207,"Corumbá",MS,26
+5003256,"Costa Rica",MS,24
+5003306,"Coxim",MS,22
+5003454,"Deodápolis",MS,22
+5003488,"Dois Irmãos do Buriti",MS,20
+5003504,"Douradina",MS,20
+5003702,"Dourados",MS,24
+5003751,"Eldorado",MS,22
+5003801,"Fátima do Sul",MS,24
+5003900,"Figueirão",MS,24
+5004007,"Glória de Dourados",MS,22
+5004106,"Guia Lopes da Laguna",MS,22
+5004304,"Iguatemi",MS,24
+5004403,"Inocência",MS,20
+5004502,"Itaporã",MS,20
+5004601,"Itaquiraí",MS,24
+5004700,"Ivinhema",MS,24
+5004809,"Japorã",MS,24
+5004908,"Jaraguari",MS,24
+5005004,"Jardim",MS,22
+5005103,"Jateí",MS,22
+5005152,"Juti",MS,22
+5005202,"Ladário",MS,16
+5005251,"Laguna Carapã",MS,24
+5005400,"Maracaju",MS,24
+5005608,"Miranda",MS,20
+5005681,"Mundo Novo",MS,20
+5005707,"Naviraí",MS,24
+5005806,"Nioaque",MS,24
+5006002,"Nova Alvorada do Sul",MS,28
+5006200,"Nova Andradina",MS,26
+5006259,"Novo Horizonte do Sul",MS,22
+5006275,"Paraíso das Águas",MS,24
+5006309,"Paranaíba",MS,18
+5006358,"Paranhos",MS,22
+5006408,"Pedro Gomes",MS,24
+5006606,"Ponta Porã",MS,26
+5006903,"Porto Murtinho",MS,26
+5007109,"Ribas do Rio Pardo",MS,28
+5007208,"Rio Brilhante",MS,26
+5007307,"Rio Negro",MS,20
+5007406,"Rio Verde de Mato Grosso",MS,24
+5007505,"Rochedo",MS,20
+5007554,"Santa Rita do Pardo",MS,28
+5007695,"São Gabriel do Oeste",MS,22
+5007703,"Sete Quedas",MS,26
+5007802,"Selvíria",MS,20
+5007901,"Sidrolândia",MS,24
+5007935,"Sonora",MS,24
+5007950,"Tacuru",MS,24
+5007976,"Taquarussu",MS,22
+5008008,"Terenos",MS,20
+5008305,"Três Lagoas",MS,22
+5008404,"Vicentina",MS,22
+5100102,"Acorizal",MT,20
+5100201,"Água Boa",MT,18
+5100250,"Alta Floresta",MT,22
+5100300,"Alto Araguaia",MT,24
+5100359,"Alto Boa Vista",MT,20
+5100409,"Alto Garças",MT,20
+5100508,"Alto Paraguai",MT,18
+5100607,"Alto Taquari",MT,22
+5100805,"Apiacás",MT,24
+5101001,"Araguaiana",MT,14
+5101209,"Araguainha",MT,20
+5101258,"Araputanga",MT,20
+5101308,"Arenápolis",MT,18
+5101407,"Aripuanã",MT,22
+5101605,"Barão de Melgaço",MT,22
+5101704,"Barra do Bugres",MT,20
+5101803,"Barra do Garças",MT,16
+5101852,"Bom Jesus do Araguaia",MT,18
+5101902,"Brasnorte",MT,14
+5102504,"Cáceres",MT,20
+5102603,"Campinápolis",MT,18
+5102637,"Campo Novo do Parecis",MT,16
+5102678,"Campo Verde",MT,26
+5102686,"Campos de Júlio",MT,18
+5102694,"Canabrava do Norte",MT,16
+5102702,"Canarana",MT,18
+5102793,"Carlinda",MT,18
+5102850,"Castanheira",MT,14
+5103007,"Chapada dos Guimarães",MT,20
+5103056,"Cláudia",MT,18
+5103106,"Cocalinho",MT,14
+5103205,"Colíder",MT,16
+5103254,"Colniza",MT,18
+5103304,"Comodoro",MT,20
+5103353,"Confresa",MT,18
+5103361,"Conquista D'Oeste",MT,16
+5103379,"Cotriguaçu",MT,22
+5103403,"Cuiabá",MT,28
+5103437,"Curvelândia",MT,16
+5103452,"Denise",MT,18
+5103502,"Diamantino",MT,16
+5103601,"Dom Aquino",MT,20
+5103700,"Feliz Natal",MT,16
+5103809,"Figueirópolis D'Oeste",MT,18
+5103858,"Gaúcha do Norte",MT,18
+5103908,"General Carneiro",MT,20
+5103957,"Glória D'Oeste",MT,14
+5104104,"Guarantã do Norte",MT,22
+5104203,"Guiratinga",MT,18
+5104500,"Indiavaí",MT,20
+5104526,"Ipiranga do Norte",MT,18
+5104542,"Itanhangá",MT,18
+5104559,"Itaúba",MT,16
+5104609,"Itiquira",MT,24
+5104807,"Jaciara",MT,26
+5104906,"Jangada",MT,18
+5105002,"Jauru",MT,20
+5105101,"Juara",MT,14
+5105150,"Juína",MT,16
+5105176,"Juruena",MT,14
+5105200,"Juscimeira",MT,26
+5105234,"Lambari D'Oeste",MT,18
+5105259,"Lucas do Rio Verde",MT,16
+5105309,"Luciara",MT,18
+5105507,"Vila Bela da Santíssima Trindade",MT,18
+5105580,"Marcelândia",MT,20
+5105606,"Matupá",MT,22
+5105622,"Mirassol d'Oeste",MT,18
+5105903,"Nobres",MT,18
+5106000,"Nortelândia",MT,18
+5106109,"Nossa Senhora do Livramento",MT,22
+5106158,"Nova Bandeirantes",MT,20
+5106174,"Nova Nazaré",MT,14
+5106182,"Nova Lacerda",MT,18
+5106190,"Nova Santa Helena",MT,18
+5106208,"Nova Brasilândia",MT,16
+5106216,"Nova Canaã do Norte",MT,18
+5106224,"Nova Mutum",MT,18
+5106232,"Nova Olímpia",MT,18
+5106240,"Nova Ubiratã",MT,16
+5106257,"Nova Xavantina",MT,14
+5106265,"Novo Mundo",MT,26
+5106273,"Novo Horizonte do Norte",MT,12
+5106281,"Novo São Joaquim",MT,16
+5106299,"Paranaíta",MT,22
+5106307,"Paranatinga",MT,16
+5106315,"Novo Santo Antônio",MT,14
+5106372,"Pedra Preta",MT,18
+5106422,"Peixoto de Azevedo",MT,22
+5106455,"Planalto da Serra",MT,14
+5106505,"Poconé",MT,20
+5106653,"Pontal do Araguaia",MT,16
+5106703,"Ponte Branca",MT,20
+5106752,"Pontes e Lacerda",MT,20
+5106778,"Porto Alegre do Norte",MT,18
+5106802,"Porto dos Gaúchos",MT,18
+5106828,"Porto Esperidião",MT,16
+5106851,"Porto Estrela",MT,16
+5107008,"Poxoréu",MT,20
+5107040,"Primavera do Leste",MT,18
+5107065,"Querência",MT,22
+5107107,"São José dos Quatro Marcos",MT,18
+5107156,"Reserva do Cabaçal",MT,20
+5107180,"Ribeirão Cascalheira",MT,16
+5107198,"Ribeirãozinho",MT,18
+5107206,"Rio Branco",MT,20
+5107248,"Santa Carmem",MT,16
+5107263,"Santo Afonso",MT,18
+5107297,"São José do Povo",MT,16
+5107305,"São José do Rio Claro",MT,14
+5107354,"São José do Xingu",MT,24
+5107404,"São Pedro da Cipa",MT,20
+5107578,"Rondolândia",MT,14
+5107602,"Rondonópolis",MT,20
+5107701,"Rosário Oeste",MT,18
+5107743,"Santa Cruz do Xingu",MT,22
+5107750,"Salto do Céu",MT,20
+5107768,"Santa Rita do Trivelato",MT,18
+5107776,"Santa Terezinha",MT,22
+5107792,"Santo Antônio do Leste",MT,16
+5107800,"Santo Antônio de Leverger",MT,28
+5107859,"São Félix do Araguaia",MT,22
+5107875,"Sapezal",MT,16
+5107883,"Serra Nova Dourada",MT,14
+5107909,"Sinop",MT,18
+5107925,"Sorriso",MT,18
+5107941,"Tabaporã",MT,16
+5107958,"Tangará da Serra",MT,20
+5108006,"Tapurah",MT,18
+5108055,"Terra Nova do Norte",MT,18
+5108105,"Tesouro",MT,20
+5108204,"Torixoréu",MT,18
+5108303,"União do Sul",MT,16
+5108352,"Vale de São Domingos",MT,20
+5108402,"Várzea Grande",MT,22
+5108501,"Vera",MT,18
+5108600,"Vila Rica",MT,22
+5108808,"Nova Guarita",MT,16
+5108857,"Nova Marilândia",MT,18
+5108907,"Nova Maringá",MT,16
+5108956,"Nova Monte Verde",MT,16
+5200050,"Abadia de Goiás",GO,14
+5200100,"Abadiânia",GO,16
+5200134,"Acreúna",GO,14
+5200159,"Adelândia",GO,16
+5200175,"Água Fria de Goiás",GO,16
+5200209,"Água Limpa",GO,18
+5200258,"Águas Lindas de Goiás",GO,14
+5200308,"Alexânia",GO,16
+5200506,"Aloândia",GO,12
+5200555,"Alto Horizonte",GO,16
+5200605,"Alto Paraíso de Goiás",GO,14
+5200803,"Alvorada do Norte",GO,18
+5200829,"Amaralina",GO,18
+5200852,"Americano do Brasil",GO,16
+5200902,"Amorinópolis",GO,14
+5201108,"Anápolis",GO,16
+5201207,"Anhanguera",GO,12
+5201306,"Anicuns",GO,18
+5201405,"Aparecida de Goiânia",GO,14
+5201454,"Aparecida do Rio Doce",GO,16
+5201504,"Aporé",GO,18
+5201603,"Araçu",GO,14
+5201702,"Aragarças",GO,16
+5201801,"Aragoiânia",GO,14
+5202155,"Araguapaz",GO,14
+5202353,"Arenópolis",GO,12
+5202502,"Aruanã",GO,12
+5202601,"Aurilândia",GO,14
+5202809,"Avelinópolis",GO,14
+5203104,"Baliza",GO,16
+5203203,"Barro Alto",GO,16
+5203302,"Bela Vista de Goiás",GO,14
+5203401,"Bom Jardim de Goiás",GO,14
+5203500,"Bom Jesus de Goiás",GO,14
+5203559,"Bonfinópolis",GO,16
+5203575,"Bonópolis",GO,16
+5203609,"Brazabrantes",GO,16
+5203807,"Britânia",GO,12
+5203906,"Buriti Alegre",GO,18
+5203939,"Buriti de Goiás",GO,12
+5203962,"Buritinópolis",GO,16
+5204003,"Cabeceiras",GO,12
+5204102,"Cachoeira Alta",GO,14
+5204201,"Cachoeira de Goiás",GO,14
+5204250,"Cachoeira Dourada",GO,14
+5204300,"Caçu",GO,16
+5204409,"Caiapônia",GO,18
+5204508,"Caldas Novas",GO,16
+5204557,"Caldazinha",GO,14
+5204607,"Campestre de Goiás",GO,14
+5204656,"Campinaçu",GO,16
+5204706,"Campinorte",GO,16
+5204805,"Campo Alegre de Goiás",GO,14
+5204854,"Campo Limpo de Goiás",GO,16
+5204904,"Campos Belos",GO,14
+5204953,"Campos Verdes",GO,14
+5205000,"Carmo do Rio Verde",GO,22
+5205059,"Castelândia",GO,14
+5205109,"Catalão",GO,14
+5205208,"Caturaí",GO,14
+5205307,"Cavalcante",GO,18
+5205406,"Ceres",GO,20
+5205455,"Cezarina",GO,14
+5205471,"Chapadão do Céu",GO,22
+5205497,"Cidade Ocidental",GO,16
+5205513,"Cocalzinho de Goiás",GO,16
+5205521,"Colinas do Sul",GO,16
+5205703,"Córrego do Ouro",GO,14
+5205802,"Corumbá de Goiás",GO,16
+5205901,"Corumbaíba",GO,16
+5206206,"Cristalina",GO,14
+5206305,"Cristianópolis",GO,14
+5206404,"Crixás",GO,18
+5206503,"Cromínia",GO,14
+5206602,"Cumari",GO,12
+5206701,"Damianópolis",GO,16
+5206800,"Damolândia",GO,16
+5206909,"Davinópolis",GO,14
+5207105,"Diorama",GO,14
+5207253,"Doverlândia",GO,20
+5207352,"Edealina",GO,16
+5207402,"Edéia",GO,16
+5207501,"Estrela do Norte",GO,18
+5207535,"Faina",GO,16
+5207600,"Fazenda Nova",GO,14
+5207808,"Firminópolis",GO,16
+5207907,"Flores de Goiás",GO,16
+5208004,"Formosa",GO,14
+5208103,"Formoso",GO,16
+5208152,"Gameleira de Goiás",GO,16
+5208301,"Divinópolis de Goiás",GO,16
+5208400,"Goianápolis",GO,16
+5208509,"Goiandira",GO,14
+5208608,"Goianésia",GO,18
+5208707,"Goiânia",GO,16
+5208806,"Goianira",GO,14
+5208905,"Goiás",GO,16
+5209101,"Goiatuba",GO,16
+5209150,"Gouvelândia",GO,14
+5209200,"Guapó",GO,14
+5209291,"Guaraíta",GO,16
+5209408,"Guarani de Goiás",GO,18
+5209457,"Guarinos",GO,16
+5209606,"Heitoraí",GO,16
+5209705,"Hidrolândia",GO,14
+5209804,"Hidrolina",GO,14
+5209903,"Iaciara",GO,18
+5209937,"Inaciolândia",GO,12
+5209952,"Indiara",GO,14
+5210000,"Inhumas",GO,16
+5210109,"Ipameri",GO,16
+5210158,"Ipiranga de Goiás",GO,18
+5210208,"Iporá",GO,14
+5210307,"Israelândia",GO,14
+5210406,"Itaberaí",GO,14
+5210562,"Itaguari",GO,14
+5210604,"Itaguaru",GO,16
+5210802,"Itajá",GO,16
+5210901,"Itapaci",GO,16
+5211008,"Itapirapuã",GO,14
+5211206,"Itapuranga",GO,18
+5211305,"Itarumã",GO,16
+5211404,"Itauçu",GO,16
+5211503,"Itumbiara",GO,16
+5211602,"Ivolândia",GO,14
+5211701,"Jandaia",GO,14
+5211800,"Jaraguá",GO,20
+5211909,"Jataí",GO,18
+5212006,"Jaupaci",GO,14
+5212055,"Jesúpolis",GO,16
+5212105,"Joviânia",GO,14
+5212204,"Jussara",GO,12
+5212253,"Lagoa Santa",GO,16
+5212303,"Leopoldo de Bulhões",GO,16
+5212501,"Luziânia",GO,16
+5212600,"Mairipotaba",GO,14
+5212709,"Mambaí",GO,16
+5212808,"Mara Rosa",GO,18
+5212907,"Marzagão",GO,16
+5212956,"Matrinchã",GO,14
+5213004,"Maurilândia",GO,14
+5213053,"Mimoso de Goiás",GO,16
+5213087,"Minaçu",GO,18
+5213103,"Mineiros",GO,22
+5213400,"Moiporá",GO,14
+5213509,"Monte Alegre de Goiás",GO,14
+5213707,"Montes Claros de Goiás",GO,12
+5213756,"Montividiu",GO,16
+5213772,"Montividiu do Norte",GO,20
+5213806,"Morrinhos",GO,18
+5213855,"Morro Agudo de Goiás",GO,16
+5213905,"Mossâmedes",GO,16
+5214002,"Mozarlândia",GO,14
+5214051,"Mundo Novo",GO,14
+5214101,"Mutunópolis",GO,18
+5214408,"Nazário",GO,16
+5214507,"Nerópolis",GO,16
+5214606,"Niquelândia",GO,18
+5214705,"Nova América",GO,16
+5214804,"Nova Aurora",GO,14
+5214838,"Nova Crixás",GO,16
+5214861,"Nova Glória",GO,16
+5214879,"Nova Iguaçu de Goiás",GO,14
+5214903,"Nova Roma",GO,12
+5215009,"Nova Veneza",GO,16
+5215207,"Novo Brasil",GO,12
+5215231,"Novo Gama",GO,16
+5215256,"Novo Planalto",GO,18
+5215306,"Orizona",GO,14
+5215405,"Ouro Verde de Goiás",GO,16
+5215504,"Ouvidor",GO,14
+5215603,"Padre Bernardo",GO,16
+5215652,"Palestina de Goiás",GO,14
+5215702,"Palmeiras de Goiás",GO,16
+5215801,"Palmelo",GO,12
+5215900,"Palminópolis",GO,16
+5216007,"Panamá",GO,14
+5216304,"Paranaiguara",GO,16
+5216403,"Paraúna",GO,14
+5216452,"Perolândia",GO,18
+5216809,"Petrolina de Goiás",GO,18
+5216908,"Pilar de Goiás",GO,16
+5217104,"Piracanjuba",GO,14
+5217203,"Piranhas",GO,14
+5217302,"Pirenópolis",GO,18
+5217401,"Pires do Rio",GO,14
+5217609,"Planaltina",GO,14
+5217708,"Pontalina",GO,16
+5218003,"Porangatu",GO,20
+5218052,"Porteirão",GO,16
+5218102,"Portelândia",GO,16
+5218300,"Posse",GO,18
+5218391,"Professor Jamil",GO,14
+5218508,"Quirinópolis",GO,16
+5218607,"Rialma",GO,22
+5218706,"Rianápolis",GO,22
+5218789,"Rio Quente",GO,16
+5218805,"Rio Verde",GO,18
+5218904,"Rubiataba",GO,18
+5219001,"Sanclerlândia",GO,14
+5219100,"Santa Bárbara de Goiás",GO,14
+5219209,"Santa Cruz de Goiás",GO,14
+5219258,"Santa Fé de Goiás",GO,12
+5219308,"Santa Helena de Goiás",GO,14
+5219357,"Santa Isabel",GO,20
+5219407,"Santa Rita do Araguaia",GO,20
+5219456,"Santa Rita do Novo Destino",GO,16
+5219506,"Santa Rosa de Goiás",GO,14
+5219605,"Santa Tereza de Goiás",GO,18
+5219704,"Santa Terezinha de Goiás",GO,16
+5219712,"Santo Antônio da Barra",GO,12
+5219738,"Santo Antônio de Goiás",GO,16
+5219753,"Santo Antônio do Descoberto",GO,16
+5219803,"São Domingos",GO,16
+5219902,"São Francisco de Goiás",GO,18
+5220009,"São João d'Aliança",GO,14
+5220058,"São João da Paraúna",GO,14
+5220108,"São Luís de Montes Belos",GO,16
+5220157,"São Luiz do Norte",GO,14
+5220207,"São Miguel do Araguaia",GO,18
+5220264,"São Miguel do Passa Quatro",GO,14
+5220280,"São Patrício",GO,20
+5220405,"São Simão",GO,14
+5220454,"Senador Canedo",GO,14
+5220504,"Serranópolis",GO,20
+5220603,"Silvânia",GO,16
+5220686,"Simolândia",GO,18
+5220702,"Sítio d'Abadia",GO,16
+5221007,"Taquaral de Goiás",GO,14
+5221080,"Teresina de Goiás",GO,10
+5221197,"Terezópolis de Goiás",GO,16
+5221304,"Três Ranchos",GO,12
+5221403,"Trindade",GO,14
+5221452,"Trombas",GO,18
+5221502,"Turvânia",GO,18
+5221551,"Turvelândia",GO,16
+5221577,"Uirapuru",GO,14
+5221601,"Uruaçu",GO,16
+5221700,"Uruana",GO,22
+5221809,"Urutaí",GO,12
+5221858,"Valparaíso de Goiás",GO,16
+5221908,"Varjão",GO,14
+5222005,"Vianópolis",GO,14
+5222054,"Vicentinópolis",GO,16
+5222203,"Vila Boa",GO,14
+5222302,"Vila Propício",GO,18
+5300108,"Brasília",DF,16
